@@ -1,26 +1,26 @@
- 531099 com
-  90409 net
-  50200 info
-  42229 de
-  39361 org
-  25105 nl
-  21215 fr
-  16579 uk
+ 531129 com
+  90413 net
+  50204 info
+  42228 de
+  39366 org
+  25100 nl
+  21216 fr
+  16581 uk
   11028 eu
    9360 in
    8459 co
-   7983 xxx
+   7986 xxx
    7641 it
-   6792 ch
+   6793 ch
    6539 es
    5989 be
-   5123 au
+   5124 au
    4969 ca
    4855 us
    4098 dk
-   4022 at
+   4021 at
    3482 se
-   3438 id
+   3437 id
    3343 mobi
    3336 hu
    2573 porn
@@ -31,11 +31,11 @@
    1801 ir
    1776 gr
    1767 nu
-   1563 vip
+   1564 vip
    1527 ar
    1335 il
-   1214 io
-    798 to
+   1216 io
+    799 to
     645 hk
     637 one
     614 nz
@@ -45,6 +45,6 @@
     539 bg
     532 sex
     527 tokyo
-    525 video
+    526 video
     523 buzz
     522 ee
