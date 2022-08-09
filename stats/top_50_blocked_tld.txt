@@ -1,26 +1,26 @@
- 531124 com
-  90456 net
-  50203 info
+ 531042 com
+  90439 net
+  50189 info
   42230 de
-  39369 org
-  25102 nl
+  39361 org
+  25101 nl
   21216 fr
-  16582 uk
-  11029 eu
+  16580 uk
+  11028 eu
    9357 in
-   8471 co
+   8467 co
    7986 xxx
-   7642 it
+   7640 it
    6793 ch
-   6540 es
+   6539 es
    5992 be
    5124 au
-   4972 ca
-   4860 us
+   4973 ca
+   4858 us
    4098 dk
    4021 at
    3482 se
-   3438 id
+   3437 id
    3343 mobi
    3336 hu
    2573 porn
