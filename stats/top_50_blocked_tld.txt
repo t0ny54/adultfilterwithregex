@@ -1,16 +1,16 @@
- 531042 com
-  90439 net
-  50189 info
+ 531040 com
+  90440 net
+  50182 info
   42230 de
-  39361 org
+  39360 org
   25101 nl
   21216 fr
   16580 uk
-  11028 eu
+  11029 eu
    9357 in
    8467 co
    7986 xxx
-   7640 it
+   7639 it
    6793 ch
    6539 es
    5992 be
@@ -28,11 +28,11 @@
    2321 ng
    2185 ae
    1844 cl
-   1801 ir
+   1802 ir
    1776 gr
    1767 nu
    1564 vip
-   1527 ar
+   1528 ar
    1335 il
    1214 io
     799 to
@@ -46,5 +46,5 @@
     532 sex
     527 tokyo
     526 video
-    523 buzz
+    524 buzz
     522 ee
