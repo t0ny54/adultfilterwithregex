@@ -1,24 +1,24 @@
- 531067 com
-  90435 net
-  50171 info
-  42237 de
-  39360 org
-  25101 nl
+ 530982 com
+  90428 net
+  50164 info
+  42229 de
+  39344 org
+  25098 nl
   21216 fr
   16581 uk
-  11031 eu
-   9354 in
-   8470 co
-   7986 xxx
-   7639 it
+  11034 eu
+   9353 in
+   8467 co
+   7985 xxx
+   7640 it
    6793 ch
    6540 es
    5992 be
-   5124 au
+   5123 au
    4973 ca
-   4857 us
+   4856 us
    4098 dk
-   4021 at
+   4022 at
    3482 se
    3437 id
    3343 mobi
@@ -30,14 +30,14 @@
    1844 cl
    1801 ir
    1776 gr
-   1768 nu
+   1767 nu
    1565 vip
    1527 ar
    1335 il
-   1216 io
-    799 to
+   1213 io
+    798 to
     645 hk
-    640 one
+    639 one
     614 nz
     592 ie
     562 men
