@@ -1,50 +1,50 @@
- 500227 com
-  81404 net
-  41270 de
-  35974 org
-  24349 nl
+ 499754 com
+  81257 net
+  41215 de
+  35950 org
+  24245 nl
   21112 info
-  20503 fr
-  15613 uk
-   9807 eu
-   8560 in
-   8382 co
-   7449 it
-   6606 ch
-   5980 es
-   5514 be
-   4980 xxx
-   4895 au
-   4740 ca
-   4190 us
-   3989 dk
-   3792 hu
-   3760 at
-   3473 mobi
-   3400 id
-   3150 se
+  20464 fr
+  15541 uk
+   9802 eu
+   8561 in
+   8381 co
+   7443 it
+   6597 ch
+   5982 es
+   5486 be
+   4976 xxx
+   4897 au
+   4743 ca
+   4089 us
+   3970 dk
+   3788 hu
+   3758 at
+   3399 id
+   3138 se
+   2686 mobi
    2238 sg
-   2226 ng
-   2217 porn
-   2179 ae
-   1727 gr
-   1727 cl
+   2220 ng
+   2219 porn
+   2177 ae
+   1728 cl
+   1720 gr
    1643 ir
    1449 ar
-   1411 vip
+   1414 vip
    1300 il
    1173 io
-    884 nu
-    752 to
+    881 nu
+    753 to
     618 one
-    610 hk
-    590 nz
-    574 ie
+    609 hk
+    591 nz
+    571 ie
     542 men
-    538 hr
+    536 hr
     528 bg
-    512 sex
     511 ee
+    509 sex
     500 video
     492 tokyo
     485 blog
