@@ -1,48 +1,48 @@
- 497038 com
-  81052 net
-  41179 de
-  35719 org
-  23740 nl
-  21010 info
-  20219 fr
-  15573 uk
-   9767 eu
-   8525 in
-   8135 co
-   7415 it
-   6596 ch
-   5956 es
-   5451 be
+ 497281 com
+  81097 net
+  41207 de
+  35729 org
+  23748 nl
+  21019 info
+  20224 fr
+  15581 uk
+   9770 eu
+   8529 in
+   8138 co
+   7416 it
+   6598 ch
+   5957 es
+   5452 be
    4885 au
    4723 ca
-   4214 xxx
-   4163 us
-   3979 dk
-   3779 hu
-   3755 at
-   3463 mobi
-   3396 id
-   3143 se
+   4216 xxx
+   4165 us
+   3980 dk
+   3782 hu
+   3757 at
+   3464 mobi
+   3397 id
+   3144 se
    2238 sg
-   2226 ng
+   2227 ng
    2217 porn
    2179 ae
    1722 gr
-   1720 cl
-   1642 ir
+   1721 cl
+   1643 ir
    1442 ar
-   1392 vip
-   1298 il
-   1166 io
+   1393 vip
+   1299 il
+   1169 io
     882 nu
-    748 to
+    749 to
     611 hk
     606 one
     584 nz
     574 ie
     544 men
     538 hr
-    528 bg
+    530 bg
     512 sex
     511 ee
     494 video
