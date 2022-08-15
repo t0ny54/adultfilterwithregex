@@ -42,7 +42,7 @@ echo -e "Sorting and removing duplicates ..."
 grep -oe '^.*\S' "$TMP_LIST" | sort | uniq >"$TMP_LIST2" && mv -f "$TMP_LIST2" "$TMP_LIST"
 
 echo -e "Validating domains and subdomains ..."
-pcregrep -o '^([a-z0-9][a-z0-9-_]*\.)*[a-z0-9]*[a-z0-9-_]*[[a-z0-9]+$' "$TMP_LIST" >"$TMP_LIST2" && mv -f "$TMP_LIST2" "$TMP_LIST"
+# pcregrep -o '^([a-z0-9][a-z0-9-_]*\.)*[a-z0-9]*[a-z0-9-_]*[[a-z0-9]+$' "$TMP_LIST" >"$TMP_LIST2" && mv -f "$TMP_LIST2" "$TMP_LIST"
 
 echo -e "Regex filters are applied ..."
 while read -r r; do sed -i -E "${r}d" "$TMP_LIST"; done <"$REGEX"
