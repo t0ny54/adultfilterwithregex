@@ -1,50 +1,50 @@
- 510377 com
-  82755 net
+ 510600 com
+  82791 net
   41296 de
-  37987 tk
-  36148 org
-  35639 ru
-  23821 nl
-  21236 info
-  20295 fr
-  19467 xyz
-  15666 uk
-  11348 cn
-  10621 br
-   9861 eu
-   8895 biz
-   8565 in
-   8173 co
-   7500 it
-   7255 top
+  37991 tk
+  36170 org
+  35559 ru
+  23830 nl
+  21241 info
+  20303 fr
+  19477 xyz
+  15668 uk
+  11349 cn
+  10620 br
+   9863 eu
+   8918 biz
+   8563 in
+   8176 co
+   7503 it
+   7258 top
    7176 jp
-   7029 pl
+   7033 pl
    6618 ch
-   6202 me
+   6208 me
    5983 es
-   5506 be
-   5458 cc
-   5213 tv
-   5066 club
-   5022 pro
-   4907 au
-   4742 ca
-   4347 ws
+   5507 be
+   5463 cc
+   5214 tv
+   5068 club
+   5032 pro
+   4908 au
+   4743 ca
+   4348 ws
    4292 xxx
-   4263 us
-   4203 cz
+   4265 us
+   4204 cz
    3997 dk
-   3794 hu
+   3795 hu
    3776 at
    3725 tr
-   3476 mobi
+   3477 mobi
    3403 id
-   3154 se
-   3103 online
-   2956 ro
-   2832 site
+   3156 se
+   3109 online
+   2958 ro
+   2836 site
    2740 tw
-   2412 su
+   2411 su
    2240 sg
    2226 ng
    2218 porn
