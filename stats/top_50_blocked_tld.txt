@@ -1,50 +1,50 @@
- 510600 com
-  82791 net
-  41296 de
-  37991 tk
-  36170 org
-  35559 ru
-  23830 nl
-  21241 info
-  20303 fr
-  19477 xyz
-  15668 uk
+ 511361 com
+  82899 net
+  41304 de
+  38011 tk
+  36164 org
+  35668 ru
+  23845 nl
+  21258 info
+  20325 fr
+  19538 xyz
+  15675 uk
   11349 cn
-  10620 br
-   9863 eu
-   8918 biz
-   8563 in
-   8176 co
-   7503 it
-   7258 top
-   7176 jp
-   7033 pl
-   6618 ch
-   6208 me
-   5983 es
+  10622 br
+   9874 eu
+   8913 biz
+   8564 in
+   8183 co
+   7511 it
+   7284 top
+   7177 jp
+   7040 pl
+   6623 ch
+   6222 me
+   5985 es
    5507 be
-   5463 cc
-   5214 tv
-   5068 club
-   5032 pro
+   5473 cc
+   5218 tv
+   5083 club
+   5072 pro
    4908 au
-   4743 ca
-   4348 ws
-   4292 xxx
-   4265 us
-   4204 cz
-   3997 dk
-   3795 hu
+   4750 ca
+   4349 ws
+   4298 xxx
+   4270 us
+   4207 cz
+   4000 dk
+   3796 hu
    3776 at
    3725 tr
-   3477 mobi
+   3479 mobi
    3403 id
-   3156 se
-   3109 online
-   2958 ro
-   2836 site
+   3157 se
+   3121 online
+   2959 ro
+   2847 site
    2740 tw
-   2411 su
+   2415 su
    2240 sg
    2226 ng
    2218 porn
