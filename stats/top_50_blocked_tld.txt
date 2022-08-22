@@ -1,32 +1,32 @@
- 511361 com
-  82899 net
-  41304 de
-  38011 tk
-  36164 org
-  35668 ru
+ 511363 com
+  82903 net
+  41303 de
+  38010 tk
+  36160 org
+  35444 ru
   23845 nl
-  21258 info
-  20325 fr
-  19538 xyz
+  21251 info
+  20326 fr
+  19507 xyz
   15675 uk
-  11349 cn
+  11348 cn
   10622 br
-   9874 eu
-   8913 biz
+   9875 eu
+   8903 biz
    8564 in
    8183 co
-   7511 it
-   7284 top
-   7177 jp
-   7040 pl
+   7510 it
+   7285 top
+   7176 jp
+   7038 pl
    6623 ch
-   6222 me
+   6221 me
    5985 es
-   5507 be
-   5473 cc
+   5508 be
+   5472 cc
    5218 tv
    5083 club
-   5072 pro
+   5070 pro
    4908 au
    4750 ca
    4349 ws
@@ -37,14 +37,14 @@
    3796 hu
    3776 at
    3725 tr
-   3479 mobi
+   3480 mobi
    3403 id
    3157 se
-   3121 online
+   3118 online
    2959 ro
-   2847 site
+   2843 site
    2740 tw
-   2415 su
+   2413 su
    2240 sg
    2226 ng
    2218 porn
