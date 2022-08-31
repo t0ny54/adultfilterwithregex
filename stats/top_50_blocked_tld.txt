@@ -1,32 +1,32 @@
- 505506 com
+ 505584 com
   86723 net
-  41322 de
+  41323 de
   38068 tk
-  35956 org
-  35110 ru
+  35959 org
+  35141 ru
   23891 nl
-  21139 info
-  18999 xyz
+  21137 info
+  19004 xyz
   18437 fr
-  12056 uk
+  12058 uk
   10905 cn
    9795 eu
-   8837 biz
-   8508 in
+   8856 biz
+   8509 in
    7395 it
    7234 br
-   7187 top
+   7194 top
    6921 jp
    6698 pl
    6631 ch
-   6198 me
-   6081 co
-   5501 be
+   6199 me
+   6080 co
+   5503 be
    5209 tv
-   5105 cc
+   5107 cc
    5045 pro
-   5036 club
-   4728 ca
+   5038 club
+   4729 ca
    4341 ws
    4315 au
    4283 xxx
@@ -40,11 +40,11 @@
    3156 se
    3117 online
    2944 ro
-   2813 site
-   2400 su
+   2812 site
+   2402 su
    2223 sg
    2217 ml
    2214 porn
    2205 cf
-   2198 ga
+   2197 ga
    2178 ae
