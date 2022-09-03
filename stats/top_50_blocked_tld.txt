@@ -1,49 +1,49 @@
- 504217 com
-  86088 net
-  41232 de
-  35836 org
-  30813 ru
-  23896 nl
-  21148 info
+ 504179 com
+  86066 net
+  41233 de
+  35856 org
+  30786 ru
+  23900 nl
+  21149 info
   18459 fr
-  16063 xyz
-  12021 uk
-   9671 eu
+  16125 xyz
+  12020 uk
+   9673 eu
    8451 in
    7581 biz
-   7376 it
-   6716 cn
+   7377 it
+   6715 cn
    6677 jp
    6672 br
    6616 ch
    6460 pl
-   6190 top
-   6174 co
-   5834 me
-   5472 be
-   5046 pro
+   6195 top
+   6175 co
+   5836 me
+   5474 be
+   5047 pro
+   4728 tv
    4728 ca
-   4727 tv
-   4714 cc
+   4719 cc
    4407 xxx
-   4381 club
+   4382 club
    4341 ws
    4285 au
    4198 cz
    4176 es
-   4163 us
+   4164 us
    4105 dk
-   3842 at
-   3484 se
-   3328 hu
-   3313 mobi
-   2943 ro
-   2675 online
+   3843 at
+   3483 se
+   3329 hu
+   3315 mobi
+   2944 ro
+   2678 online
    2554 porn
-   2331 site
+   2329 site
    2324 sg
    2313 su
-   2212 ml
+   2213 ml
    2199 cf
    2192 ga
    2184 ae
