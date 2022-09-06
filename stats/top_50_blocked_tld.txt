@@ -1,48 +1,48 @@
- 504759 com
-  81682 net
+ 504362 com
+  81698 net
   41243 de
-  35877 org
-  30965 ru
-  23910 nl
-  21156 info
-  18475 fr
-  16277 xyz
-  12023 uk
-   9676 eu
+  35891 org
+  31473 ru
+  23909 nl
+  21134 info
+  18474 fr
+  16268 xyz
+  12014 uk
+   9679 eu
    8459 in
-   7572 biz
+   7578 biz
    7378 it
-   6720 cn
+   6715 cn
    6677 jp
    6672 br
-   6619 ch
+   6618 ch
    6463 pl
    6229 top
    6186 co
-   5852 me
+   5843 me
    5478 be
-   5050 pro
-   4732 tv
+   5034 pro
+   4730 tv
    4730 ca
-   4726 cc
-   4415 xxx
-   4388 club
-   4341 ws
+   4727 cc
+   4412 xxx
+   4386 club
+   4338 ws
    4286 au
    4197 cz
-   4177 es
-   4168 us
+   4175 es
+   4158 us
    4106 dk
    3841 at
-   3483 se
+   3478 se
    3329 hu
-   3316 mobi
+   3311 mobi
    2944 ro
-   2688 online
+   2683 online
    2568 porn
-   2336 site
+   2334 site
    2324 sg
-   2314 su
+   2317 su
    2184 ae
    2026 ml
    1978 mx
