@@ -1,10 +1,10 @@
- 504807 com
-  86124 net
+ 504795 com
+  86122 net
   41243 de
   35883 org
-  30824 ru
+  30830 ru
   23910 nl
-  21157 info
+  21156 info
   18475 fr
   16282 xyz
   12023 uk
@@ -12,16 +12,16 @@
    8463 in
    7573 biz
    7378 it
-   6720 cn
+   6721 cn
    6677 jp
    6672 br
    6619 ch
-   6465 pl
-   6231 top
+   6467 pl
+   6230 top
    6186 co
    5860 me
    5478 be
-   5051 pro
+   5052 pro
    4732 tv
    4730 ca
    4726 cc
@@ -36,7 +36,7 @@
    3842 at
    3483 se
    3329 hu
-   3316 mobi
+   3317 mobi
    2944 ro
    2688 online
    2568 porn
