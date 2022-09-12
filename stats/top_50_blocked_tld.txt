@@ -1,31 +1,31 @@
- 508371 com
-  86616 net
+ 508370 com
+  86620 net
   53407 br
   41274 de
-  35995 org
-  30993 ru
+  35996 org
+  30980 ru
   23974 nl
   21174 info
   19961 fr
-  16285 xyz
+  16284 xyz
   15693 uk
-   9689 eu
-   8517 in
+   9690 eu
+   8514 in
    8188 co
-   7578 biz
+   7579 biz
    7460 it
    7221 cn
    6952 jp
    6807 pl
    6621 ch
-   6254 top
+   6255 top
    5980 es
    5868 me
    5489 be
    5090 cc
    5051 pro
    4755 ca
-   4735 au
+   4736 au
    4733 tv
    4416 xxx
    4391 club
@@ -41,9 +41,9 @@
    3318 mobi
    2956 ro
    2742 tw
-   2688 online
+   2689 online
    2568 porn
-   2449 su
+   2450 su
    2340 sg
    2336 site
    2227 ng
