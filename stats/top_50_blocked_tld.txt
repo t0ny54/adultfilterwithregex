@@ -1,49 +1,49 @@
- 508392 com
-  86624 net
-  53407 br
-  41274 de
-  36003 org
-  30925 ru
-  23974 nl
-  21174 info
-  19961 fr
-  16285 xyz
-  15693 uk
+ 508492 com
+  86659 net
+  53424 br
+  41287 de
+  36006 org
+  30926 ru
+  23982 nl
+  21177 info
+  20356 fr
+  16286 xyz
+  15702 uk
    9690 eu
-   8515 in
-   8188 co
+   8518 in
+   8189 co
    7578 biz
-   7460 it
-   7221 cn
-   6952 jp
-   6807 pl
-   6621 ch
+   7464 it
+   7223 cn
+   6959 jp
+   6816 pl
+   6624 ch
    6257 top
    5980 es
-   5868 me
+   5870 me
    5489 be
    5090 cc
-   5051 pro
-   4755 ca
-   4736 au
+   5053 pro
+   4915 au
+   4770 ca
    4733 tv
    4416 xxx
-   4391 club
+   4392 club
    4343 ws
-   4210 cz
-   4182 us
-   4107 dk
-   4044 at
-   3718 tr
+   4211 cz
+   4191 us
+   4108 dk
+   4045 at
+   3719 tr
    3487 se
-   3429 id
+   3435 id
    3344 hu
    3318 mobi
-   2956 ro
-   2742 tw
+   2957 ro
+   2743 tw
    2688 online
    2568 porn
-   2449 su
+   2453 su
    2340 sg
    2336 site
    2227 ng
