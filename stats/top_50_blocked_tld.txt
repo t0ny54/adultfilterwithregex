@@ -1,16 +1,16 @@
- 508521 com
-  86669 net
+ 508517 com
+  86661 net
   53426 br
   41288 de
-  36011 org
-  31370 ru
+  36008 org
+  30952 ru
   23982 nl
-  21177 info
+  21176 info
   20356 fr
-  16285 xyz
-  15706 uk
-   9691 eu
-   8514 in
+  16286 xyz
+  15703 uk
+   9690 eu
+   8515 in
    8189 co
    7578 biz
    7464 it
@@ -18,22 +18,22 @@
    6960 jp
    6816 pl
    6624 ch
-   6258 top
+   6261 top
    5980 es
-   5867 me
+   5870 me
    5489 be
    5090 cc
-   5053 pro
+   5054 pro
    4916 au
    4770 ca
    4731 tv
    4417 xxx
    4392 club
    4344 ws
-   4212 cz
+   4211 cz
    4191 us
    4108 dk
-   4046 at
+   4045 at
    3719 tr
    3487 se
    3435 id
@@ -43,8 +43,8 @@
    2743 tw
    2688 online
    2568 porn
-   2455 su
+   2453 su
    2340 sg
-   2336 site
+   2337 site
    2227 ng
    2185 ae
