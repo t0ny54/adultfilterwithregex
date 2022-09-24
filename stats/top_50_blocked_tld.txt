@@ -1,26 +1,26 @@
- 508509 com
-  86657 net
+ 508529 com
+  86661 net
   53426 br
   41288 de
-  36006 org
-  30950 ru
+  36007 org
+  30963 ru
   23982 nl
   21176 info
   20357 fr
   16286 xyz
   15703 uk
    9690 eu
-   8518 in
-   8189 co
+   8515 in
+   8190 co
    7578 biz
-   7464 it
+   7465 it
    7224 cn
-   6960 jp
+   6961 jp
    6815 pl
    6624 ch
-   6261 top
+   6258 top
    5980 es
-   5870 me
+   5875 me
    5489 be
    5090 cc
    5054 pro
@@ -45,6 +45,6 @@
    2568 porn
    2453 su
    2340 sg
-   2336 site
+   2337 site
    2227 ng
    2185 ae
