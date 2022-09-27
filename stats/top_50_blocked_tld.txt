@@ -1,26 +1,26 @@
- 508615 com
-  86662 net
+ 508642 com
+  86667 net
   53427 br
   41288 de
-  36007 org
-  31011 ru
+  36006 org
+  30953 ru
   23982 nl
-  21177 info
+  21179 info
   20356 fr
-  16285 xyz
+  16286 xyz
   15703 uk
    9690 eu
-   8515 in
+   8516 in
    8190 co
    7578 biz
    7464 it
-   7230 cn
+   7228 cn
    6960 jp
    6816 pl
    6624 ch
    6259 top
    5980 es
-   5867 me
+   5875 me
    5489 be
    5090 cc
    5054 pro
@@ -37,7 +37,7 @@
    3719 tr
    3487 se
    3435 id
-   3345 hu
+   3346 hu
    3321 mobi
    2957 ro
    2743 tw
