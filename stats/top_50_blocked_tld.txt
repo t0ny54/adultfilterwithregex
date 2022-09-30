@@ -1,29 +1,29 @@
- 508633 com
-  86670 net
+ 508627 com
+  86678 net
   53427 br
-  41288 de
-  36006 org
-  31315 ru
-  23983 nl
+  41289 de
+  36007 org
+  31548 ru
+  23982 nl
   21179 info
   20356 fr
   16286 xyz
-  15703 uk
-   9690 eu
-   8518 in
+  15704 uk
+   9691 eu
+   8519 in
    8189 co
-   7578 biz
+   7583 biz
    7464 it
    7227 cn
-   6961 jp
+   6960 jp
    6816 pl
    6624 ch
    6259 top
    5980 es
-   5875 me
+   5870 me
    5489 be
-   5091 cc
-   5055 pro
+   5090 cc
+   5054 pro
    4917 au
    4770 ca
    4731 tv
@@ -43,7 +43,7 @@
    2743 tw
    2688 online
    2568 porn
-   2454 su
+   2455 su
    2341 sg
    2338 site
    2227 ng
