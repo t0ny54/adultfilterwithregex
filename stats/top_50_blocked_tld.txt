@@ -1,28 +1,28 @@
- 512819 com
-  87986 net
+ 512815 com
+  88013 net
   53491 br
-  41560 de
-  36320 org
-  31838 ru
+  41559 de
+  36309 org
+  32292 ru
   24311 nl
   21550 info
-  20479 fr
-  16947 xyz
+  20480 fr
+  16944 xyz
   15835 uk
-  10012 eu
+  10014 eu
    8900 co
-   8606 in
-   7781 biz
-   7772 cn
+   8602 in
+   7775 cn
+   7772 biz
    7509 it
-   7019 jp
+   7020 jp
    6679 ch
-   6654 pl
-   6443 top
+   6653 pl
+   6442 top
    6005 es
-   5966 me
+   5960 me
    5527 be
-   5183 cc
+   5184 cc
    5090 pro
    4947 au
    4784 ca
@@ -40,11 +40,11 @@
    3509 se
    3435 id
    2983 ro
-   2758 online
+   2759 online
    2757 tw
-   2580 su
+   2583 su
    2580 porn
-   2464 site
+   2462 site
    2341 sg
    2233 ng
    2185 ae
