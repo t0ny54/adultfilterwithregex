@@ -1,9 +1,9 @@
- 512810 com
-  87972 net
+ 512811 com
+  87962 net
   53491 br
   41559 de
-  36315 org
-  31805 ru
+  36314 org
+  31809 ru
   24311 nl
   21546 info
   20480 fr
@@ -13,11 +13,11 @@
    8901 co
    8602 in
    7773 cn
-   7772 biz
+   7765 biz
    7509 it
    7019 jp
    6679 ch
-   6653 pl
+   6654 pl
    6441 top
    6005 es
    5961 me
@@ -41,10 +41,10 @@
    3435 id
    2982 ro
    2757 tw
-   2756 online
-   2580 su
+   2755 online
    2580 porn
-   2461 site
+   2579 su
+   2455 site
    2341 sg
    2233 ng
    2185 ae
