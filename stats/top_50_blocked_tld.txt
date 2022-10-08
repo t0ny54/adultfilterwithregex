@@ -1,18 +1,18 @@
- 512816 com
-  87962 net
+ 512805 com
+  87960 net
   53491 br
   41559 de
   36309 org
-  31758 ru
+  31866 ru
   24311 nl
-  21546 info
+  21547 info
   20481 fr
-  16940 xyz
+  16935 xyz
   15835 uk
-  10012 eu
+  10013 eu
    8901 co
    8603 in
-   7773 cn
+   7772 cn
    7765 biz
    7509 it
    7019 jp
@@ -31,7 +31,7 @@
    4480 club
    4345 ws
    4245 us
-   4235 cz
+   4234 cz
    4135 dk
    4069 at
    3889 hu
@@ -44,7 +44,7 @@
    2755 online
    2580 su
    2580 porn
-   2454 site
+   2455 site
    2341 sg
    2233 ng
    2185 ae
