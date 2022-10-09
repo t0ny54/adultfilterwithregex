@@ -1,29 +1,29 @@
- 512805 com
-  87960 net
+ 512804 com
+  87963 net
   53491 br
   41559 de
-  36309 org
-  31866 ru
+  36308 org
+  31788 ru
   24311 nl
-  21547 info
+  21546 info
   20481 fr
   16935 xyz
   15835 uk
   10013 eu
    8901 co
-   8603 in
-   7772 cn
+   8602 in
+   7773 cn
    7765 biz
    7509 it
-   7019 jp
+   7021 jp
    6679 ch
-   6654 pl
-   6441 top
+   6653 pl
+   6442 top
    6005 es
-   5968 me
+   5961 me
    5527 be
    5182 cc
-   5092 pro
+   5091 pro
    4948 au
    4784 ca
    4767 tv
@@ -44,7 +44,7 @@
    2755 online
    2580 su
    2580 porn
-   2455 site
+   2454 site
    2341 sg
    2233 ng
    2185 ae
