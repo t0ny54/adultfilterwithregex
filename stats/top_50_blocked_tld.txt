@@ -1,24 +1,24 @@
- 512811 com
-  87970 net
+ 512812 com
+  87963 net
   53491 br
   41559 de
-  36308 org
-  31812 ru
-  24311 nl
-  21542 info
+  36305 org
+  31769 ru
+  24310 nl
+  21587 info
   20481 fr
-  16934 xyz
+  16935 xyz
   15835 uk
   10013 eu
-   8901 co
-   8602 in
-   7774 cn
-   7765 biz
+   8900 co
+   8603 in
+   7773 cn
+   7767 biz
    7509 it
-   7021 jp
+   7020 jp
    6679 ch
    6653 pl
-   6442 top
+   6441 top
    6005 es
    5961 me
    5527 be
@@ -44,7 +44,7 @@
    2755 online
    2580 su
    2580 porn
-   2454 site
+   2455 site
    2341 sg
    2233 ng
    2185 ae
