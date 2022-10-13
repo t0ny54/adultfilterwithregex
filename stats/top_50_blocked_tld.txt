@@ -1,33 +1,33 @@
- 522267 com
-  87849 net
+ 522265 com
+  87845 net
   53401 br
-  41362 de
-  36266 org
-  31229 ru
+  41369 de
+  36267 org
+  31295 ru
   24118 nl
-  22736 info
-  20349 fr
-  17003 xyz
+  22735 info
+  20348 fr
+  16985 xyz
   15821 uk
    9962 eu
    8727 co
-   8483 in
+   8485 in
    7536 it
-   7354 biz
+   7352 biz
    7137 cn
-   6977 jp
    6974 top
+   6773 jp
    6651 ch
-   6566 pl
-   6170 me
+   6562 pl
+   6174 me
    6010 es
-   5533 be
-   5318 cc
-   4907 pro
+   5532 be
+   5317 cc
+   4906 pro
    4888 au
    4783 tv
    4781 ca
-   4433 club
+   4431 club
    4342 xxx
    4336 ws
    4318 us
@@ -38,13 +38,13 @@
    3662 tr
    3529 mobi
    3372 id
-   3208 se
-   2982 online
+   3207 se
+   2978 online
    2794 ro
    2698 tw
    2530 su
-   2426 tk
-   2363 site
+   2427 tk
+   2361 site
    2293 porn
    2237 sg
    2217 ng
