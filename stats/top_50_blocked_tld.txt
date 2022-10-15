@@ -1,50 +1,50 @@
- 487645 com
-  84209 net
+ 491466 com
+  84421 net
   53276 br
-  40887 de
-  35320 org
-  30375 ru
-  23081 nl
-  21934 info
-  19934 fr
-  15443 uk
-  14432 xyz
-   9674 eu
-   8590 co
-   8353 in
-   7328 it
-   7191 biz
-   7121 cn
-   6885 jp
-   6548 ch
-   6255 pl
-   6157 top
-   5909 es
-   5890 me
-   5301 be
-   4956 cc
-   4813 au
-   4699 pro
-   4697 ca
-   4677 tv
+  42886 de
+  35394 org
+  30382 ru
+  23088 nl
+  21926 info
+  19977 fr
+  15469 uk
+  14525 xyz
+   9705 eu
+   8643 co
+   8354 in
+   7356 it
+   7197 biz
+   7132 cn
+   6886 jp
+   6669 top
+   6608 ch
+   6257 pl
+   5921 es
+   5891 me
+   5307 be
+   4979 cc
+   4816 au
+   4706 ca
+   4703 pro
+   4685 tv
    4327 ws
    4245 xxx
-   4196 club
-   4166 us
-   4049 cz
-   3842 dk
-   3750 at
+   4232 club
+   4179 us
+   4050 cz
+   4014 at
+   3852 dk
    3748 hu
    3660 tr
-   3449 mobi
-   3369 id
-   3134 se
-   2759 ro
+   3451 mobi
+   3371 id
+   3136 se
+   2760 ro
    2696 tw
-   2558 online
-   2516 su
+   2588 online
+   2520 su
    2284 porn
-   2236 sg
-   2216 tk
+   2237 sg
+   2217 tk
    2215 ng
    2175 ae
