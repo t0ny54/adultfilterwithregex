@@ -1,50 +1,50 @@
- 526530 com
-  88021 net
-  53481 br
-  43454 de
-  36392 org
-  31416 ru
-  22940 nl
-  22743 info
-  20283 fr
-  17709 xyz
-  16028 uk
-   9865 eu
-   8822 co
-   8534 in
-   7597 it
-   7342 biz
-   7316 top
-   7161 cn
+ 527922 com
+  88203 net
+  53486 br
+  43470 de
+  36415 org
+  31474 ru
+  22971 nl
+  22777 info
+  20299 fr
+  17759 xyz
+  16042 uk
+   9877 eu
+   8830 co
+   8537 in
+   7602 it
+   7357 biz
+   7346 top
+   7166 cn
    7019 jp
-   6763 ch
-   6462 pl
-   6274 me
-   6085 es
-   5469 be
-   5390 cc
-   4914 au
-   4909 pro
-   4814 tv
-   4801 ca
-   4538 us
-   4494 club
-   4345 xxx
+   6772 ch
+   6474 pl
+   6289 me
+   6089 es
+   5465 be
+   5410 cc
+   4918 au
+   4913 pro
+   4823 tv
+   4805 ca
+   4546 us
+   4500 club
+   4344 xxx
    4333 ws
-   4179 cz
+   4181 cz
    4116 at
-   3937 dk
-   3821 hu
-   3660 tr
-   3642 mobi
+   3940 dk
+   3826 hu
+   3661 tr
+   3660 mobi
    3380 id
-   3256 online
-   3251 se
-   2842 tk
+   3282 online
+   3254 se
+   2858 tk
    2803 ro
    2700 tw
    2531 su
-   2412 site
-   2292 porn
+   2428 site
+   2295 porn
    2237 sg
    2217 ng
