@@ -1,34 +1,34 @@
- 527922 com
-  88203 net
+ 527898 com
+  88202 net
   53486 br
-  43470 de
-  36415 org
-  31474 ru
-  22971 nl
-  22777 info
+  43477 de
+  36416 org
+  31454 ru
+  22970 nl
+  22776 info
   20299 fr
-  17759 xyz
+  17755 xyz
   16042 uk
    9877 eu
    8830 co
-   8537 in
+   8536 in
    7602 it
-   7357 biz
-   7346 top
+   7356 biz
+   7345 top
    7166 cn
    7019 jp
    6772 ch
    6474 pl
-   6289 me
+   6290 me
    6089 es
-   5465 be
-   5410 cc
+   5463 be
+   5396 cc
    4918 au
-   4913 pro
+   4912 pro
    4823 tv
    4805 ca
    4546 us
-   4500 club
+   4498 club
    4344 xxx
    4333 ws
    4181 cz
@@ -38,7 +38,7 @@
    3661 tr
    3660 mobi
    3380 id
-   3282 online
+   3281 online
    3254 se
    2858 tk
    2803 ro
