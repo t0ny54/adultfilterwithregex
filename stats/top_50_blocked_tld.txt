@@ -1,50 +1,50 @@
- 527794 com
-  88195 net
-  53487 br
-  43476 de
-  36416 org
-  31355 ru
+ 527804 com
+  88199 net
+  53486 br
+  43531 de
+  36417 org
+  31354 ru
   22969 nl
   22768 info
-  20299 fr
-  17754 xyz
-  16042 uk
+  20300 fr
+  17764 xyz
+  16045 uk
    9877 eu
    8830 co
    8534 in
    7602 it
-   7358 biz
-   7345 top
-   7165 cn
-   6904 jp
+   7356 biz
+   7346 top
+   7164 cn
+   7018 jp
    6772 ch
    6473 pl
-   6290 me
-   6089 es
+   6292 me
+   6090 es
    5463 be
-   5397 cc
+   5396 cc
    4919 au
    4912 pro
    4823 tv
    4805 ca
    4546 us
-   4500 club
+   4498 club
    4344 xxx
    4333 ws
    4181 cz
-   4116 at
+   4170 at
    3940 dk
    3826 hu
    3661 tr
    3660 mobi
-   3380 id
+   3381 id
    3281 online
    3254 se
    2858 tk
    2803 ro
    2700 tw
    2531 su
-   2429 site
+   2428 site
    2295 porn
    2237 sg
    2218 ng
