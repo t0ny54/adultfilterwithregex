@@ -1,34 +1,34 @@
- 519779 com
+ 519760 com
   82165 net
-  53361 br
-  43187 de
+  53360 br
+  43185 de
   35677 org
-  29828 ru
-  22598 nl
+  29831 ru
+  22599 nl
   20041 fr
   19972 info
   15897 uk
-  15871 xyz
-   9437 eu
+  15872 xyz
+   9435 eu
    8804 co
-   8370 in
+   8372 in
    7529 it
-   7322 top
-   6955 jp
+   7319 top
+   6957 jp
    6899 biz
    6699 ch
    6359 pl
-   6142 me
-   6056 cn
-   6023 es
+   6143 me
+   6055 cn
+   6022 es
    5356 xxx
    5352 be
    5165 cc
-   4865 au
+   4866 au
    4840 pro
    4797 ca
    4752 tv
-   4410 us
+   4409 us
    4330 ws
    4284 club
    4149 cz
@@ -39,7 +39,7 @@
    3378 id
    3335 mobi
    3203 se
-   3080 online
+   3079 online
    2856 tk
    2763 ro
    2687 tw
