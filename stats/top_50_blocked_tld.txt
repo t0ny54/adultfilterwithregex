@@ -1,31 +1,31 @@
- 481662 com
+ 481658 com
   78085 net
-  53213 br
+  53212 br
   42491 de
   34676 org
-  29036 ru
+  28940 ru
   21591 nl
   19480 fr
   18937 info
   15542 uk
   11769 xyz
    8735 eu
-   8310 co
+   8311 co
    8167 in
    7360 it
-   6824 jp
-   6613 biz
+   6822 jp
+   6612 biz
    6542 ch
    6122 pl
-   6061 top
+   6057 top
    6015 cn
    5868 es
-   5723 me
+   5722 me
    5263 xxx
-   4956 be
+   4954 be
    4840 au
    4696 cc
-   4583 tv
+   4582 tv
    4555 pro
    4476 ca
    4314 ws
@@ -36,7 +36,7 @@
    3756 dk
    3653 tr
    3391 hu
-   3370 id
+   3371 id
    3221 mobi
    3086 se
    2723 ro
