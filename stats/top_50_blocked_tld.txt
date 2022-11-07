@@ -1,46 +1,46 @@
- 481658 com
-  78085 net
+ 481637 com
+  78076 net
   53212 br
-  42491 de
-  34676 org
-  28940 ru
-  21591 nl
+  42494 de
+  34673 org
+  29085 ru
+  21592 nl
   19480 fr
-  18937 info
-  15542 uk
-  11769 xyz
+  18935 info
+  15544 uk
+  11768 xyz
    8735 eu
    8311 co
-   8167 in
-   7360 it
-   6822 jp
-   6612 biz
+   8165 in
+   7359 it
+   6823 jp
+   6613 biz
    6542 ch
    6122 pl
-   6057 top
+   6058 top
    6015 cn
    5868 es
-   5722 me
+   5720 me
    5263 xxx
    4954 be
-   4840 au
-   4696 cc
+   4839 au
+   4694 cc
    4582 tv
    4555 pro
    4476 ca
    4314 ws
    4068 cz
-   4041 us
+   4042 us
    3986 at
-   3978 club
+   3980 club
    3756 dk
-   3653 tr
+   3652 tr
    3391 hu
    3371 id
    3221 mobi
    3086 se
    2723 ro
-   2681 tw
+   2680 tw
    2663 tk
    2375 online
    2240 porn
