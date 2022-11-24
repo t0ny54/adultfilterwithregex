@@ -1,50 +1,50 @@
- 494969 com
-  79633 net
-  53612 br
-  43136 de
-  35418 org
-  30144 ru
-  22390 nl
-  20076 fr
-  19372 info
-  15819 uk
-  12577 xyz
-   9113 eu
-   8585 co
-   8318 in
-   7650 it
+ 495731 com
+  79698 net
+  53632 br
+  43159 de
+  35446 org
+  30165 ru
+  22419 nl
+  20107 fr
+  19388 info
+  15846 uk
+  12614 xyz
+   9124 eu
+   8599 co
+   8323 in
+   7662 it
    6851 jp
-   6792 biz
-   6734 ch
-   6559 top
-   6333 pl
-   6113 me
-   6104 es
+   6801 biz
+   6740 ch
+   6560 top
+   6344 pl
+   6117 me
+   6115 es
    6014 cn
-   5344 xxx
-   5276 be
-   4893 au
-   4838 cc
-   4812 pro
-   4667 tv
-   4582 ca
+   5346 xxx
+   5290 be
+   4897 au
+   4843 cc
+   4815 pro
+   4673 tv
+   4587 ca
    4326 ws
-   4231 us
-   4182 cz
-   4125 club
-   4075 at
-   3904 dk
+   4241 us
+   4190 cz
+   4129 club
+   4077 at
+   3911 dk
    3663 tr
-   3457 hu
-   3382 id
-   3370 tk
-   3289 mobi
-   3216 se
-   2778 ro
-   2778 online
+   3460 hu
+   3408 tk
+   3384 id
+   3292 mobi
+   3224 se
+   2811 online
+   2783 ro
    2686 tw
    2231 sg
+   2203 porn
    2203 ng
-   2202 porn
    2174 ae
-   2082 su
+   2083 su
