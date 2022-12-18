@@ -1,25 +1,25 @@
- 485301 com
-  98074 net
+ 485322 com
+  98080 net
   53332 br
   45342 de
-  44060 org
+  44062 org
   32434 xxx
-  28138 ru
-  27457 info
-  26074 xyz
-  22242 nl
+  28161 ru
+  27456 info
+  26077 xyz
+  22244 nl
   16727 uk
-  13756 fr
+  13758 fr
   10872 co
   10709 in
-  10378 eu
-   9216 top
+  10380 eu
+   9220 top
    8779 biz
-   8373 me
+   8369 me
    7782 it
    7472 cn
-   7453 club
-   6846 ch
+   7455 club
+   6848 ch
    6752 jp
    6195 cc
    6153 es
@@ -27,24 +27,24 @@
    6025 us
    5543 pl
    5529 tv
-   5201 ca
+   5202 ca
    5008 be
-   4964 au
+   4965 au
    4912 vip
-   4693 online
+   4701 online
    4304 site
-   4144 at
+   4145 at
    4079 cz
    3879 mobi
    3733 dk
    3651 tr
    3416 id
    3239 se
-   3206 hu
+   3205 hu
    3176 tk
    2917 porn
    2766 ro
    2673 live
    2671 tw
-   2454 pw
+   2455 pw
    2274 sg
