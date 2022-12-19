@@ -1,31 +1,31 @@
- 485322 com
-  98080 net
+ 485303 com
+  98057 net
   53332 br
   45342 de
-  44062 org
+  44061 org
   32434 xxx
-  28161 ru
-  27456 info
-  26077 xyz
+  28250 ru
+  27448 info
+  26074 xyz
   22244 nl
-  16727 uk
-  13758 fr
+  16726 uk
+  13759 fr
   10872 co
   10709 in
   10380 eu
-   9220 top
-   8779 biz
+   9219 top
+   8778 biz
    8369 me
    7782 it
    7472 cn
-   7455 club
+   7454 club
    6848 ch
    6752 jp
    6195 cc
    6153 es
-   6068 pro
+   6067 pro
    6025 us
-   5543 pl
+   5542 pl
    5529 tv
    5202 ca
    5008 be
@@ -35,7 +35,7 @@
    4304 site
    4145 at
    4079 cz
-   3879 mobi
+   3875 mobi
    3733 dk
    3651 tr
    3416 id
