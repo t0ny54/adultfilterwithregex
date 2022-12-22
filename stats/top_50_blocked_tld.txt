@@ -1,23 +1,23 @@
- 485310 com
-  98046 net
+ 485303 com
+  98048 net
   53332 br
   45342 de
-  44051 org
+  44054 org
   32434 xxx
-  28242 ru
-  27446 info
-  26065 xyz
+  28212 ru
+  27443 info
+  26063 xyz
   22245 nl
   16727 uk
   13759 fr
   10871 co
   10709 in
-  10380 eu
-   9215 top
-   8780 biz
+  10382 eu
+   9196 top
+   8778 biz
    8373 me
-   7785 it
-   7472 cn
+   7786 it
+   7471 cn
    7453 club
    6849 ch
    6752 jp
@@ -31,9 +31,9 @@
    5009 be
    4965 au
    4912 vip
-   4700 online
-   4299 site
-   4144 at
+   4701 online
+   4298 site
+   4145 at
    4079 cz
    3875 mobi
    3733 dk
