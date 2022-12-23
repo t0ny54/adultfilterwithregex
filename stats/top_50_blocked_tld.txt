@@ -1,40 +1,40 @@
- 485303 com
-  98048 net
-  53332 br
-  45342 de
-  44054 org
+ 485313 com
+  98035 net
+  53333 br
+  45343 de
+  44052 org
   32434 xxx
   28212 ru
-  27443 info
-  26063 xyz
-  22245 nl
+  27440 info
+  26077 xyz
+  22254 nl
   16727 uk
   13759 fr
   10871 co
-  10709 in
+  10710 in
   10382 eu
-   9196 top
+   9195 top
    8778 biz
-   8373 me
+   8374 me
    7786 it
    7471 cn
    7453 club
    6849 ch
    6752 jp
-   6195 cc
-   6153 es
+   6193 cc
+   6154 es
    6070 pro
-   6025 us
-   5540 pl
+   6026 us
+   5541 pl
    5529 tv
    5202 ca
-   5009 be
+   5010 be
    4965 au
-   4912 vip
+   4914 vip
    4701 online
    4298 site
    4145 at
-   4079 cz
+   4080 cz
    3875 mobi
    3733 dk
    3651 tr
@@ -44,7 +44,7 @@
    3176 tk
    2917 porn
    2767 ro
-   2673 live
+   2672 live
    2671 tw
    2454 pw
    2274 sg
