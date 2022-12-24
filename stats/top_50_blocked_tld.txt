@@ -1,50 +1,50 @@
- 485313 com
-  98035 net
-  53333 br
-  45343 de
-  44052 org
-  32434 xxx
-  28212 ru
-  27440 info
-  26077 xyz
-  22254 nl
-  16727 uk
-  13759 fr
-  10871 co
-  10710 in
-  10382 eu
-   9195 top
-   8778 biz
-   8374 me
-   7786 it
+ 485606 com
+  98080 net
+  53335 br
+  45349 de
+  44056 org
+  32436 xxx
+  28226 ru
+  27446 info
+  26091 xyz
+  22263 nl
+  16735 uk
+  13768 fr
+  10873 co
+  10718 in
+  10384 eu
+   9192 top
+   8785 biz
+   8382 me
+   7792 it
    7471 cn
-   7453 club
-   6849 ch
+   7464 club
+   6850 ch
    6752 jp
-   6193 cc
-   6154 es
-   6070 pro
-   6026 us
-   5541 pl
-   5529 tv
+   6197 cc
+   6155 es
+   6077 pro
+   6035 us
+   5540 pl
+   5531 tv
    5202 ca
-   5010 be
-   4965 au
+   5011 be
+   4967 au
    4914 vip
-   4701 online
-   4298 site
-   4145 at
-   4080 cz
-   3875 mobi
-   3733 dk
+   4712 online
+   4301 site
+   4146 at
+   4085 cz
+   3876 mobi
+   3735 dk
    3651 tr
    3416 id
    3239 se
    3205 hu
-   3176 tk
+   3184 tk
    2917 porn
-   2767 ro
-   2672 live
+   2768 ro
+   2673 live
    2671 tw
-   2454 pw
+   2455 pw
    2274 sg
