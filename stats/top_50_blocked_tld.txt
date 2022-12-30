@@ -1,46 +1,46 @@
- 486618 com
-  98181 net
-  53341 br
-  45372 de
-  44091 org
+ 486735 com
+  98192 net
+  53342 br
+  45376 de
+  44094 org
   32440 xxx
-  28278 ru
-  27469 info
-  26137 xyz
-  22287 nl
-  16762 uk
-  13798 fr
-  10883 co
+  28288 ru
+  27471 info
+  26141 xyz
+  22290 nl
+  16768 uk
+  13801 fr
+  10884 co
   10718 in
   10400 eu
-   9215 top
+   9216 top
    8796 biz
-   8414 me
-   7810 it
+   8421 me
+   7811 it
    7481 cn
-   7469 club
+   7471 club
    6852 ch
    6752 jp
    6224 cc
-   6162 es
-   6099 pro
-   6063 us
+   6164 es
+   6103 pro
+   6067 us
    5550 pl
    5538 tv
-   5208 ca
+   5209 ca
    5017 be
    4977 au
-   4930 vip
-   4737 online
-   4311 site
-   4150 at
-   4092 cz
+   4931 vip
+   4740 online
+   4314 site
+   4151 at
+   4093 cz
    3877 mobi
-   3741 dk
+   3742 dk
    3651 tr
    3416 id
    3240 se
-   3213 tk
+   3217 tk
    3211 hu
    2918 porn
    2774 ro
