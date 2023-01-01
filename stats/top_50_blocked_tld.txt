@@ -1,50 +1,50 @@
- 486902 com
-  98192 net
-  53343 br
-  45377 de
-  44092 org
+ 487017 com
+  98213 net
+  53345 br
+  45379 de
+  44101 org
   32442 xxx
-  28289 ru
-  27482 info
-  26132 xyz
-  22294 nl
-  16772 uk
-  13805 fr
-  10886 co
-  10722 in
-  10403 eu
-   9210 top
-   8795 biz
-   8424 me
-   7813 it
+  28274 ru
+  27478 info
+  26125 xyz
+  22300 nl
+  16774 uk
+  13808 fr
+  10888 co
+  10724 in
+  10406 eu
+   9212 top
+   8796 biz
+   8426 me
+   7814 it
    7482 cn
-   7461 club
+   7463 club
    6853 ch
    6752 jp
-   6226 cc
-   6164 es
+   6229 cc
+   6165 es
    6107 pro
-   6069 us
-   5547 pl
-   5540 tv
+   6075 us
+   5548 pl
+   5541 tv
    5210 ca
    5019 be
-   4978 au
-   4930 vip
-   4739 online
-   4316 site
+   4980 au
+   4934 vip
+   4740 online
+   4317 site
    4151 at
    4096 cz
    3878 mobi
    3742 dk
    3652 tr
    3416 id
-   3239 se
-   3217 tk
-   3212 hu
+   3240 se
+   3220 tk
+   3213 hu
    2918 porn
    2774 ro
-   2692 live
+   2697 live
    2671 tw
-   2463 pw
+   2464 pw
    2273 sg
