@@ -1,50 +1,50 @@
- 483019 com
-  97618 net
-  53266 br
-  45289 de
-  43849 org
-  32424 xxx
-  28015 ru
-  27205 info
-  25618 xyz
-  22231 nl
-  16681 uk
-  13698 fr
-  10883 co
-  10644 in
-  10438 eu
-   9190 top
-   8775 biz
-   8376 me
-   7789 it
-   7403 club
-   7343 cn
-   6833 ch
+ 483217 com
+  97641 net
+  53268 br
+  45290 de
+  43861 org
+  32425 xxx
+  28026 ru
+  27211 info
+  25619 xyz
+  22238 nl
+  16686 uk
+  13711 fr
+  10877 co
+  10646 in
+  10455 eu
+   9195 top
+   8781 biz
+   8378 me
+   7792 it
+   7406 club
+   7342 cn
+   6834 ch
    6731 jp
-   6124 es
-   6084 cc
-   6075 pro
-   6024 us
-   5510 pl
+   6127 es
+   6085 cc
+   6083 pro
+   6032 us
+   5512 pl
    5508 tv
-   5210 ca
-   4990 be
-   4959 au
+   5219 ca
+   5003 be
+   4962 au
    4928 vip
    4671 online
-   4255 site
-   4134 at
-   4076 cz
-   3851 mobi
-   3725 dk
+   4257 site
+   4135 at
+   4078 cz
+   3854 mobi
+   3729 dk
    3647 tr
    3410 id
-   3223 se
-   3214 tk
-   3197 hu
+   3227 se
+   3221 tk
+   3198 hu
    2914 porn
-   2759 ro
-   2664 live
+   2761 ro
+   2672 live
    2663 tw
-   2448 pw
+   2449 pw
    2272 sg
