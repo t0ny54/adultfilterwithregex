@@ -1,21 +1,21 @@
- 477803 com
-  97264 net
+ 477911 com
+  97266 net
   53093 br
-  45169 de
-  43661 org
+  45168 de
+  43660 org
   32408 xxx
-  27927 ru
-  27148 info
-  25416 xyz
+  27923 ru
+  27147 info
+  25410 xyz
   22039 nl
   16507 uk
-  13410 fr
-  10857 co
+  13411 fr
+  10858 co
   10621 in
   10411 eu
-   9091 top
+   9083 top
    8762 biz
-   8343 me
+   8340 me
    7713 it
    7345 club
    7338 cn
@@ -30,21 +30,21 @@
    5186 ca
    4957 be
    4915 au
-   4911 vip
+   4910 vip
    4561 online
-   4191 site
+   4190 site
    4125 at
    4029 cz
    3849 mobi
    3688 dk
    3641 tr
    3408 id
-   3202 se
+   3201 se
    3186 hu
    2990 tk
    2911 porn
    2745 ro
    2660 tw
-   2638 live
+   2639 live
    2431 pw
    2272 sg
