@@ -1,24 +1,24 @@
- 477911 com
-  97266 net
+ 477733 com
+  97255 net
   53093 br
-  45168 de
-  43660 org
+  45165 de
+  43658 org
   32408 xxx
-  27923 ru
-  27147 info
-  25410 xyz
+  27953 ru
+  27142 info
+  25403 xyz
   22039 nl
   16507 uk
   13411 fr
   10858 co
-  10621 in
+  10619 in
   10411 eu
-   9083 top
+   9074 top
    8762 biz
-   8340 me
-   7713 it
-   7345 club
-   7338 cn
+   8339 me
+   7715 it
+   7346 club
+   7337 cn
    6782 ch
    6720 jp
    6077 pro
@@ -26,24 +26,24 @@
    6043 cc
    6012 us
    5497 tv
-   5441 pl
+   5442 pl
    5186 ca
    4957 be
-   4915 au
-   4910 vip
+   4916 au
+   4909 vip
    4561 online
-   4190 site
+   4189 site
    4125 at
    4029 cz
    3849 mobi
    3688 dk
    3641 tr
-   3408 id
+   3409 id
    3201 se
    3186 hu
    2990 tk
    2911 porn
-   2745 ro
+   2746 ro
    2660 tw
    2639 live
    2431 pw
