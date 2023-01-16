@@ -1,50 +1,50 @@
- 481104 com
-  97712 net
-  53106 br
+ 480989 com
+  97707 net
+  53104 br
   45214 de
-  43819 org
-  32426 xxx
-  28096 ru
-  27236 info
-  25556 xyz
-  22104 nl
-  16595 uk
-  13515 fr
-  10919 co
-  10664 in
-  10494 eu
-   9148 top
-   8805 biz
-   8453 me
+  43809 org
+  32425 xxx
+  28105 ru
+  27229 info
+  25496 xyz
+  22107 nl
+  16596 uk
+  13521 fr
+  10915 co
+  10649 in
+  10484 eu
+   9140 top
+   8773 biz
+   8445 me
    7747 it
    7383 club
-   7339 cn
-   6798 ch
-   6722 jp
-   6183 pro
-   6138 cc
-   6118 us
-   6084 es
-   5533 tv
-   5463 pl
-   5247 ca
-   4996 be
-   4945 vip
-   4936 au
-   4639 online
-   4228 site
-   4142 at
-   4059 cz
-   3854 mobi
+   7337 cn
+   6799 ch
+   6723 jp
+   6185 pro
+   6142 cc
+   6087 us
+   6086 es
+   5532 tv
+   5464 pl
+   5252 ca
+   5002 be
+   4941 vip
+   4934 au
+   4632 online
+   4225 site
+   4143 at
+   4058 cz
+   3853 mobi
    3697 dk
    3641 tr
    3416 id
    3207 se
-   3196 hu
-   3077 tk
-   2914 porn
+   3195 hu
+   3006 tk
+   2915 porn
    2764 live
-   2754 ro
-   2661 tw
-   2440 pw
+   2756 ro
+   2663 tw
+   2438 pw
    2272 sg
