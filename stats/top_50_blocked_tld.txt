@@ -1,32 +1,32 @@
- 480802 com
-  97689 net
+ 480787 com
+  97690 net
   53100 br
-  45208 de
-  43805 org
+  45207 de
+  43809 org
   32425 xxx
-  28096 ru
-  27222 info
+  28024 ru
+  27220 info
   25469 xyz
   22097 nl
-  16591 uk
+  16592 uk
   13516 fr
-  10911 co
-  10644 in
-  10472 eu
-   9118 top
+  10910 co
+  10647 in
+  10473 eu
+   9117 top
    8749 biz
    8440 me
    7746 it
-   7379 club
+   7378 club
    7336 cn
    6798 ch
    6723 jp
    6183 pro
-   6140 cc
+   6141 cc
    6086 es
    6064 us
    5533 tv
-   5460 pl
+   5459 pl
    5252 ca
    5000 be
    4939 vip
@@ -45,6 +45,6 @@
    2915 porn
    2763 live
    2756 ro
-   2663 tw
+   2662 tw
    2435 pw
    2272 sg
