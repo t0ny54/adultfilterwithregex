@@ -1,30 +1,30 @@
- 480787 com
-  97690 net
-  53100 br
-  45207 de
-  43809 org
+ 480744 com
+  97670 net
+  53099 br
+  45205 de
+  43804 org
   32425 xxx
-  28024 ru
-  27220 info
-  25469 xyz
-  22097 nl
-  16592 uk
-  13516 fr
+  27988 ru
+  27219 info
+  25463 xyz
+  22096 nl
+  16591 uk
+  13515 fr
   10910 co
-  10647 in
-  10473 eu
-   9117 top
-   8749 biz
-   8440 me
+  10646 in
+  10472 eu
+   9116 top
+   8748 biz
+   8444 me
    7746 it
-   7378 club
-   7336 cn
+   7370 club
+   7337 cn
    6798 ch
    6723 jp
    6183 pro
-   6141 cc
+   6140 cc
    6086 es
-   6064 us
+   6063 us
    5533 tv
    5459 pl
    5252 ca
@@ -32,7 +32,7 @@
    4939 vip
    4933 au
    4622 online
-   4220 site
+   4219 site
    4143 at
    4057 cz
    3851 mobi
@@ -43,7 +43,7 @@
    3195 hu
    2961 tk
    2915 porn
-   2763 live
+   2762 live
    2756 ro
    2662 tw
    2435 pw
