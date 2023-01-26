@@ -1,22 +1,22 @@
- 480656 com
-  97700 net
+ 480703 com
+  97687 net
   53100 br
   45199 de
-  43809 org
+  43807 org
   32425 xxx
-  28116 ru
-  27218 info
+  27987 ru
+  27222 info
   25471 xyz
   22099 nl
   16593 uk
   13517 fr
   10909 co
-  10648 in
+  10647 in
   10473 eu
-   9116 top
+   9118 top
    8748 biz
-   8542 me
-   7750 it
+   8539 me
+   7749 it
    7369 club
    7335 cn
    6799 ch
@@ -27,12 +27,12 @@
    6064 us
    5533 tv
    5459 pl
-   5253 ca
+   5254 ca
    5000 be
    4939 vip
    4935 au
    4622 online
-   4220 site
+   4218 site
    4143 at
    4057 cz
    3851 mobi
@@ -45,6 +45,6 @@
    2915 porn
    2762 live
    2757 ro
-   2662 tw
+   2663 tw
    2435 pw
    2272 sg
