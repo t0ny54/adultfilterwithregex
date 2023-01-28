@@ -1,10 +1,10 @@
- 480520 com
-  97643 net
-  53100 br
+ 479897 com
+  97642 net
+  53101 br
   45143 de
-  43779 org
+  43778 org
   32428 xxx
-  27974 ru
+  28065 ru
   27205 info
   25457 xyz
   22079 nl
@@ -13,12 +13,12 @@
   10896 co
   10645 in
   10470 eu
-   9099 top
-   8743 biz
+   9102 top
+   8742 biz
    8539 me
    7746 it
    7367 club
-   7330 cn
+   7329 cn
    6797 ch
    6722 jp
    6182 pro
@@ -26,16 +26,16 @@
    6085 es
    6064 us
    5646 tv
-   5457 pl
+   5456 pl
    5252 ca
    4998 be
    4939 vip
-   4934 au
-   4615 online
-   4215 site
+   4933 au
+   4616 online
+   4214 site
    4140 at
    4057 cz
-   3850 mobi
+   3852 mobi
    3695 dk
    3642 tr
    3418 id
@@ -44,7 +44,7 @@
    2960 tk
    2915 porn
    2763 live
-   2756 ro
+   2757 ro
    2662 tw
    2434 pw
    2271 sg
