@@ -1,39 +1,39 @@
- 479897 com
-  97642 net
+ 479816 com
+  97644 net
   53101 br
-  45143 de
-  43778 org
+  45144 de
+  43777 org
   32428 xxx
   28065 ru
   27205 info
-  25457 xyz
+  25455 xyz
   22079 nl
   16593 uk
   13508 fr
-  10896 co
-  10645 in
-  10470 eu
+  10895 co
+  10644 in
+  10469 eu
    9102 top
    8742 biz
-   8539 me
+   8534 me
    7746 it
    7367 club
-   7329 cn
+   7327 cn
    6797 ch
    6722 jp
-   6182 pro
+   6181 pro
    6139 cc
    6085 es
    6064 us
    5646 tv
    5456 pl
-   5252 ca
+   5251 ca
    4998 be
    4939 vip
    4933 au
    4616 online
    4214 site
-   4140 at
+   4141 at
    4057 cz
    3852 mobi
    3695 dk
@@ -43,7 +43,7 @@
    3194 hu
    2960 tk
    2915 porn
-   2763 live
+   2762 live
    2757 ro
    2662 tw
    2434 pw
