@@ -1,50 +1,50 @@
- 477715 com
-  97153 net
-  53046 br
-  44984 de
-  43583 org
+ 477673 com
+  97155 net
+  53044 br
+  44983 de
+  43577 org
   32404 xxx
-  27845 ru
+  27846 ru
   26996 info
-  25290 xyz
-  21926 nl
-  16514 uk
-  13421 fr
-  10879 co
-  10581 in
+  25270 xyz
+  21962 nl
+  16508 uk
+  13420 fr
+  10878 co
+  10579 in
   10360 eu
-   9093 top
-   8689 biz
-   8478 me
+   9087 top
+   8694 biz
+   8476 me
    7730 it
    7320 club
-   7239 cn
+   7240 cn
    6750 ch
    6693 jp
-   6097 cc
-   6070 pro
+   6094 cc
+   6067 pro
    6062 es
-   6024 us
-   5632 tv
+   6022 us
+   5631 tv
    5405 pl
    5249 ca
-   5075 be
-   4939 vip
+   5074 be
+   4938 vip
    4914 au
-   4581 online
+   4577 online
    4187 site
-   4127 at
+   4126 at
    4116 cz
-   3810 mobi
+   3809 mobi
    3680 dk
    3636 tr
    3413 id
    3180 hu
-   3177 se
-   2957 tk
+   3176 se
+   2955 tk
    2909 porn
-   2743 live
    2740 ro
+   2740 live
    2651 tw
-   2423 pw
+   2424 pw
    2266 sg
