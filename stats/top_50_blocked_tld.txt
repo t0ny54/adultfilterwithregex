@@ -1,22 +1,22 @@
- 477714 com
-  97143 net
-  53042 br
+ 477690 com
+  97144 net
+  53043 br
   44988 de
-  43571 org
-  32402 xxx
-  27761 ru
-  27013 info
+  43568 org
+  32406 xxx
+  27791 ru
+  27011 info
   25261 xyz
-  21983 nl
+  21951 nl
   16508 uk
   13422 fr
   10888 co
-  10591 in
-  10363 eu
-   9072 top
+  10589 in
+  10364 eu
+   9071 top
    8736 biz
-   8471 me
-   7729 it
+   8472 me
+   7730 it
    7317 club
    7241 cn
    6752 ch
@@ -25,13 +25,13 @@
    6062 pro
    6062 es
    6012 us
-   5626 tv
+   5623 tv
    5405 pl
    5250 ca
    5070 be
    4935 vip
    4913 au
-   4575 online
+   4574 online
    4177 site
    4126 at
    4116 cz
@@ -43,7 +43,7 @@
    3176 se
    2955 tk
    2910 porn
-   2740 live
+   2741 live
    2738 ro
    2651 tw
    2425 pw
