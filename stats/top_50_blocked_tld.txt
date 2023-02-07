@@ -1,50 +1,50 @@
- 477690 com
-  97144 net
-  53043 br
+ 477682 com
+  97151 net
+  53047 br
   44988 de
-  43568 org
+  43573 org
   32406 xxx
-  27791 ru
-  27011 info
-  25261 xyz
+  27805 ru
+  27014 info
+  25260 xyz
   21951 nl
-  16508 uk
-  13422 fr
+  16509 uk
+  13423 fr
   10888 co
-  10589 in
+  10590 in
   10364 eu
    9071 top
    8736 biz
    8472 me
-   7730 it
-   7317 club
-   7241 cn
-   6752 ch
-   6693 jp
-   6087 cc
+   7731 it
+   7315 club
+   7239 cn
+   6753 ch
+   6694 jp
+   6089 cc
    6062 pro
    6062 es
-   6012 us
-   5623 tv
+   6011 us
+   5624 tv
    5405 pl
    5250 ca
-   5070 be
+   5071 be
    4935 vip
    4913 au
-   4574 online
-   4177 site
+   4573 online
+   4180 site
    4126 at
-   4116 cz
+   4117 cz
    3809 mobi
    3680 dk
    3636 tr
    3413 id
    3180 hu
-   3176 se
-   2955 tk
+   3177 se
+   2956 tk
    2910 porn
-   2741 live
+   2742 live
    2738 ro
-   2651 tw
+   2652 tw
    2425 pw
    2266 sg
