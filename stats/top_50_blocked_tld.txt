@@ -1,40 +1,40 @@
- 477668 com
-  97140 net
+ 477774 com
+  97137 net
   53047 br
-  44986 de
-  43573 org
+  44984 de
+  43572 org
   32406 xxx
-  27788 ru
-  27010 info
-  25252 xyz
+  27791 ru
+  27009 info
+  25255 xyz
   21951 nl
   16508 uk
-  13423 fr
+  13425 fr
   10888 co
-  10592 in
-  10366 eu
-   9065 top
-   8732 biz
+  10595 in
+  10367 eu
+   9059 top
+   8730 biz
    8472 me
    7731 it
-   7310 club
-   7237 cn
+   7311 club
+   7236 cn
    6753 ch
    6694 jp
    6089 cc
-   6062 pro
-   6062 es
-   6011 us
-   5624 tv
-   5404 pl
+   6063 es
+   6061 pro
+   6012 us
+   5623 tv
+   5406 pl
    5250 ca
    5071 be
    4935 vip
    4913 au
    4573 online
-   4179 site
+   4178 site
    4126 at
-   4117 cz
+   4121 cz
    3809 mobi
    3680 dk
    3636 tr
@@ -42,7 +42,7 @@
    3180 hu
    3177 se
    2953 tk
-   2910 porn
+   2912 porn
    2742 live
    2738 ro
    2651 tw
