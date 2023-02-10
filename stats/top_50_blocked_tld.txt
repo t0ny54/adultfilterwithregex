@@ -1,32 +1,32 @@
- 477774 com
-  97137 net
-  53047 br
-  44984 de
-  43572 org
-  32406 xxx
-  27791 ru
-  27009 info
-  25255 xyz
+ 477723 com
+  97138 net
+  53048 br
+  44974 de
+  43571 org
+  32407 xxx
+  27794 ru
+  27008 info
+  25253 xyz
   21951 nl
   16508 uk
-  13425 fr
+  13424 fr
   10888 co
   10595 in
-  10367 eu
-   9059 top
-   8730 biz
+  10368 eu
+   9053 top
+   8729 biz
    8472 me
-   7731 it
-   7311 club
-   7236 cn
+   7732 it
+   7312 club
+   7231 cn
    6753 ch
    6694 jp
-   6089 cc
-   6063 es
-   6061 pro
+   6094 cc
+   6064 es
+   6060 pro
    6012 us
    5623 tv
-   5406 pl
+   5404 pl
    5250 ca
    5071 be
    4935 vip
@@ -34,14 +34,14 @@
    4573 online
    4178 site
    4126 at
-   4121 cz
+   4120 cz
    3809 mobi
    3680 dk
    3636 tr
    3413 id
-   3180 hu
+   3181 hu
    3177 se
-   2953 tk
+   2950 tk
    2912 porn
    2742 live
    2738 ro
