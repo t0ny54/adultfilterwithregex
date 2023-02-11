@@ -1,41 +1,41 @@
- 477723 com
-  97138 net
+ 477702 com
+  97137 net
   53048 br
-  44974 de
-  43571 org
+  44970 de
+  43568 org
   32407 xxx
-  27794 ru
+  27883 ru
   27008 info
   25253 xyz
   21951 nl
-  16508 uk
+  16507 uk
   13424 fr
   10888 co
-  10595 in
+  10596 in
   10368 eu
-   9053 top
-   8729 biz
+   9049 top
+   8728 biz
    8472 me
-   7732 it
-   7312 club
-   7231 cn
+   7731 it
+   7311 club
+   7228 cn
    6753 ch
    6694 jp
    6094 cc
-   6064 es
-   6060 pro
+   6078 pro
+   6066 es
    6012 us
    5623 tv
-   5404 pl
+   5403 pl
    5250 ca
    5071 be
    4935 vip
    4913 au
-   4573 online
+   4571 online
    4178 site
    4126 at
    4120 cz
-   3809 mobi
+   3812 mobi
    3680 dk
    3636 tr
    3413 id
@@ -43,8 +43,8 @@
    3177 se
    2950 tk
    2912 porn
-   2742 live
-   2738 ro
+   2741 live
+   2739 ro
    2651 tw
    2425 pw
    2266 sg
