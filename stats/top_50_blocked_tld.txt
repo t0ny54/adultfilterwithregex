@@ -1,50 +1,50 @@
- 477702 com
-  97137 net
-  53048 br
-  44970 de
-  43568 org
-  32407 xxx
-  27883 ru
-  27008 info
-  25253 xyz
-  21951 nl
-  16507 uk
-  13424 fr
-  10888 co
-  10596 in
-  10368 eu
-   9049 top
-   8728 biz
-   8472 me
-   7731 it
-   7311 club
-   7228 cn
-   6753 ch
-   6694 jp
-   6094 cc
-   6078 pro
-   6066 es
-   6012 us
-   5623 tv
-   5403 pl
-   5250 ca
-   5071 be
-   4935 vip
-   4913 au
-   4571 online
-   4178 site
+ 477220 com
+  97096 net
+  53040 br
+  44959 de
+  43547 org
+  32406 xxx
+  27853 ru
+  26995 info
+  25228 xyz
+  21938 nl
+  16494 uk
+  13411 fr
+  10887 co
+  10594 in
+  10358 eu
+   9035 top
+   8721 biz
+   8466 me
+   7729 it
+   7308 club
+   7226 cn
+   6752 ch
+   6691 jp
+   6079 cc
+   6075 pro
+   6062 es
+   6009 us
+   5621 tv
+   5399 pl
+   5248 ca
+   5069 be
+   4934 vip
+   4911 au
+   4567 online
+   4176 site
    4126 at
-   4120 cz
-   3812 mobi
+   4115 cz
+   3810 mobi
    3680 dk
    3636 tr
    3413 id
    3181 hu
-   3177 se
-   2950 tk
-   2912 porn
-   2741 live
+   3176 se
+   2939 tk
+   2911 porn
    2739 ro
+   2737 live
    2651 tw
    2425 pw
    2266 sg
