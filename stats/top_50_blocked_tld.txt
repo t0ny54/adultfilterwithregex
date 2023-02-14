@@ -1,20 +1,20 @@
- 478463 com
-  97234 net
+ 478449 com
+  97230 net
   53060 br
-  44976 de
+  44975 de
   43604 org
   32407 xxx
-  27894 ru
-  27022 info
-  25282 xyz
-  21965 nl
-  16525 uk
+  27843 ru
+  27021 info
+  25280 xyz
+  21967 nl
+  16527 uk
   13439 fr
   10897 co
-  10606 in
-  10377 eu
-   9054 top
-   8730 biz
+  10605 in
+  10378 eu
+   9052 top
+   8729 biz
    8470 me
    7746 it
    7315 club
@@ -30,7 +30,7 @@
    5256 ca
    5079 be
    4941 vip
-   4921 au
+   4922 au
    4593 online
    4190 site
    4132 at
@@ -43,7 +43,7 @@
    3181 se
    2959 tk
    2911 porn
-   2747 live
+   2746 live
    2742 ro
    2651 tw
    2431 pw
