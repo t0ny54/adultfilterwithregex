@@ -1,49 +1,49 @@
- 478520 com
-  97232 net
-  53060 br
-  44975 de
-  43604 org
+ 478559 com
+  97237 net
+  53058 br
+  44978 de
+  43602 org
   32407 xxx
-  27946 ru
-  27021 info
-  25275 xyz
-  21968 nl
-  16526 uk
-  13439 fr
-  10895 co
-  10604 in
-  10378 eu
-   9050 top
-   8729 biz
-   8475 me
+  27895 ru
+  27014 info
+  25270 xyz
+  21972 nl
+  16525 uk
+  13441 fr
+  10896 co
+  10610 in
+  10379 eu
+   9055 top
+   8726 biz
+   8477 me
    7746 it
-   7315 club
+   7317 club
    7226 cn
-   6761 ch
+   6762 ch
    6695 jp
-   6102 pro
-   6099 cc
-   6086 us
+   6127 us
+   6109 pro
+   6098 cc
    6074 es
-   5629 tv
+   5628 tv
    5409 pl
-   5256 ca
+   5261 ca
    5079 be
-   4941 vip
+   4940 vip
    4922 au
-   4593 online
-   4190 site
-   4132 at
-   4120 cz
+   4588 online
+   4185 site
+   4131 at
+   4117 cz
    3811 mobi
    3686 dk
    3636 tr
-   3414 id
-   3187 hu
+   3415 id
+   3186 hu
    3181 se
    2959 tk
-   2911 porn
-   2746 live
+   2909 porn
+   2747 live
    2742 ro
    2651 tw
    2431 pw
