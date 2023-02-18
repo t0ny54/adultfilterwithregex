@@ -1,24 +1,24 @@
- 478545 com
+ 478538 com
   97236 net
   53058 br
-  44979 de
+  44978 de
   43601 org
   32407 xxx
   27891 ru
-  27013 info
-  25269 xyz
+  27015 info
+  25265 xyz
   21972 nl
   16525 uk
   13441 fr
-  10896 co
+  10895 co
   10610 in
   10379 eu
-   9057 top
-   8726 biz
+   9052 top
+   8824 biz
    8477 me
    7746 it
    7317 club
-   7225 cn
+   7223 cn
    6762 ch
    6695 jp
    6127 us
@@ -26,14 +26,14 @@
    6100 cc
    6074 es
    5628 tv
-   5409 pl
+   5408 pl
    5261 ca
    5081 be
-   4940 vip
+   4939 vip
    4922 au
    4587 online
-   4185 site
-   4131 at
+   4184 site
+   4132 at
    4117 cz
    3811 mobi
    3686 dk
