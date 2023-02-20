@@ -1,50 +1,50 @@
- 478552 com
-  97215 net
-  53059 br
-  44973 de
-  43597 org
-  32405 xxx
-  27884 ru
-  26988 info
-  25184 xyz
-  21967 nl
-  16519 uk
-  13446 fr
-  10889 co
-  10610 in
-  10380 eu
-   9045 top
-   8822 biz
-   8486 me
-   7751 it
-   7315 club
+ 478601 com
+  97235 net
+  53063 br
+  44933 de
+  43603 org
+  32403 xxx
+  27879 ru
+  26985 info
+  25175 xyz
+  21971 nl
+  16513 uk
+  13448 fr
+  10884 co
+  10607 in
+  10387 eu
+   9044 top
+   8817 biz
+   8493 me
+   7750 it
+   7312 club
    7225 cn
-   6765 ch
+   6768 ch
    6695 jp
-   6156 us
-   6127 pro
-   6106 cc
-   6074 es
-   5636 tv
-   5409 pl
-   5264 ca
-   5081 be
-   4936 vip
-   4922 au
-   4580 online
-   4177 site
-   4132 at
-   4106 cz
-   3824 mobi
+   6150 us
+   6128 pro
+   6112 cc
+   6072 es
+   5640 tv
+   5411 pl
+   5265 ca
+   5083 be
+   4937 vip
+   4923 au
+   4576 online
+   4176 site
+   4130 at
+   4104 cz
+   3825 mobi
    3687 dk
    3635 tr
    3416 id
    3185 hu
    3180 se
-   2963 tk
-   2910 porn
+   2961 tk
+   2909 porn
    2751 live
-   2744 ro
-   2652 tw
-   2431 pw
+   2745 ro
+   2651 tw
+   2432 pw
    2268 sg
