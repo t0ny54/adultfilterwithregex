@@ -1,47 +1,47 @@
- 478254 com
-  97230 net
+ 478302 com
+  97223 net
   53050 br
   44905 de
-  43608 org
-  32407 xxx
-  27788 ru
-  26982 info
-  25184 xyz
-  21965 nl
-  16507 uk
-  13447 fr
+  43612 org
+  32408 xxx
+  27791 ru
+  26981 info
+  25185 xyz
+  21966 nl
+  16511 uk
+  13450 fr
   10885 co
-  10607 in
-  10400 eu
-   9044 top
-   8823 biz
-   8491 me
-   7743 it
-   7313 club
+  10608 in
+  10404 eu
+   9045 top
+   8822 biz
+   8492 me
+   7745 it
+   7312 club
    7225 cn
    6763 ch
    6695 jp
-   6237 us
+   6238 us
    6134 pro
    6117 cc
    6076 es
    5643 tv
    5406 pl
-   5265 ca
-   5083 be
-   4940 vip
+   5268 ca
+   5085 be
+   4941 vip
    4917 au
    4590 online
-   4173 site
-   4129 at
-   4103 cz
+   4174 site
+   4130 at
+   4104 cz
    3829 mobi
    3686 dk
    3635 tr
    3417 id
    3180 hu
    3177 se
-   2954 tk
+   2956 tk
    2910 porn
    2758 live
    2744 ro
