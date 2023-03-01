@@ -1,50 +1,50 @@
- 478302 com
-  97223 net
-  53050 br
+ 478396 com
+  97226 net
+  53053 br
   44905 de
-  43612 org
-  32408 xxx
-  27791 ru
-  26981 info
-  25185 xyz
-  21966 nl
-  16511 uk
-  13450 fr
-  10885 co
-  10608 in
-  10404 eu
-   9045 top
+  43621 org
+  32409 xxx
+  27794 ru
+  26989 info
+  25194 xyz
+  21968 nl
+  16514 uk
+  13455 fr
+  10887 co
+  10607 in
+  10410 eu
+   9046 top
    8822 biz
-   8492 me
-   7745 it
+   8495 me
+   7746 it
    7312 club
    7225 cn
    6763 ch
    6695 jp
    6238 us
-   6134 pro
+   6144 pro
    6117 cc
-   6076 es
+   6081 es
    5643 tv
-   5406 pl
-   5268 ca
-   5085 be
-   4941 vip
-   4917 au
-   4590 online
+   5408 pl
+   5271 ca
+   5088 be
+   4942 vip
+   4918 au
+   4602 online
    4174 site
-   4130 at
-   4104 cz
-   3829 mobi
-   3686 dk
+   4131 at
+   4106 cz
+   3833 mobi
+   3689 dk
    3635 tr
    3417 id
    3180 hu
    3177 se
-   2956 tk
+   2955 tk
    2910 porn
-   2758 live
+   2759 live
    2744 ro
    2651 tw
    2432 pw
-   2267 sg
+   2268 sg
