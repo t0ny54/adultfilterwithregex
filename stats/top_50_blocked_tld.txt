@@ -1,50 +1,50 @@
- 477007 com
-  96899 net
-  52991 br
-  44862 de
-  43448 org
+ 475689 com
+  96842 net
+  52993 br
+  44026 de
+  43406 org
   32386 xxx
-  27693 ru
-  26815 info
-  25214 xyz
-  21978 nl
-  16448 uk
-  13409 fr
-  10870 co
-  10571 in
-  10343 eu
-   9039 top
-   8729 biz
-   8467 me
-   7727 it
-   7269 club
-   7155 cn
-   6733 ch
+  27711 ru
+  26819 info
+  25205 xyz
+  21976 nl
+  16434 uk
+  13372 fr
+  10842 co
+  10574 in
+  10329 eu
+   9070 top
+   8727 biz
+   8468 me
+   7705 it
+   7230 club
+   7150 cn
    6694 jp
-   6184 us
-   6169 pro
-   6096 cc
-   6060 es
-   5624 tv
-   5375 pl
-   5271 ca
-   5077 be
-   4942 vip
-   4889 au
-   4567 online
-   4152 site
-   4120 at
+   6690 ch
+   6207 us
+   6175 pro
+   6095 cc
+   6049 es
+   5626 tv
+   5374 pl
+   5269 ca
+   5075 be
+   4945 vip
+   4886 au
+   4565 online
+   4149 site
    4089 cz
-   3812 mobi
-   3663 dk
+   3972 at
+   3816 mobi
+   3660 dk
    3633 tr
-   3412 id
+   3411 id
    3169 hu
-   3161 se
+   3155 se
    2953 tk
-   2903 porn
+   2906 porn
    2748 live
    2727 ro
-   2645 tw
-   2418 pw
-   2268 sg
+   2648 tw
+   2419 pw
+   2267 sg
