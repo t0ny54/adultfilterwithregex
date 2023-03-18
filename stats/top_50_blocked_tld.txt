@@ -1,11 +1,11 @@
- 505747 com
-  99810 net
+ 505946 com
+  99811 net
   53168 br
   46045 de
   44440 org
   32403 xxx
   28424 ru
-  27592 info
+  27596 info
   26006 xyz
   23961 nl
   16920 uk
@@ -33,8 +33,8 @@
    4999 au
    4893 online
    4709 at
-   4654 cz
-   4307 site
+   4653 cz
+   4308 site
    4063 dk
    3941 mobi
    3671 live
@@ -47,4 +47,4 @@
    2892 ro
    2650 tw
    2465 pw
-   2294 app
+   2295 app
