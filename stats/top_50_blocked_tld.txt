@@ -1,8 +1,8 @@
- 505946 com
-  99811 net
+ 505744 com
+  99815 net
   53168 br
   46045 de
-  44440 org
+  44441 org
   32403 xxx
   28424 ru
   27596 info
@@ -13,10 +13,10 @@
   13723 eu
   11203 co
   11050 in
-   9877 top
+   9878 top
    8878 biz
    8823 it
-   8711 me
+   8716 me
    7422 club
    7318 cn
    6890 ch
@@ -34,8 +34,8 @@
    4893 online
    4709 at
    4653 cz
-   4308 site
-   4063 dk
+   4309 site
+   4064 dk
    3941 mobi
    3671 live
    3666 tr
