@@ -1,39 +1,39 @@
- 505083 com
-  99186 net
+ 505183 com
+  99178 net
   53241 br
-  45730 de
-  44565 org
+  45732 de
+  44567 org
   32400 xxx
   28507 ru
-  27344 info
+  27345 info
   25253 xyz
-  23691 nl
+  23694 nl
   17042 uk
   13598 fr
   11045 in
   11002 co
-  10700 eu
-   9850 top
+  10701 eu
+   9852 top
    8790 biz
-   8688 it
-   8662 me
+   8690 it
+   8663 me
    7394 club
    7193 cn
    6890 ch
    6813 pro
    6689 jp
-   6422 us
+   6423 us
    6406 cc
    6292 es
-   5907 pl
+   5902 pl
    5612 tv
    5310 ca
    5257 be
    5084 vip
-   5079 au
-   4769 online
+   5080 au
+   4770 online
    4615 cz
-   4533 at
+   4534 at
    4303 site
    3951 mobi
    3734 dk
@@ -46,5 +46,5 @@
    2910 porn
    2791 ro
    2651 tw
-   2411 pw
+   2412 pw
    2310 app
