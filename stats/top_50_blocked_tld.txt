@@ -1,49 +1,49 @@
- 508012 com
-  99045 net
-  53214 br
-  45652 de
-  44524 org
-  32408 xxx
-  28273 ru
-  27471 info
-  25655 xyz
-  23754 nl
-  17298 uk
-  14597 fr
-  13796 eu
-  11175 co
+ 507892 com
+  99054 net
+  53218 br
+  45656 de
+  44528 org
+  32409 xxx
+  28275 ru
+  27482 info
+  25656 xyz
+  23756 nl
+  17309 uk
+  14601 fr
+  13747 eu
+  11176 co
   11068 in
-   9844 top
+   9846 top
    8815 biz
-   8715 it
-   8697 me
-   7365 club
-   7135 cn
-   6882 ch
-   6761 pro
+   8716 it
+   8702 me
+   7366 club
+   7132 cn
+   6879 ch
+   6762 pro
    6671 jp
-   6518 es
+   6519 es
    6409 cc
-   6384 us
-   6346 pl
-   5649 ca
-   5601 tv
-   5519 be
-   5105 online
-   5082 vip
-   5039 au
-   4657 cz
+   6392 us
+   6345 pl
+   5652 ca
+   5602 tv
+   5520 be
+   5111 online
+   5084 vip
+   5040 au
    4653 at
-   4363 site
+   4648 cz
+   4359 site
    4124 dk
-   3939 mobi
+   3941 mobi
    3655 tr
-   3573 live
-   3428 id
+   3588 live
+   3427 id
    3334 se
-   3312 tk
+   3315 tk
    3243 hu
-   3239 ro
+   3240 ro
    2885 porn
    2645 tw
    2421 pw
