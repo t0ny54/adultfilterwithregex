@@ -1,50 +1,50 @@
- 508358 com
+ 508365 com
   99065 net
-  53220 br
-  45658 de
+  53221 br
+  45660 de
   44533 org
-  32409 xxx
-  28278 ru
-  27501 info
-  25667 xyz
-  23747 nl
-  17313 uk
-  14606 fr
-  13782 eu
+  32410 xxx
+  28281 ru
+  27508 info
+  25641 xyz
+  23746 nl
+  17321 uk
+  14608 fr
+  13748 eu
   11182 co
-  11072 in
-   9848 top
+  11073 in
+   9853 top
    8814 biz
-   8716 it
+   8718 it
    8699 me
-   7368 club
-   7133 cn
+   7369 club
+   7119 cn
    6881 ch
    6767 pro
    6671 jp
-   6520 es
+   6522 es
    6407 cc
-   6394 us
+   6396 us
    6345 pl
    5652 ca
-   5604 tv
-   5518 be
-   5114 online
-   5088 vip
-   5040 au
+   5605 tv
+   5533 be
+   5112 online
+   5090 vip
+   5041 au
    4653 at
    4652 cz
-   4369 site
+   4372 site
    4124 dk
    3944 mobi
    3655 tr
-   3587 live
+   3586 live
    3427 id
    3334 se
-   3315 tk
+   3318 tk
    3243 hu
    3240 ro
    2885 porn
    2645 tw
    2422 pw
-   2290 app
+   2289 app
