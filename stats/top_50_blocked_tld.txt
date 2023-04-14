@@ -1,44 +1,44 @@
- 502577 com
-  98781 net
+ 502944 com
+  98780 net
   53144 br
-  45462 de
-  44239 org
-  32399 xxx
-  28159 ru
-  27410 info
-  25502 xyz
-  23528 nl
+  45460 de
+  44242 org
+  32401 xxx
+  28160 ru
+  27416 info
+  25514 xyz
+  23527 nl
   16888 uk
-  14117 fr
-  13721 eu
-  11135 co
-  10993 in
-   9820 top
+  14118 fr
+  13720 eu
+  11136 co
+  10994 in
+   9823 top
    8776 biz
    8697 me
-   8667 it
-   7359 club
-   7110 cn
+   8665 it
+   7358 club
+   7126 cn
    6805 ch
-   6783 pro
+   6785 pro
    6668 jp
-   6472 es
-   6437 cc
-   6412 us
+   6469 es
+   6457 cc
+   6413 us
    6265 pl
    5611 tv
    5583 ca
-   5474 be
-   5082 vip
-   4995 au
-   4941 online
+   5473 be
+   5079 vip
+   4996 au
+   4945 online
    4644 at
    4630 cz
-   4309 site
+   4311 site
    4103 dk
    3942 mobi
    3652 tr
-   3594 live
+   3596 live
    3423 id
    3301 tk
    3277 se
