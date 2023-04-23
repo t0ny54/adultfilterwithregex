@@ -1,50 +1,50 @@
- 532418 com
- 101124 net
+ 532709 com
+ 101162 net
   53338 br
-  46721 de
-  45130 org
-  32521 xxx
-  28929 ru
-  27684 info
-  25664 xyz
-  24206 nl
-  17204 uk
-  16501 fr
-  13520 eu
-  11314 co
-  11095 in
-   9876 top
-   8924 biz
-   8823 it
-   8820 me
+  46743 de
+  45172 org
+  32527 xxx
+  28932 ru
+  27903 info
+  25678 xyz
+  24226 nl
+  17213 uk
+  16503 fr
+  13523 eu
+  11322 co
+  11097 in
+   9878 top
+   8929 biz
+   8825 me
+   8825 it
    7418 club
    7177 cn
-   6891 ch
-   6828 pro
+   6892 ch
+   6829 pro
    6759 jp
-   6613 pl
+   6617 pl
    6610 cc
-   6558 us
+   6574 us
    6549 es
-   5741 tv
-   5674 ca
-   5631 be
+   5742 tv
+   5676 ca
+   5625 be
    5096 vip
    5066 au
-   4997 online
+   4998 online
    4705 cz
-   4619 at
+   4616 at
    4345 site
    4186 dk
-   4118 mobi
+   4119 mobi
    3660 tr
-   3615 live
+   3617 live
    3469 id
-   3357 hu
+   3358 hu
    3347 tk
    3306 se
-   3265 ro
+   3266 ro
    2933 porn
    2653 tw
-   2439 pw
+   2446 pw
    2411 app
