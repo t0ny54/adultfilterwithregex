@@ -1,50 +1,50 @@
- 544807 com
- 102415 net
-  53415 br
-  47088 de
-  46245 org
+ 544832 com
+ 102409 net
+  53414 br
+  47082 de
+  46246 org
   32605 xxx
-  29034 ru
-  28225 info
+  29038 ru
+  28202 info
   26711 xyz
-  24368 nl
+  24367 nl
   17489 uk
   16589 fr
   13549 eu
-  11404 co
-  11140 in
-  10118 top
-   8980 biz
-   8940 me
+  11403 co
+  11139 in
+  10119 top
+   8981 biz
+   8941 me
    8895 it
    7505 club
-   7197 cn
+   7196 cn
    6938 ch
    6902 pro
-   6786 jp
-   6763 cc
+   6787 jp
+   6764 cc
    6687 pl
-   6684 us
+   6685 us
    6594 es
    5769 tv
    5715 ca
-   5654 be
-   5257 online
+   5665 be
+   5260 online
    5147 vip
-   5095 au
-   4744 cz
+   5094 au
+   4734 cz
    4645 at
    4504 site
    4219 dk
-   4153 mobi
-   3793 live
+   4154 mobi
+   3794 live
    3668 tr
-   3494 tk
-   3482 id
+   3493 tk
+   3481 id
    3393 hu
    3320 se
    3287 ro
    2978 porn
-   2664 tw
+   2665 tw
    2480 pw
    2428 app
