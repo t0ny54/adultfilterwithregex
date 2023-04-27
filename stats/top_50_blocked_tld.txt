@@ -1,50 +1,50 @@
- 544832 com
- 102409 net
-  53414 br
-  47082 de
-  46246 org
-  32605 xxx
-  29038 ru
-  28202 info
-  26711 xyz
-  24367 nl
-  17489 uk
-  16589 fr
-  13549 eu
-  11403 co
-  11139 in
-  10119 top
-   8981 biz
+ 544966 com
+ 102407 net
+  53415 br
+  47096 de
+  46252 org
+  32610 xxx
+  29048 ru
+  28187 info
+  26712 xyz
+  24365 nl
+  17491 uk
+  16588 fr
+  13532 eu
+  11405 co
+  11142 in
+  10120 top
+   8982 biz
    8941 me
    8895 it
    7505 club
    7196 cn
    6938 ch
-   6902 pro
-   6787 jp
-   6764 cc
-   6687 pl
+   6903 pro
+   6788 jp
+   6765 cc
+   6688 pl
    6685 us
    6594 es
    5769 tv
    5715 ca
-   5665 be
+   5652 be
    5260 online
    5147 vip
    5094 au
-   4734 cz
-   4645 at
-   4504 site
+   4699 cz
+   4655 at
+   4502 site
    4219 dk
    4154 mobi
-   3794 live
+   3795 live
    3668 tr
-   3493 tk
-   3481 id
+   3496 tk
+   3480 id
    3393 hu
-   3320 se
+   3321 se
    3287 ro
-   2978 porn
+   2981 porn
    2665 tw
    2480 pw
-   2428 app
+   2429 app
