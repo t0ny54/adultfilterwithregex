@@ -1,28 +1,28 @@
- 555824 com
- 103000 net
+ 555833 com
+ 102987 net
   53534 br
   47498 de
-  46727 org
+  46729 org
   32658 xxx
-  29186 ru
+  29229 ru
   28114 info
   26839 xyz
   24667 nl
-  17646 uk
+  17647 uk
   16863 fr
-  13561 eu
+  13562 eu
   11471 co
   11173 in
   10197 top
    9009 biz
-   8970 me
-   8952 it
+   8971 me
+   8953 it
    7517 club
    7209 cn
    6992 ch
    6910 pro
    6825 jp
-   6807 cc
+   6808 cc
    6797 pl
    6711 us
    6615 es
