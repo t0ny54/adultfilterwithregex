@@ -1,23 +1,23 @@
- 477181 com
-  95270 net
+ 477369 com
+  95263 net
   53307 br
   43434 de
-  43115 org
+  43112 org
   32366 xxx
-  28104 ru
-  26724 info
+  28103 ru
+  26723 info
   24391 xyz
   22047 nl
   16871 uk
   13023 fr
-  10691 in
+  10690 in
   10370 co
   10164 eu
-   9152 top
-   8352 biz
+   9154 top
+   8351 biz
    8025 it
    7869 me
-   7099 cn
+   7114 cn
    7061 club
    6745 ch
    6665 jp
@@ -28,12 +28,12 @@
    5659 pl
    5395 tv
    5296 ca
-   4982 be
+   4984 be
    4924 au
    4875 vip
    4357 online
    4208 cz
-   4036 site
+   4037 site
    4009 mobi
    3837 at
    3790 dk
