@@ -1,36 +1,36 @@
- 476764 com
-  95224 net
+ 476785 com
+  95222 net
   53295 br
   43425 de
-  43083 org
+  43082 org
   32365 xxx
-  28061 ru
+  28031 ru
   26682 info
-  24360 xyz
+  24376 xyz
   22032 nl
   16858 uk
-  13010 fr
+  13009 fr
   10690 in
   10338 co
-  10161 eu
-   9134 top
-   8347 biz
+  10160 eu
+   9135 top
+   8349 biz
    8020 it
    7859 me
    7112 cn
-   7058 club
+   7059 club
    6742 ch
    6664 jp
-   6319 es
-   6179 cc
-   6101 pro
+   6320 es
+   6185 cc
+   6103 pro
    5779 us
-   5657 pl
+   5658 pl
    5395 tv
    5296 ca
    4981 be
    4920 au
-   4879 vip
+   4882 vip
    4348 online
    4205 cz
    4033 site
@@ -46,5 +46,5 @@
    2850 porn
    2697 ro
    2641 tw
-   2361 pw
+   2363 pw
    2266 sg
