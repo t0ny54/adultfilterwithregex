@@ -1,5 +1,5 @@
- 486067 com
-  96182 net
+ 486106 com
+  96184 net
   53610 br
   43921 de
   43507 org
@@ -14,36 +14,36 @@
   10602 co
   10347 eu
    9280 top
-   8424 biz
+   8425 biz
    8301 it
    8296 me
    7194 club
    7085 cn
    6873 ch
    6631 jp
-   6568 es
-   6449 cc
-   6262 pro
+   6569 es
+   6450 cc
+   6261 pro
    6142 us
    5754 pl
-   5494 tv
+   5495 tv
    5295 ca
    5112 be
    4959 vip
    4908 au
-   4472 online
+   4473 online
    4263 cz
    4084 site
    4047 mobi
    3900 at
    3820 dk
-   3799 tk
+   3800 tk
    3673 tr
    3402 id
    3393 se
    3350 live
    3227 hu
-   2866 porn
+   2867 porn
    2743 ro
    2641 tw
    2370 pw
