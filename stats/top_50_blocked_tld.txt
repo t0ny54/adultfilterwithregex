@@ -1,18 +1,18 @@
- 486106 com
-  96184 net
-  53610 br
+ 486254 com
+  96211 net
+  53611 br
   43921 de
-  43507 org
+  43522 org
   32381 xxx
-  28555 ru
-  26940 info
-  24837 xyz
+  28592 ru
+  26947 info
+  24838 xyz
   22475 nl
-  16767 uk
+  16769 uk
   14339 fr
   10804 in
   10602 co
-  10347 eu
+  10349 eu
    9280 top
    8425 biz
    8301 it
@@ -21,7 +21,7 @@
    7085 cn
    6873 ch
    6631 jp
-   6569 es
+   6570 es
    6450 cc
    6261 pro
    6142 us
@@ -31,7 +31,7 @@
    5112 be
    4959 vip
    4908 au
-   4473 online
+   4474 online
    4263 cz
    4084 site
    4047 mobi
