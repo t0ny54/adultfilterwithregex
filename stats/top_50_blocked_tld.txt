@@ -1,43 +1,43 @@
- 486254 com
-  96211 net
-  53611 br
-  43921 de
-  43522 org
+ 486321 com
+  96189 net
+  53614 br
+  43917 de
+  43506 org
   32381 xxx
-  28592 ru
-  26947 info
-  24838 xyz
+  28534 ru
+  26988 info
+  24832 xyz
   22475 nl
-  16769 uk
+  16770 uk
   14339 fr
-  10804 in
-  10602 co
-  10349 eu
-   9280 top
-   8425 biz
+  10805 in
+  10610 co
+  10348 eu
+   9288 top
+   8431 biz
    8301 it
    8296 me
-   7194 club
-   7085 cn
+   7195 club
+   7100 cn
    6873 ch
    6631 jp
-   6570 es
+   6571 es
    6450 cc
-   6261 pro
-   6142 us
-   5754 pl
+   6264 pro
+   6141 us
+   5752 pl
    5495 tv
    5295 ca
    5112 be
    4959 vip
    4908 au
-   4474 online
+   4473 online
    4263 cz
-   4084 site
-   4047 mobi
+   4076 site
+   4046 mobi
    3900 at
-   3820 dk
-   3800 tk
+   3821 dk
+   3804 tk
    3673 tr
    3402 id
    3393 se
