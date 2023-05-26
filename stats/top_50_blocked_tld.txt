@@ -1,23 +1,23 @@
- 486320 com
-  96189 net
+ 486303 com
+  96184 net
   53614 br
   43917 de
-  43506 org
+  43501 org
   32381 xxx
-  28534 ru
-  26988 info
-  24832 xyz
+  28532 ru
+  26983 info
+  24812 xyz
   22475 nl
   16770 uk
   14339 fr
   10805 in
-  10610 co
+  10602 co
   10348 eu
-   9288 top
+   9284 top
    8431 biz
    8301 it
    8296 me
-   7195 club
+   7194 club
    7100 cn
    6873 ch
    6631 jp
@@ -25,15 +25,15 @@
    6450 cc
    6264 pro
    6141 us
-   5752 pl
+   5751 pl
    5495 tv
    5295 ca
-   5112 be
+   5114 be
    4959 vip
    4908 au
-   4473 online
+   4471 online
    4263 cz
-   4076 site
+   4072 site
    4046 mobi
    3900 at
    3821 dk
