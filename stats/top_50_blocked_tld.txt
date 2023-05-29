@@ -1,34 +1,34 @@
- 486237 com
-  96176 net
-  53614 br
+ 486225 com
+  96187 net
+  53615 br
   43917 de
-  43498 org
+  43509 org
   32381 xxx
-  28546 ru
-  26957 info
-  24802 xyz
+  28583 ru
+  26956 info
+  24800 xyz
   22475 nl
   16770 uk
   14339 fr
   10805 in
   10602 co
-  10332 eu
-   9281 top
+  10348 eu
+   9278 top
    8430 biz
    8305 it
-   8296 me
+   8291 me
    7181 club
    7100 cn
    6873 ch
-   6631 jp
    6571 es
    6450 cc
+   6449 jp
    6262 pro
    6141 us
    5751 pl
    5495 tv
    5295 ca
-   5114 be
+   5112 be
    4958 vip
    4908 au
    4470 online
