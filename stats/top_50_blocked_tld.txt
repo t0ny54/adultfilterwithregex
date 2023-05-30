@@ -1,47 +1,47 @@
- 486225 com
-  96187 net
-  53615 br
-  43917 de
-  43509 org
+ 486299 com
+  96194 net
+  53620 br
+  43919 de
+  43514 org
   32381 xxx
-  28583 ru
-  26956 info
-  24800 xyz
-  22475 nl
-  16770 uk
+  28588 ru
+  26958 info
+  24801 xyz
+  22482 nl
+  16771 uk
   14339 fr
-  10805 in
+  10806 in
   10602 co
-  10348 eu
-   9278 top
+  10350 eu
+   9284 top
    8430 biz
-   8305 it
-   8291 me
+   8307 it
+   8292 me
    7181 club
-   7100 cn
-   6873 ch
-   6571 es
-   6450 cc
+   7086 cn
+   6874 ch
+   6572 es
+   6451 cc
    6449 jp
-   6262 pro
-   6141 us
+   6266 pro
+   6142 us
    5751 pl
    5495 tv
    5295 ca
    5112 be
-   4958 vip
+   4961 vip
    4908 au
-   4470 online
-   4262 cz
+   4472 online
+   4265 cz
    4072 site
-   4046 mobi
+   4048 mobi
    3900 at
+   3833 tk
    3821 dk
-   3804 tk
    3673 tr
    3403 id
-   3393 se
-   3350 live
+   3394 se
+   3354 live
    3227 hu
    2867 porn
    2743 ro
