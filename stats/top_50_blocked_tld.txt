@@ -1,11 +1,11 @@
- 486363 com
-  96203 net
+ 486308 com
+  96191 net
   53626 br
-  43922 de
-  43516 org
+  43923 de
+  43517 org
   32381 xxx
   28591 ru
-  26961 info
+  26960 info
   24811 xyz
   22482 nl
   16773 uk
@@ -13,16 +13,16 @@
   10806 in
   10602 co
   10351 eu
-   9284 top
+   9275 top
    8430 biz
-   8307 it
-   8293 me
-   7182 club
+   8306 it
+   8297 me
+   7181 club
    7100 cn
    6874 ch
-   6630 jp
-   6573 es
-   6456 cc
+   6572 es
+   6458 cc
+   6448 jp
    6269 pro
    6144 us
    5752 pl
@@ -30,11 +30,11 @@
    5296 ca
    5112 be
    4961 vip
-   4909 au
-   4474 online
+   4910 au
+   4473 online
    4265 cz
-   4074 site
-   4048 mobi
+   4073 site
+   4047 mobi
    3901 at
    3835 tk
    3821 dk
