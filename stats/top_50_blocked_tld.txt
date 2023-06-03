@@ -1,50 +1,50 @@
- 487555 com
-  96390 net
-  53639 br
-  46313 org
+ 487532 com
+  96392 net
+  53638 br
+  46314 org
   43989 de
   32387 xxx
-  28576 ru
-  27035 info
-  24886 xyz
-  22517 nl
-  16791 uk
-  14347 fr
+  28569 ru
+  27033 info
+  24881 xyz
+  22516 nl
+  16792 uk
+  14349 fr
   10813 in
   10604 co
-  10511 eu
-   9277 top
+  10512 eu
+   9274 top
    8466 biz
-   8310 it
-   8300 me
+   8309 it
+   8301 me
    7188 club
    7111 cn
-   6882 ch
+   6881 ch
    6580 es
-   6470 cc
-   6459 jp
-   6297 pro
-   6153 us
-   5997 pl
+   6471 cc
+   6457 jp
+   6296 pro
+   6155 us
+   5996 pl
    5515 tv
-   5296 ca
+   5297 ca
    5128 be
    4962 vip
    4911 au
-   4480 online
-   4271 cz
+   4479 online
+   4269 cz
    4082 site
    4064 mobi
    4031 at
-   3835 tk
+   3834 tk
    3824 dk
-   3679 tr
+   3678 tr
    3404 id
    3400 se
-   3359 live
+   3360 live
    3234 hu
    2871 porn
    2793 ro
    2642 tw
-   2372 pw
+   2371 pw
    2272 sg
