@@ -1,50 +1,50 @@
- 493120 com
-  97125 net
-  53742 br
-  46541 org
-  44178 de
+ 493559 com
+  97145 net
+  53756 br
+  46558 org
+  44180 de
   32402 xxx
-  29061 ru
-  27403 info
-  25158 xyz
-  22941 nl
-  16934 uk
-  14456 fr
-  10927 in
-  10724 eu
-  10661 co
-   9417 top
-   8526 it
-   8511 biz
-   8466 me
+  29065 ru
+  27406 info
+  25161 xyz
+  22954 nl
+  16957 uk
+  14469 fr
+  10934 in
+  10727 eu
+  10662 co
+   9427 top
+   8533 it
+   8512 biz
+   8467 me
    7242 club
-   7113 cn
+   7114 cn
    6924 ch
-   6700 es
-   6549 cc
-   6473 jp
+   6705 es
+   6550 cc
+   6470 jp
    6393 pro
    6322 us
-   5990 pl
+   5998 pl
    5565 tv
-   5318 ca
-   5287 be
+   5323 ca
+   5288 be
    5034 vip
-   4928 au
-   4626 online
-   4290 cz
+   4932 au
+   4628 online
+   4293 cz
    4158 site
    4094 tk
    4079 mobi
-   4061 at
-   3853 dk
-   3692 tr
-   3450 se
+   4062 at
+   3859 dk
+   3693 tr
+   3456 se
    3444 live
    3400 id
-   3262 hu
-   2875 porn
-   2808 ro
+   3257 hu
+   2882 porn
+   2809 ro
    2637 tw
    2391 pw
    2270 sg
