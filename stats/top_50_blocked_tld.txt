@@ -1,50 +1,50 @@
- 499566 com
-  97921 net
-  53313 br
-  46637 org
-  43684 de
-  32527 xxx
-  30718 ru
-  27776 info
-  25336 xyz
-  22603 nl
-  17175 uk
-  14239 fr
+ 499603 com
+  97916 net
+  53315 br
+  46629 org
+  43689 de
+  32526 xxx
+  30772 ru
+  27774 info
+  25338 xyz
+  22607 nl
+  17176 uk
+  14243 fr
   10875 in
-  10765 eu
-  10587 co
-   9612 top
-   8687 me
-   8547 biz
-   8036 it
+  10768 eu
+  10625 co
+   9611 top
+   8688 me
+   8544 biz
+   8037 it
    7307 club
    7179 cn
    6927 cc
    6801 ch
    6707 jp
-   6548 us
+   6549 us
    6546 pro
    6337 es
    5668 pl
-   5666 tv
-   5285 ca
+   5665 tv
+   5286 ca
    5132 be
-   5123 vip
-   5060 online
-   4962 au
+   5124 vip
+   5059 online
+   4963 au
    4292 mobi
-   4240 site
+   4236 site
    4192 cz
    4159 ninja
    4029 at
-   3683 dk
+   3684 dk
    3671 tr
-   3592 live
+   3593 live
    3411 id
    3315 hu
-   3162 se
+   3163 se
    2884 porn
-   2744 ro
-   2671 tw
-   2620 tk
+   2745 ro
+   2672 tw
+   2634 tk
    2406 pw
