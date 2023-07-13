@@ -1,50 +1,50 @@
- 499603 com
-  97916 net
-  53315 br
-  46629 org
-  43689 de
-  32526 xxx
-  30772 ru
-  27774 info
-  25338 xyz
-  22607 nl
-  17176 uk
-  14243 fr
-  10875 in
-  10768 eu
-  10625 co
-   9611 top
-   8688 me
-   8544 biz
-   8037 it
-   7307 club
-   7179 cn
-   6927 cc
+ 499788 com
+  97952 net
+  53316 br
+  46648 org
+  43696 de
+  32527 xxx
+  30720 ru
+  27778 info
+  25350 xyz
+  22610 nl
+  17177 uk
+  14247 fr
+  10876 in
+  10770 eu
+  10667 co
+   9616 top
+   8691 me
+   8545 biz
+   8038 it
+   7308 club
+   7181 cn
+   6929 cc
    6801 ch
-   6707 jp
-   6549 us
-   6546 pro
-   6337 es
-   5668 pl
-   5665 tv
+   6708 jp
+   6550 us
+   6547 pro
+   6339 es
+   5671 pl
+   5668 tv
    5286 ca
-   5132 be
+   5134 be
    5124 vip
-   5059 online
+   5067 online
    4963 au
    4292 mobi
-   4236 site
-   4192 cz
+   4238 site
+   4194 cz
    4159 ninja
-   4029 at
+   4031 at
    3684 dk
    3671 tr
-   3593 live
+   3595 live
    3411 id
-   3315 hu
+   3317 hu
    3163 se
-   2884 porn
+   2885 porn
    2745 ro
    2672 tw
-   2634 tk
+   2660 tk
    2406 pw
