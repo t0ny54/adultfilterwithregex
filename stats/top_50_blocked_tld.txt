@@ -1,50 +1,50 @@
- 499788 com
-  97952 net
-  53316 br
-  46648 org
-  43696 de
+ 499893 com
+  97968 net
+  53321 br
+  46651 org
+  43699 de
   32527 xxx
-  30720 ru
-  27778 info
-  25350 xyz
-  22610 nl
-  17177 uk
-  14247 fr
+  30724 ru
+  27780 info
+  25351 xyz
+  22614 nl
+  17179 uk
+  14250 fr
   10876 in
-  10770 eu
-  10667 co
-   9616 top
-   8691 me
-   8545 biz
+  10772 eu
+  10689 co
+   9618 top
+   8688 me
+   8546 biz
    8038 it
-   7308 club
+   7309 club
    7181 cn
-   6929 cc
+   6930 cc
    6801 ch
-   6708 jp
-   6550 us
-   6547 pro
+   6709 jp
+   6552 us
+   6546 pro
    6339 es
-   5671 pl
-   5668 tv
-   5286 ca
-   5134 be
+   5672 pl
+   5667 tv
+   5287 ca
+   5133 be
    5124 vip
-   5067 online
+   5075 online
    4963 au
    4292 mobi
-   4238 site
-   4194 cz
+   4239 site
+   4196 cz
    4159 ninja
    4031 at
-   3684 dk
-   3671 tr
+   3685 dk
+   3673 tr
    3595 live
    3411 id
-   3317 hu
+   3318 hu
    3163 se
-   2885 porn
+   2886 porn
    2745 ro
+   2674 tk
    2672 tw
-   2660 tk
    2406 pw
