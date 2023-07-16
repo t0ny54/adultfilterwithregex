@@ -1,50 +1,50 @@
- 500048 com
-  97981 net
-  53324 br
-  46650 org
-  43701 de
+ 500069 com
+  97998 net
+  53323 br
+  46669 org
+  43702 de
   32528 xxx
-  30734 ru
-  27768 info
-  25348 xyz
-  22618 nl
-  17181 uk
-  14253 fr
-  10878 in
-  10774 eu
-  10714 co
-   9633 top
-   8695 me
-   8546 biz
-   8039 it
-   7308 club
-   7182 cn
-   6932 cc
+  30736 ru
+  27770 info
+  25362 xyz
+  22615 nl
+  17180 uk
+  14254 fr
+  10879 in
+  10772 eu
+  10732 co
+   9628 top
+   8697 me
+   8543 biz
+   8040 it
+   7312 club
+   7184 cn
+   6938 cc
    6801 ch
-   6553 us
-   6546 pro
-   6533 jp
-   6340 es
-   5670 pl
-   5668 tv
+   6552 us
+   6540 pro
+   6532 jp
+   6342 es
+   5674 pl
+   5671 tv
    5288 ca
    5134 be
-   5124 vip
-   5077 online
-   4963 au
-   4292 mobi
+   5123 vip
+   5072 online
+   4964 au
+   4283 mobi
    4239 site
    4196 cz
    4159 ninja
    4031 at
    3686 dk
-   3673 tr
-   3594 live
-   3411 id
-   3319 hu
+   3674 tr
+   3595 live
+   3410 id
+   3318 hu
    3163 se
    2886 porn
    2745 ro
-   2688 tk
+   2703 tk
    2673 tw
    2406 pw
