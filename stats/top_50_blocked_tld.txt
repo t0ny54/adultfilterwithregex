@@ -1,50 +1,50 @@
- 500069 com
-  97998 net
-  53323 br
-  46669 org
-  43702 de
-  32528 xxx
-  30736 ru
-  27770 info
+ 500110 com
+  98000 net
+  53324 br
+  46661 org
+  43704 de
+  32525 xxx
+  30699 ru
+  27755 info
   25362 xyz
-  22615 nl
-  17180 uk
-  14254 fr
-  10879 in
-  10772 eu
-  10732 co
-   9628 top
+  22612 nl
+  17182 uk
+  14257 fr
+  10883 in
+  10751 eu
+  10738 co
+   9629 top
    8697 me
-   8543 biz
-   8040 it
-   7312 club
-   7184 cn
-   6938 cc
+   8540 biz
+   8039 it
+   7309 club
+   7186 cn
+   6942 cc
    6801 ch
    6552 us
-   6540 pro
+   6536 pro
    6532 jp
-   6342 es
-   5674 pl
-   5671 tv
-   5288 ca
-   5134 be
+   6343 es
+   5673 pl
+   5672 tv
+   5290 ca
+   5136 be
    5123 vip
-   5072 online
-   4964 au
-   4283 mobi
+   5069 online
+   4963 au
+   4277 mobi
    4239 site
-   4196 cz
+   4197 cz
    4159 ninja
    4031 at
    3686 dk
-   3674 tr
+   3675 tr
    3595 live
    3410 id
    3318 hu
    3163 se
    2886 porn
-   2745 ro
-   2703 tk
+   2746 ro
+   2715 tk
    2673 tw
    2406 pw
