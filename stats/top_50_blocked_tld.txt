@@ -1,50 +1,50 @@
- 500736 com
-  98092 net
-  53329 br
-  46679 org
-  43714 de
+ 500993 com
+  98117 net
+  53333 br
+  46697 org
+  43719 de
   32524 xxx
-  30721 ru
-  27768 info
-  25385 xyz
-  22617 nl
-  17200 uk
-  14263 fr
-  10889 in
-  10778 co
-  10756 eu
-   9645 top
-   8702 me
-   8543 biz
-   8041 it
-   7316 club
+  30711 ru
+  27772 info
+  25390 xyz
+  22621 nl
+  17208 uk
+  14270 fr
+  10890 in
+  10803 co
+  10774 eu
+   9657 top
+   8704 me
+   8545 biz
+   8044 it
+   7322 club
    7189 cn
-   6950 cc
-   6800 ch
-   6559 us
-   6542 pro
+   6925 cc
+   6802 ch
+   6562 us
+   6546 pro
    6537 jp
-   6347 es
-   5679 tv
-   5674 pl
-   5294 ca
-   5143 be
-   5127 vip
-   5085 online
-   4966 au
-   4265 mobi
-   4241 site
-   4201 cz
+   6352 es
+   5678 tv
+   5677 pl
+   5296 ca
+   5146 be
+   5128 vip
+   5094 online
+   4967 au
+   4266 mobi
+   4242 site
+   4202 cz
    4159 ninja
-   4033 at
+   4034 at
    3687 dk
-   3675 tr
-   3602 live
+   3676 tr
+   3606 live
    3415 id
    3319 hu
    3168 se
    2886 porn
-   2758 tk
-   2748 ro
+   2780 tk
+   2749 ro
    2672 tw
-   2409 pw
+   2410 pw
