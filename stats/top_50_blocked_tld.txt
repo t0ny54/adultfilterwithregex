@@ -1,50 +1,50 @@
- 501564 com
-  98167 net
-  53343 br
-  46716 org
-  43727 de
+ 502020 com
+  98208 net
+  53357 br
+  46726 org
+  43732 de
   32526 xxx
-  30722 ru
-  27796 info
-  25411 xyz
-  22632 nl
-  17224 uk
-  14275 fr
-  10893 in
-  10837 co
-  10779 eu
-   9674 top
-   8720 me
-   8549 biz
-   8045 it
-   7328 club
-   7192 cn
-   6927 cc
+  30755 ru
+  27797 info
+  25432 xyz
+  22639 nl
+  17237 uk
+  14279 fr
+  10901 in
+  10861 co
+  10782 eu
+   9695 top
+   8719 me
+   8552 biz
+   8048 it
+   7332 club
+   7193 cn
+   6939 cc
    6805 ch
    6565 us
-   6551 pro
-   6537 jp
-   6355 es
+   6550 pro
+   6538 jp
+   6357 es
+   5681 pl
    5680 tv
-   5677 pl
    5298 ca
-   5146 be
-   5132 vip
-   5111 online
-   4968 au
-   4267 mobi
-   4249 site
-   4202 cz
+   5148 be
+   5137 vip
+   5124 online
+   4971 au
+   4269 mobi
+   4255 site
+   4203 cz
    4159 ninja
-   4034 at
-   3687 dk
+   4036 at
+   3688 dk
    3677 tr
-   3611 live
+   3614 live
    3418 id
-   3319 hu
+   3321 hu
    3171 se
-   2887 porn
-   2807 tk
-   2749 ro
+   2885 porn
+   2824 tk
+   2750 ro
    2672 tw
-   2412 pw
+   2414 pw
