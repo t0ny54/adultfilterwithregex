@@ -1,48 +1,48 @@
- 502937 com
-  98293 net
-  53376 br
-  46764 org
-  43746 de
-  32532 xxx
-  30827 ru
-  27812 info
-  25461 xyz
-  22654 nl
-  17256 uk
-  14294 fr
-  10916 in
-  10911 co
-  10787 eu
+ 503086 com
+  98312 net
+  53379 br
+  46778 org
+  43747 de
+  32533 xxx
+  30875 ru
+  27822 info
+  25466 xyz
+  22656 nl
+  17261 uk
+  14298 fr
+  10921 in
+  10915 co
+  10791 eu
    9756 top
-   8728 me
-   8553 biz
+   8729 me
+   8555 biz
    8055 it
    7339 club
-   7194 cn
-   6955 cc
-   6867 jp
-   6811 ch
-   6572 us
-   6568 pro
-   6362 es
-   5692 tv
-   5683 pl
+   7195 cn
+   6958 cc
+   6809 ch
+   6716 jp
+   6573 us
+   6573 pro
+   6363 es
+   5691 tv
+   5686 pl
    5302 ca
-   5174 online
+   5187 online
    5158 be
    5143 vip
-   4974 au
-   4276 mobi
-   4266 site
-   4209 cz
+   4975 au
+   4277 mobi
+   4268 site
+   4211 cz
    4160 ninja
    4039 at
    3689 dk
    3680 tr
    3619 live
    3419 id
-   3326 hu
-   3176 se
+   3327 hu
+   3175 se
    2887 porn
    2851 tk
    2752 ro
