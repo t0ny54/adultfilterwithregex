@@ -1,34 +1,34 @@
- 503487 com
-  98328 net
-  53380 br
-  46783 org
-  43748 de
+ 503581 com
+  98333 net
+  53382 br
+  46784 org
+  43751 de
   32533 xxx
-  30891 ru
-  27811 info
-  25466 xyz
+  30889 ru
+  27817 info
+  25464 xyz
   22663 nl
-  17265 uk
-  14301 fr
-  10923 in
+  17266 uk
+  14302 fr
+  10925 in
   10919 co
-  10793 eu
-   9771 top
+  10795 eu
+   9774 top
    8730 me
-   8555 biz
-   8057 it
-   7339 club
+   8553 biz
+   8058 it
+   7338 club
    7195 cn
-   6966 cc
+   6971 cc
    6812 ch
    6576 pro
    6574 us
    6538 jp
-   6365 es
-   5693 tv
+   6367 es
+   5694 tv
    5686 pl
    5302 ca
-   5195 online
+   5201 online
    5158 be
    5146 vip
    4975 au
@@ -37,14 +37,14 @@
    4214 cz
    4160 ninja
    4039 at
-   3689 dk
+   3690 dk
    3680 tr
-   3626 live
+   3627 live
    3419 id
-   3327 hu
+   3328 hu
    3176 se
    2887 porn
    2853 tk
    2753 ro
    2672 tw
-   2415 pw
+   2416 pw
