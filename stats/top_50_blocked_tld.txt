@@ -1,37 +1,37 @@
- 500492 com
-  98133 net
-  53296 br
-  46632 org
+ 500468 com
+  98139 net
+  53297 br
+  46634 org
   43724 de
   32527 xxx
-  30864 ru
-  27753 info
-  25369 xyz
-  22589 nl
+  30870 ru
+  27754 info
+  25372 xyz
+  22615 nl
   16910 uk
-  14281 fr
+  14286 fr
   10890 co
-  10877 in
+  10878 in
   10769 eu
-   9724 top
+   9725 top
    8698 me
    8547 biz
    8033 it
    7324 club
    7192 cn
-   6942 cc
+   6941 cc
    6808 ch
-   6551 us
+   6552 us
+   6540 jp
    6537 pro
-   6536 jp
    6343 es
    5680 tv
-   5673 pl
+   5674 pl
    5250 ca
-   5164 online
-   5136 be
-   5130 vip
-   4904 au
+   5166 online
+   5138 be
+   5131 vip
+   4905 au
    4275 mobi
    4258 site
    4204 cz
@@ -44,7 +44,7 @@
    3310 hu
    3163 se
    2885 porn
-   2847 tk
+   2849 tk
    2738 ro
    2666 tw
    2409 pw
