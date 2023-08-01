@@ -1,34 +1,34 @@
- 500468 com
-  98139 net
+ 500390 com
+  98141 net
   53297 br
-  46634 org
+  46631 org
   43724 de
   32527 xxx
-  30870 ru
-  27754 info
-  25372 xyz
+  30886 ru
+  27751 info
+  25369 xyz
   22615 nl
   16910 uk
   14286 fr
   10890 co
   10878 in
   10769 eu
-   9725 top
+   9724 top
    8698 me
-   8547 biz
+   8546 biz
    8033 it
    7324 club
-   7192 cn
+   7195 cn
    6941 cc
    6808 ch
    6552 us
    6540 jp
-   6537 pro
+   6536 pro
    6343 es
    5680 tv
    5674 pl
    5250 ca
-   5166 online
+   5165 online
    5138 be
    5131 vip
    4905 au
@@ -42,7 +42,7 @@
    3616 live
    3408 id
    3310 hu
-   3163 se
+   3162 se
    2885 porn
    2849 tk
    2738 ro
