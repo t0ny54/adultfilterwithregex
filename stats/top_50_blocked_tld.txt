@@ -1,50 +1,50 @@
- 500631 com
-  98274 net
-  53302 br
-  46663 org
-  43718 de
-  32568 xxx
-  30877 ru
-  27780 info
-  25402 xyz
-  22592 nl
-  16922 uk
-  14291 fr
-  10891 co
-  10875 in
-  10770 eu
-   9694 top
-   8708 me
-   8557 biz
-   8034 it
-   7343 club
+ 500869 com
+  98299 net
+  53311 br
+  46667 org
+  43717 de
+  32576 xxx
+  30865 ru
+  27790 info
+  25397 xyz
+  22584 nl
+  16925 uk
+  14299 fr
+  10917 co
+  10882 in
+  10769 eu
+   9688 top
+   8709 me
+   8559 biz
+   8035 it
+   7346 club
    7185 cn
-   6945 cc
+   6948 cc
    6815 ch
-   6576 pro
-   6547 us
-   6545 jp
-   6335 es
-   5684 pl
-   5680 tv
-   5253 ca
+   6586 pro
+   6551 jp
+   6550 us
+   6338 es
+   5687 pl
+   5683 tv
+   5255 ca
    5156 online
-   5146 be
-   5130 vip
-   4906 au
-   4350 mobi
-   4302 site
-   4201 cz
+   5152 be
+   5129 vip
+   4908 au
+   4344 mobi
+   4309 site
+   4207 cz
    4160 ninja
-   4041 at
+   4039 at
    3689 dk
-   3660 tr
-   3615 live
-   3409 id
-   3314 hu
+   3658 tr
+   3618 live
+   3410 id
+   3315 hu
    3160 se
    2882 porn
-   2856 tk
-   2743 ro
+   2867 tk
+   2742 ro
    2668 tw
    2406 pw
