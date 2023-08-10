@@ -1,50 +1,50 @@
- 501945 com
-  98369 net
-  53351 br
-  46719 org
-  43768 de
-  32580 xxx
-  31043 ru
-  27820 info
-  25456 xyz
-  22598 nl
-  16965 uk
-  14318 fr
-  10964 in
-  10929 co
-  10786 eu
-   9752 top
-   8728 me
+ 502124 com
+  98397 net
+  53361 br
+  46739 org
+  43771 de
+  32581 xxx
+  31131 ru
+  27813 info
+  25387 xyz
+  22597 nl
+  16979 uk
+  14321 fr
+  10968 in
+  10932 co
+  10789 eu
+   9759 top
+   8736 me
    8565 biz
-   8026 it
-   7349 club
-   7194 cn
-   6967 cc
-   6794 ch
-   6730 jp
-   6621 pro
-   6552 us
-   6355 es
-   5700 pl
-   5693 tv
-   5259 ca
-   5195 online
-   5167 be
+   8044 it
+   7348 club
+   7184 cn
+   6970 cc
+   6823 ch
+   6620 pro
+   6555 jp
+   6554 us
+   6358 es
+   5704 pl
+   5694 tv
+   5261 ca
+   5201 online
+   5171 be
    5138 vip
-   4917 au
+   4919 au
    4347 mobi
-   4318 site
-   4219 cz
+   4320 site
+   4222 cz
    4160 ninja
-   4030 at
-   3694 dk
+   4043 at
+   3695 dk
    3661 tr
-   3639 live
-   3419 id
-   3344 hu
-   3166 se
-   2897 tk
+   3645 live
+   3420 id
+   3345 hu
+   3168 se
+   2906 tk
    2885 porn
    2746 ro
    2669 tw
-   2407 pw
+   2408 pw
