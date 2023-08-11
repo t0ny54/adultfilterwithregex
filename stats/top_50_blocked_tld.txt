@@ -1,50 +1,50 @@
- 502124 com
-  98397 net
-  53361 br
-  46739 org
-  43771 de
+ 502297 com
+  98419 net
+  53370 br
+  46748 org
+  43777 de
   32581 xxx
-  31131 ru
-  27813 info
-  25387 xyz
-  22597 nl
-  16979 uk
-  14321 fr
-  10968 in
-  10932 co
+  31173 ru
+  27821 info
+  25400 xyz
+  22601 nl
+  16985 uk
+  14324 fr
+  10970 in
+  10933 co
   10789 eu
-   9759 top
-   8736 me
-   8565 biz
-   8044 it
-   7348 club
-   7184 cn
+   9767 top
+   8738 me
+   8566 biz
+   8046 it
+   7351 club
+   7188 cn
    6970 cc
-   6823 ch
-   6620 pro
+   6824 ch
+   6622 pro
+   6557 us
    6555 jp
-   6554 us
-   6358 es
+   6359 es
    5704 pl
    5694 tv
-   5261 ca
-   5201 online
+   5262 ca
+   5213 online
    5171 be
-   5138 vip
-   4919 au
+   5140 vip
+   4923 au
    4347 mobi
    4320 site
-   4222 cz
+   4223 cz
    4160 ninja
-   4043 at
-   3695 dk
+   4044 at
+   3696 dk
    3661 tr
-   3645 live
-   3420 id
-   3345 hu
-   3168 se
-   2906 tk
+   3647 live
+   3421 id
+   3346 hu
+   3169 se
+   2915 tk
    2885 porn
    2746 ro
    2669 tw
-   2408 pw
+   2409 pw
