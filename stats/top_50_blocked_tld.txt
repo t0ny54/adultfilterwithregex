@@ -1,50 +1,50 @@
- 502979 com
-  98483 net
-  53400 br
-  46761 org
-  43800 de
+ 502909 com
+  98462 net
+  53402 br
+  46756 org
+  43797 de
   32584 xxx
-  31196 ru
-  27847 info
-  25431 xyz
-  22598 nl
-  17006 uk
-  14334 fr
-  10986 in
-  10940 co
-  10800 eu
-   9782 top
-   8749 me
-   8569 biz
+  31113 ru
+  27836 info
+  25407 xyz
+  22596 nl
+  17005 uk
+  14336 fr
+  10985 in
+  10941 co
+  10799 eu
+   9745 top
+   8748 me
+   8563 biz
    8059 it
-   7354 club
-   7194 cn
+   7350 club
+   7205 cn
    6977 cc
    6828 ch
-   6625 pro
+   6623 pro
    6562 us
-   6554 jp
-   6360 es
-   5711 pl
-   5693 tv
+   6559 jp
+   6358 es
+   5715 pl
+   5694 tv
    5268 ca
-   5239 online
-   5172 be
-   5144 vip
-   4930 au
-   4350 mobi
-   4323 site
-   4232 cz
-   4160 ninja
+   5238 online
+   5173 be
+   5140 vip
+   4929 au
+   4344 mobi
+   4320 site
+   4236 cz
+   4159 ninja
    4046 at
    3698 dk
    3666 tr
-   3660 live
-   3433 id
+   3662 live
+   3434 id
    3344 hu
    3169 se
-   2956 tk
+   2966 tk
    2884 porn
    2747 ro
-   2676 tw
-   2411 pw
+   2677 tw
+   2409 pw
