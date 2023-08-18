@@ -1,50 +1,50 @@
- 502866 com
-  98460 net
-  53403 br
-  46755 org
-  43806 de
-  32582 xxx
-  31031 ru
+ 502820 com
+  98462 net
+  53396 br
+  46754 org
+  43804 de
+  32581 xxx
+  30959 ru
   27831 info
-  25404 xyz
-  22596 nl
+  25396 xyz
+  22597 nl
   17005 uk
   14333 fr
-  10986 in
-  10944 co
+  10984 in
+  10942 co
   10798 eu
-   9692 top
-   8750 me
-   8563 biz
-   8060 it
-   7343 club
-   7188 cn
+   9651 top
+   8747 me
+   8560 biz
+   8061 it
+   7342 club
+   7185 cn
    6972 cc
    6828 ch
-   6625 pro
-   6562 us
-   6559 jp
+   6626 pro
+   6561 us
+   6560 jp
    6357 es
-   5714 pl
-   5695 tv
-   5269 ca
+   5712 pl
+   5694 tv
+   5270 ca
    5233 online
    5172 be
-   5138 vip
+   5139 vip
    4929 au
-   4341 mobi
-   4315 site
-   4237 cz
+   4338 mobi
+   4307 site
+   4240 cz
    4159 ninja
-   4046 at
+   4047 at
    3698 dk
-   3666 tr
-   3660 live
+   3667 tr
+   3658 live
    3434 id
-   3345 hu
+   3346 hu
    3168 se
-   2975 tk
+   2979 tk
    2884 porn
    2747 ro
-   2678 tw
-   2411 pw
+   2677 tw
+   2412 pw
