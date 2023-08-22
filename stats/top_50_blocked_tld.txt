@@ -1,50 +1,50 @@
- 503486 com
-  98517 net
-  53413 br
-  46776 org
-  43808 de
+ 503524 com
+  98525 net
+  53419 br
+  46773 org
+  43806 de
   32583 xxx
-  30976 ru
-  27839 info
-  25390 xyz
-  22609 nl
-  17021 uk
-  14342 fr
-  10995 in
-  10945 co
-  10797 eu
-   9667 top
-   8755 me
+  30984 ru
+  27841 info
+  25395 xyz
+  22612 nl
+  17025 uk
+  14346 fr
+  10997 in
+  10957 co
+  10794 eu
+   9669 top
+   8754 me
    8562 biz
-   8061 it
+   8062 it
    7346 club
-   7187 cn
+   7189 cn
    6829 ch
-   6632 pro
-   6567 us
+   6633 pro
+   6568 us
    6529 cc
-   6508 jp
-   6361 es
-   5715 pl
-   5692 tv
-   5271 ca
-   5249 online
-   5175 be
+   6497 jp
+   6362 es
+   5716 pl
+   5695 tv
+   5272 ca
+   5254 online
+   5178 be
    5136 vip
    4934 au
-   4527 mobi
-   4310 site
-   4235 cz
+   4528 mobi
+   4319 site
+   4236 cz
    4160 ninja
    4047 at
    3698 dk
    3670 tr
-   3663 live
-   3439 id
-   3346 hu
+   3665 live
+   3440 id
+   3347 hu
    3168 se
-   2993 tk
+   2998 tk
    2884 porn
    2750 ro
-   2658 tw
-   2415 pw
+   2664 tw
+   2416 pw
