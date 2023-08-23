@@ -1,40 +1,40 @@
- 503524 com
-  98525 net
-  53419 br
-  46773 org
-  43806 de
-  32583 xxx
-  30984 ru
-  27841 info
-  25395 xyz
-  22612 nl
-  17025 uk
+ 503585 com
+  98522 net
+  53421 br
+  46774 org
+  43811 de
+  32584 xxx
+  30988 ru
+  27840 info
+  25406 xyz
+  22613 nl
+  17026 uk
   14346 fr
-  10997 in
-  10957 co
-  10794 eu
-   9669 top
-   8754 me
-   8562 biz
-   8062 it
-   7346 club
-   7189 cn
-   6829 ch
-   6633 pro
-   6568 us
-   6529 cc
-   6497 jp
+  10998 in
+  10959 co
+  10799 eu
+   9674 top
+   8757 me
+   8563 biz
+   8061 it
+   7348 club
+   7188 cn
+   6831 ch
+   6636 pro
+   6569 us
+   6535 cc
+   6498 jp
    6362 es
-   5716 pl
-   5695 tv
-   5272 ca
-   5254 online
-   5178 be
-   5136 vip
-   4934 au
-   4528 mobi
-   4319 site
-   4236 cz
+   5717 pl
+   5696 tv
+   5271 ca
+   5256 online
+   5177 be
+   5139 vip
+   4935 au
+   4527 mobi
+   4312 site
+   4240 cz
    4160 ninja
    4047 at
    3698 dk
@@ -43,8 +43,8 @@
    3440 id
    3347 hu
    3168 se
-   2998 tk
-   2884 porn
-   2750 ro
-   2664 tw
-   2416 pw
+   3004 tk
+   2885 porn
+   2749 ro
+   2656 tw
+   2417 pw
