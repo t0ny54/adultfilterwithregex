@@ -1,50 +1,50 @@
- 503585 com
-  98522 net
-  53421 br
-  46774 org
+ 503720 com
+  98536 net
+  53428 br
+  46777 org
   43811 de
   32584 xxx
-  30988 ru
-  27840 info
-  25406 xyz
-  22613 nl
-  17026 uk
-  14346 fr
+  30991 ru
+  27847 info
+  25414 xyz
+  22614 nl
+  17032 uk
+  14347 fr
   10998 in
   10959 co
-  10799 eu
-   9674 top
-   8757 me
+  10800 eu
+   9677 top
+   8759 me
    8563 biz
    8061 it
-   7348 club
-   7188 cn
+   7351 club
+   7189 cn
    6831 ch
-   6636 pro
-   6569 us
-   6535 cc
+   6640 pro
+   6572 us
+   6538 cc
    6498 jp
-   6362 es
+   6363 es
    5717 pl
    5696 tv
    5271 ca
-   5256 online
-   5177 be
-   5139 vip
-   4935 au
+   5264 online
+   5179 be
+   5140 vip
+   4937 au
    4527 mobi
-   4312 site
+   4314 site
    4240 cz
    4160 ninja
    4047 at
    3698 dk
-   3670 tr
-   3665 live
+   3671 tr
+   3668 live
    3440 id
-   3347 hu
+   3348 hu
    3168 se
-   3004 tk
+   3012 tk
    2885 porn
-   2749 ro
-   2656 tw
-   2417 pw
+   2751 ro
+   2657 tw
+   2418 pw
