@@ -1,21 +1,21 @@
- 503935 com
-  98473 net
-  53454 br
-  46791 org
+ 504055 com
+  98488 net
+  53459 br
+  46793 org
   43778 de
-  32589 xxx
-  30991 ru
-  27837 info
-  25423 xyz
-  22625 nl
-  17042 uk
+  32590 xxx
+  30998 ru
+  27839 info
+  25428 xyz
+  22631 nl
+  17044 uk
   14322 fr
-  11006 in
+  11010 in
   10958 co
-  10806 eu
-   9674 top
-   8764 me
-   8563 biz
+  10808 eu
+   9680 top
+   8767 me
+   8565 biz
    8067 it
    7350 club
    7205 cn
@@ -23,27 +23,27 @@
    6668 jp
    6646 pro
    6574 us
-   6522 cc
-   6366 es
+   6526 cc
+   6367 es
    5696 tv
-   5683 pl
-   5273 ca
-   5272 online
-   5176 be
-   5143 vip
+   5685 pl
+   5275 ca
+   5274 online
+   5177 be
+   5145 vip
    4933 au
    4529 mobi
-   4320 site
-   4242 cz
+   4321 site
+   4243 cz
    4160 ninja
    4049 at
    3701 dk
+   3678 live
    3673 tr
-   3673 live
-   3440 id
+   3442 id
    3349 hu
-   3168 se
-   3025 tk
+   3169 se
+   3029 tk
    2887 porn
    2751 ro
    2657 tw
