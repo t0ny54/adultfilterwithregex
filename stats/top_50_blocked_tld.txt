@@ -1,49 +1,49 @@
- 504031 com
-  98587 net
-  53467 br
-  46783 org
-  43819 de
-  32589 xxx
-  30955 ru
-  27835 info
-  25429 xyz
-  22631 nl
-  17051 uk
-  14356 fr
-  11013 in
-  10958 co
-  10808 eu
-   9692 top
-   8772 me
-   8556 biz
-   8068 it
+ 504130 com
+  98600 net
+  53468 br
+  46789 org
+  43821 de
+  32590 xxx
+  30961 ru
+  27838 info
+  25433 xyz
+  22633 nl
+  17054 uk
+  14357 fr
+  11015 in
+  10960 co
+  10809 eu
+   9694 top
+   8773 me
+   8558 biz
+   8070 it
    7352 club
-   7189 cn
+   7191 cn
    6839 ch
    6645 pro
    6578 us
-   6528 cc
+   6529 cc
    6491 jp
    6368 es
    5723 pl
    5699 tv
-   5276 ca
-   5273 online
-   5178 be
+   5277 ca
+   5276 online
+   5179 be
    5145 vip
    4933 au
    4529 mobi
-   4322 site
-   4244 cz
-   4160 ninja
+   4323 site
+   4246 cz
+   4161 ninja
    4049 at
    3701 dk
-   3681 live
+   3682 live
    3673 tr
    3443 id
-   3343 hu
+   3344 hu
    3170 se
-   3031 tk
+   3033 tk
    2887 porn
    2752 ro
    2657 tw
