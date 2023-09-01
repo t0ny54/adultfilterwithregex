@@ -1,50 +1,50 @@
- 504130 com
-  98600 net
-  53468 br
-  46789 org
-  43821 de
-  32590 xxx
-  30961 ru
-  27838 info
-  25433 xyz
+ 504398 com
+  98596 net
+  53469 br
+  46803 org
+  43825 de
+  32591 xxx
+  31005 ru
+  27846 info
+  25437 xyz
   22633 nl
   17054 uk
-  14357 fr
-  11015 in
+  14361 fr
+  11017 in
   10960 co
-  10809 eu
-   9694 top
-   8773 me
-   8558 biz
-   8070 it
-   7352 club
-   7191 cn
-   6839 ch
+  10810 eu
+   9695 top
+   8770 me
+   8559 biz
+   8071 it
+   7355 club
+   7207 cn
+   6841 ch
+   6670 jp
    6645 pro
-   6578 us
+   6579 us
    6529 cc
-   6491 jp
-   6368 es
-   5723 pl
-   5699 tv
+   6369 es
+   5724 pl
+   5698 tv
+   5277 online
    5277 ca
-   5276 online
    5179 be
    5145 vip
    4933 au
    4529 mobi
-   4323 site
-   4246 cz
+   4322 site
+   4247 cz
    4161 ninja
    4049 at
    3701 dk
    3682 live
-   3673 tr
+   3674 tr
    3443 id
-   3344 hu
-   3170 se
-   3033 tk
-   2887 porn
-   2752 ro
+   3345 hu
+   3171 se
+   3038 tk
+   2890 porn
+   2753 ro
    2657 tw
    2421 pw
