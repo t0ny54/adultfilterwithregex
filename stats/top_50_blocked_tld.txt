@@ -1,20 +1,20 @@
- 436746 com
-  73922 net
+ 436744 com
+  73920 net
   53276 br
-  36627 de
-  35998 org
-  27541 ru
-  21641 nl
-  18505 info
+  36628 de
+  35999 org
+  27550 ru
+  21642 nl
+  18500 info
   15900 fr
   15146 uk
   10606 xyz
    8761 eu
-   8279 in
-   8168 co
+   8280 in
+   8167 co
    7424 it
-   6829 dev
-   6558 top
+   6831 dev
+   6554 top
    6493 jp
    6372 ch
    6327 biz
@@ -24,26 +24,26 @@
    5463 xxx
    5442 pl
    5381 cn
-   4917 cc
+   4916 cc
    4896 be
-   4688 tv
+   4687 tv
    4635 au
    4406 sexy
    4369 us
-   4199 ca
+   4198 ca
    4192 club
    4139 ninja
    4088 cz
    3697 tr
    3681 at
    3575 mobi
-   3561 online
+   3560 online
    3532 dk
    3437 id
    3379 hu
    2970 tk
-   2926 live
-   2901 se
+   2925 live
+   2900 se
    2636 ro
    2601 tw
    2219 sg
