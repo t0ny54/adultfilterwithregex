@@ -1,50 +1,50 @@
- 504458 com
-  78041 net
-  56244 br
-  39156 org
-  38323 de
-  28523 ru
-  22738 nl
-  19272 info
-  17628 uk
-  12496 fr
-  11824 xyz
-   9556 eu
-   9121 co
+ 504327 com
+  78047 net
+  56243 br
+  39158 org
+  38324 de
+  28552 ru
+  22722 nl
+  19269 info
+  17626 uk
+  12484 fr
+  11833 xyz
+   9547 eu
+   9138 co
    8915 in
-   8244 it
+   8242 it
    7700 dev
    7121 top
    6889 ch
-   6641 es
-   6603 me
+   6640 es
+   6587 me
    6475 biz
-   6349 jp
-   5899 gay
+   6334 jp
+   5895 gay
    5656 xxx
-   5647 pl
-   5609 pro
+   5644 pl
+   5610 pro
    5465 cn
-   5462 be
+   5452 be
    5345 sexy
-   5319 au
+   5320 au
    5233 cc
-   4884 tv
-   4824 ca
+   4886 tv
+   4823 ca
    4585 us
-   4517 cz
+   4508 cz
    4438 club
-   4380 online
+   4377 online
    4139 ninja
    4096 tk
    3904 tr
    3902 at
    3789 dk
-   3638 hu
+   3640 hu
    3564 id
    3537 mobi
    3238 se
-   3059 live
+   3058 live
    2851 ro
-   2460 site
+   2459 site
    2308 porn
