@@ -1,50 +1,50 @@
- 501332 com
-  77836 net
-  56171 br
-  39075 org
-  38263 de
-  28449 ru
-  22672 nl
-  19233 info
-  17578 uk
-  12470 fr
-  11739 xyz
-   9534 eu
-   9176 co
-   8898 in
-   8214 it
-   7704 dev
-   7098 top
-   6880 ch
-   6619 es
-   6566 me
-   6498 jp
-   6449 biz
-   5708 gay
+ 501722 com
+  77918 net
+  56182 br
+  39096 org
+  38262 de
+  28422 ru
+  22659 nl
+  19247 info
+  17581 uk
+  12467 fr
+  11820 xyz
+   9533 eu
+   9187 co
+   8902 in
+   8202 it
+   7728 dev
+   7106 top
+   6881 ch
+   6620 es
+   6576 me
+   6508 jp
+   6456 biz
+   5718 gay
    5641 xxx
-   5593 pro
-   5587 pl
-   5455 cn
-   5432 be
-   5304 sexy
-   5292 au
-   5199 cc
-   4868 tv
+   5605 pro
+   5574 pl
+   5453 cn
+   5433 be
+   5308 sexy
+   5293 au
+   5210 cc
+   4884 tv
    4803 ca
-   4566 us
+   4568 us
    4498 cz
-   4422 club
-   4304 online
-   4139 ninja
-   4061 tk
+   4430 club
+   4329 online
+   4140 ninja
+   4060 tk
    3898 at
-   3895 tr
+   3897 tr
    3788 dk
-   3623 hu
+   3622 hu
    3556 id
-   3516 mobi
+   3517 mobi
    3230 se
-   3043 live
+   3060 live
    2844 ro
-   2436 site
+   2429 site
    2304 porn
