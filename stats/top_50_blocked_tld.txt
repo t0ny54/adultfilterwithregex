@@ -1,38 +1,38 @@
- 462151 com
-  75243 net
+ 462188 com
+  75254 net
   55584 br
-  37895 de
-  36999 org
-  28088 ru
-  21841 nl
-  18544 info
+  37910 de
+  37000 org
+  28126 ru
+  21850 nl
+  18546 info
   15963 uk
-  11921 fr
-  11174 xyz
-   9058 eu
+  11924 fr
+  11187 xyz
+   9060 eu
    8549 in
    8314 co
-   7939 it
-   6808 top
-   6757 ch
+   7940 it
+   6811 top
+   6758 ch
    6505 es
    6458 dev
-   6419 jp
    6288 biz
-   5956 me
+   6251 jp
+   5954 me
    5501 xxx
-   5466 pro
+   5465 pro
    5449 cn
-   5431 pl
-   5229 cc
-   5055 be
+   5436 pl
+   5233 cc
+   5056 be
    4980 sexy
    4894 au
-   4705 tv
+   4706 tv
    4409 ca
    4365 cz
    4293 club
-   4272 us
+   4271 us
    4141 ninja
    3937 online
    3885 tk
@@ -43,7 +43,7 @@
    3475 id
    3431 mobi
    3193 se
-   2966 live
+   2968 live
    2800 ro
    2223 sg
    2207 porn
