@@ -1,25 +1,25 @@
- 461293 com
-  75212 net
+ 461277 com
+  75208 net
   55490 br
   37797 de
   36974 org
   27928 ru
   21839 nl
-  18432 info
+  18431 info
   15887 uk
   11881 fr
-  11127 xyz
+  11126 xyz
    9087 eu
    8535 in
    8292 co
    7924 it
-   6776 top
+   6778 top
    6750 ch
    6505 es
    6437 dev
-   6410 jp
    6282 biz
-   5924 me
+   6244 jp
+   5922 me
    5491 xxx
    5461 pro
    5438 cn
@@ -28,7 +28,7 @@
    5055 be
    4975 sexy
    4885 au
-   4697 tv
+   4698 tv
    4389 ca
    4366 cz
    4286 club
