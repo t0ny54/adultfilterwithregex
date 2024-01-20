@@ -1,37 +1,37 @@
- 462113 com
-  75230 net
+ 462093 com
+  75228 net
   55506 br
   37872 de
   37003 org
-  27787 ru
+  27781 ru
   21816 nl
   18466 info
   15940 uk
   11862 fr
-  11184 xyz
+  11185 xyz
    9083 eu
    8505 in
-   8336 co
+   8335 co
    7904 it
-   6753 top
+   6754 top
    6748 ch
    6501 es
    6434 dev
    6269 biz
    6247 jp
    5793 me
+   5518 pro
    5509 xxx
-   5498 pro
-   5443 pl
+   5442 pl
    5433 cn
-   5097 cc
+   5096 cc
    5045 sexy
    5035 be
    4888 au
    4697 tv
    4371 ca
    4353 cz
-   4294 club
+   4293 club
    4160 us
    4139 ninja
    3965 online
