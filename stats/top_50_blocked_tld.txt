@@ -1,23 +1,23 @@
- 463282 com
-  75344 net
+ 463288 com
+  75352 net
   55562 br
-  37892 de
-  37080 org
-  27781 ru
+  37891 de
+  37079 org
+  27795 ru
   21856 nl
-  18495 info
+  18494 info
   15985 uk
-  11873 fr
+  11874 fr
   11229 xyz
    9079 eu
-   8516 in
+   8515 in
    8351 co
    7905 it
    6756 ch
-   6634 top
+   6630 top
    6507 es
    6466 dev
-   6290 biz
+   6289 biz
    6252 jp
    5776 me
    5601 pro
@@ -29,22 +29,22 @@
    5037 sexy
    4900 au
    4700 tv
-   4388 ca
+   4389 ca
    4367 cz
    4316 club
    4140 ninja
-   4073 online
-   4047 us
+   4072 online
+   4046 us
    3840 at
    3702 tr
    3685 dk
    3585 tk
    3476 id
    3458 hu
-   3457 mobi
+   3456 mobi
    3139 se
-   2891 live
-   2794 ro
+   2890 live
+   2792 ro
    2221 sg
    2208 porn
    2172 ae
