@@ -1,27 +1,27 @@
- 468150 com
-  75679 net
-  55768 br
-  38053 de
-  37264 org
-  27942 ru
-  21962 nl
-  18550 info
-  16092 uk
-  11997 fr
-  11360 xyz
-   9136 eu
-   8536 in
+ 468280 com
+  75694 net
+  55761 br
+  38056 de
+  37267 org
+  27941 ru
+  21972 nl
+  18553 info
+  16088 uk
+  11996 fr
+  11358 xyz
+   9137 eu
+   8535 in
    8416 co
    7943 it
    6786 ch
-   6619 top
-   6538 es
+   6618 top
+   6539 es
    6488 dev
-   6296 biz
+   6297 biz
    6264 jp
-   5818 me
-   5683 pro
-   5540 xxx
+   5820 me
+   5682 pro
+   5541 xxx
    5483 cn
    5416 pl
    5190 cc
@@ -29,22 +29,22 @@
    5046 sexy
    4936 au
    4720 tv
-   4417 ca
-   4382 cz
-   4338 club
-   4144 online
+   4416 ca
+   4381 cz
+   4340 club
+   4140 online
    4138 ninja
    4054 us
    3853 at
    3717 tr
    3690 dk
    3588 tk
-   3488 id
-   3475 hu
+   3487 id
+   3473 hu
    3467 mobi
    3210 se
    2897 live
-   2802 ro
+   2801 ro
    2223 sg
    2212 porn
    2173 ae
