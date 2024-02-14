@@ -1,50 +1,50 @@
- 464717 com
-  75632 net
-  55632 br
-  38024 de
-  37164 org
-  27946 ru
-  21940 nl
-  18486 info
-  16069 uk
-  11998 fr
-  11240 xyz
-   9133 eu
-   8492 in
-   8372 co
-   7918 it
-   6780 ch
+ 464874 com
+  75644 net
+  55639 br
+  38037 de
+  37162 org
+  27896 ru
+  21933 nl
+  18488 info
+  16081 uk
+  11997 fr
+  11244 xyz
+   9136 eu
+   8497 in
+   8379 co
+   7921 it
+   6784 ch
    6532 es
-   6509 top
-   6479 dev
-   6299 biz
-   6292 jp
-   5800 me
-   5646 pro
+   6517 top
+   6480 dev
+   6300 biz
+   6259 jp
+   5799 me
+   5647 pro
    5538 xxx
-   5480 cn
-   5423 pl
+   5482 cn
+   5412 pl
    5165 cc
-   5076 be
-   5046 sexy
-   4937 au
-   4708 tv
-   4414 ca
-   4375 cz
-   4300 club
+   5078 be
+   5047 sexy
+   4942 au
+   4709 tv
+   4416 ca
+   4381 cz
+   4301 club
    4137 ninja
-   4009 online
-   4006 us
+   4015 online
+   4007 us
    3851 at
-   3717 tr
-   3688 dk
+   3719 tr
+   3689 dk
    3478 id
-   3471 hu
+   3473 hu
    3445 mobi
-   3215 se
+   3217 se
    2820 live
-   2799 ro
+   2801 ro
    2223 sg
-   2207 porn
+   2206 porn
    2173 ae
-   2166 ng
+   2165 ng
