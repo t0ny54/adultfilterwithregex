@@ -1,24 +1,24 @@
  464874 com
-  75644 net
+  75649 net
   55639 br
   38037 de
-  37162 org
-  27896 ru
+  37161 org
+  27894 ru
   21933 nl
-  18488 info
+  18487 info
   16081 uk
   11997 fr
-  11244 xyz
+  11243 xyz
    9136 eu
-   8497 in
+   8499 in
    8379 co
    7921 it
    6784 ch
    6532 es
-   6517 top
-   6480 dev
-   6300 biz
-   6259 jp
+   6515 top
+   6481 dev
+   6298 biz
+   6258 jp
    5799 me
    5647 pro
    5538 xxx
@@ -28,13 +28,13 @@
    5078 be
    5047 sexy
    4942 au
-   4709 tv
+   4710 tv
    4416 ca
    4381 cz
    4301 club
    4137 ninja
    4015 online
-   4007 us
+   4008 us
    3851 at
    3719 tr
    3689 dk
