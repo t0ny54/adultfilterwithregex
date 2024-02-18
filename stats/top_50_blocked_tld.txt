@@ -1,49 +1,49 @@
- 465254 com
-  75614 net
-  55631 br
+ 465218 com
+  75611 net
+  55630 br
   38037 de
-  37169 org
-  27976 ru
-  21918 nl
+  37168 org
+  27975 ru
+  21912 nl
   18487 info
-  16083 uk
-  11992 fr
+  16082 uk
+  11989 fr
   11250 xyz
    9138 eu
-   8497 in
-   8370 co
+   8494 in
+   8365 co
    7921 it
-   6780 ch
-   6530 top
-   6522 es
+   6779 ch
+   6529 top
+   6521 es
    6485 dev
    6303 biz
    6258 jp
-   5800 me
-   5646 pro
-   5538 xxx
-   5482 cn
-   5391 pl
+   5799 me
+   5645 pro
+   5536 xxx
+   5480 cn
+   5388 pl
    5166 cc
    5079 be
    5043 sexy
-   4944 au
+   4943 au
    4712 tv
    4417 ca
    4379 cz
-   4304 club
+   4303 club
    4137 ninja
    4037 online
-   3981 us
+   3978 us
    3853 at
    3719 tr
    3690 dk
-   3481 id
+   3483 id
    3474 hu
    3444 mobi
    3217 se
    2801 ro
-   2787 live
+   2781 live
    2223 sg
    2206 porn
    2172 ae
