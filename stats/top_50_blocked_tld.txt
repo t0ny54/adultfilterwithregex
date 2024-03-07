@@ -1,50 +1,50 @@
- 465974 com
-  75886 net
+ 465806 com
+  75880 net
   55657 br
-  38227 de
-  37362 org
-  28200 ru
-  22027 nl
-  18543 info
-  16099 uk
-  12000 fr
+  38226 de
+  37346 org
+  28131 ru
+  22067 nl
+  18556 info
+  16100 uk
+  11997 fr
   11407 xyz
    9156 eu
-   8505 in
-   8389 co
+   8500 in
+   8381 co
    7932 it
-   6778 ch
-   6722 top
+   6780 ch
+   6731 top
    6637 dev
-   6520 es
-   6330 biz
-   6257 jp
-   5834 me
-   5708 pro
+   6524 es
+   6333 biz
+   6258 jp
+   5835 me
+   5700 pro
    5534 xxx
-   5478 cn
+   5480 cn
    5367 pl
-   5201 cc
+   5204 cc
    5089 be
    4962 au
-   4917 sexy
+   4840 sexy
    4741 tv
-   4480 cz
+   4483 cz
    4414 ca
-   4310 club
-   4141 ninja
-   4107 online
-   3974 us
-   3835 at
+   4309 club
+   4140 ninja
+   4087 online
+   3963 us
+   3836 at
    3722 tr
    3697 dk
    3486 hu
-   3478 id
-   3428 mobi
+   3481 id
+   3419 mobi
    3219 se
+   2808 live
    2804 ro
-   2800 live
    2223 sg
    2209 porn
-   2205 site
+   2206 site
    2174 ae
