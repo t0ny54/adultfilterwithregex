@@ -1,50 +1,50 @@
- 467924 com
-  75878 net
-  55653 br
+ 467940 com
+  75863 net
+  55642 br
   38215 de
-  37339 org
-  28045 ru
-  22087 nl
-  18592 info
+  37331 org
+  27992 ru
+  22084 nl
+  18590 info
   16091 uk
-  11990 fr
-  11424 xyz
-   9148 eu
-   8503 in
-   8366 co
+  11980 fr
+  11422 xyz
+   9149 eu
+   8479 in
+   8364 co
    7927 it
    6778 ch
-   6762 top
+   6747 top
    6649 dev
-   6518 es
-   6335 biz
+   6513 es
+   6338 biz
    6263 jp
-   5846 me
-   5742 pro
-   5536 xxx
-   5479 cn
-   5353 pl
-   5216 cc
+   5843 me
+   5733 pro
+   5538 xxx
+   5463 cn
+   5347 pl
+   5210 cc
    5085 be
-   4957 au
-   4807 sexy
-   4747 tv
+   4956 au
+   4774 sexy
+   4746 tv
    4480 cz
-   4415 ca
-   4315 club
+   4414 ca
+   4311 club
    4141 ninja
-   4070 online
-   3855 us
+   4050 online
    3837 at
+   3820 us
    3723 tr
-   3696 dk
-   3484 hu
+   3695 dk
+   3483 hu
    3475 id
-   3424 mobi
+   3423 mobi
    3225 se
    2807 ro
-   2803 live
+   2798 live
    2223 sg
-   2208 site
-   2207 porn
+   2208 porn
+   2205 site
    2174 ae
