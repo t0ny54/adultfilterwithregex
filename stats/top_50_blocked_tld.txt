@@ -1,15 +1,15 @@
- 468067 com
-  75890 net
+ 468076 com
+  75892 net
   55656 br
   38218 de
-  37352 org
-  28003 ru
-  22094 nl
-  18597 info
-  16098 uk
+  37359 org
+  28017 ru
+  22091 nl
+  18595 info
+  16096 uk
   11987 fr
-  11441 xyz
-   9149 eu
+  11440 xyz
+   9150 eu
    8483 in
    8370 co
    7929 it
@@ -17,14 +17,14 @@
    6759 top
    6651 dev
    6519 es
-   6343 biz
-   6263 jp
+   6344 biz
+   6264 jp
    5847 me
-   5737 pro
+   5736 pro
    5539 xxx
-   5464 cn
-   5351 pl
-   5218 cc
+   5478 cn
+   5353 pl
+   5217 cc
    5087 be
    4956 au
    4803 sexy
@@ -39,12 +39,12 @@
    3723 tr
    3695 dk
    3483 hu
-   3477 id
+   3478 id
    3423 mobi
    3225 se
    2808 ro
    2801 live
    2223 sg
-   2209 site
-   2208 porn
+   2210 site
+   2209 porn
    2174 ae
