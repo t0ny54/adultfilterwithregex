@@ -1,39 +1,39 @@
- 468076 com
-  75892 net
+ 468080 com
+  75887 net
   55656 br
   38218 de
-  37359 org
-  28017 ru
-  22091 nl
-  18595 info
+  37352 org
+  28004 ru
+  22092 nl
+  18596 info
   16096 uk
   11987 fr
-  11440 xyz
-   9150 eu
+  11444 xyz
+   9149 eu
    8483 in
    8370 co
    7929 it
    6778 ch
    6759 top
-   6651 dev
+   6652 dev
    6519 es
-   6344 biz
+   6342 biz
    6264 jp
    5847 me
    5736 pro
    5539 xxx
-   5478 cn
-   5353 pl
-   5217 cc
+   5480 cn
+   5351 pl
+   5218 cc
    5087 be
    4956 au
    4803 sexy
-   4750 tv
+   4749 tv
    4485 cz
    4415 ca
-   4312 club
+   4311 club
    4141 ninja
-   4062 online
+   4063 online
    3837 at
    3824 us
    3723 tr
@@ -45,6 +45,6 @@
    2808 ro
    2801 live
    2223 sg
-   2210 site
+   2211 site
    2209 porn
    2174 ae
