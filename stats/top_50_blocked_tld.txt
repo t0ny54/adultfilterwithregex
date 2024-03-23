@@ -1,29 +1,29 @@
- 468144 com
-  75889 net
+ 468134 com
+  75888 net
   55650 br
   38214 de
-  37354 org
-  28020 ru
-  22132 nl
+  37353 org
+  28025 ru
+  22135 nl
   18690 info
-  16082 uk
-  11988 fr
+  16084 uk
+  11989 fr
   11450 xyz
-   9141 eu
+   9142 eu
    8458 in
-   8374 co
+   8375 co
    7923 it
    6778 ch
-   6766 top
+   6765 top
    6653 dev
    6514 es
-   6339 biz
-   6264 jp
+   6342 biz
+   6263 jp
    5856 me
-   5691 pro
+   5670 pro
    5538 xxx
    5479 cn
-   5357 pl
+   5358 pl
    5214 cc
    5089 be
    4957 au
@@ -33,17 +33,17 @@
    4415 ca
    4312 club
    4141 ninja
-   4126 online
+   4125 online
    3840 at
    3807 us
    3722 tr
    3696 dk
    3484 hu
-   3473 id
+   3474 id
    3408 mobi
    3223 se
    2809 ro
-   2805 live
+   2804 live
    2223 sg
    2209 porn
    2206 site
