@@ -1,50 +1,50 @@
- 468156 com
-  75891 net
-  55650 br
-  38214 de
-  37354 org
-  28023 ru
-  22135 nl
-  18691 info
+ 467995 com
+  75875 net
+  55640 br
+  38218 de
+  37342 org
+  28018 ru
+  22127 nl
+  18688 info
   16084 uk
-  11990 fr
-  11451 xyz
-   9141 eu
-   8458 in
-   8375 co
-   7923 it
-   6778 ch
-   6765 top
-   6653 dev
-   6514 es
-   6341 biz
-   6263 jp
-   5856 me
-   5670 pro
+  11988 fr
+  11444 xyz
+   9139 eu
+   8456 in
+   8368 co
+   7921 it
+   6780 ch
+   6761 top
+   6652 dev
+   6518 es
+   6343 biz
+   6267 jp
+   5857 me
+   5690 pro
    5539 xxx
-   5482 cn
-   5357 pl
+   5479 cn
+   5355 pl
    5215 cc
-   5089 be
+   5091 be
    4957 au
    4818 sexy
    4750 tv
-   4483 cz
-   4415 ca
-   4314 club
+   4487 cz
+   4414 ca
+   4311 club
    4141 ninja
-   4128 online
-   3840 at
-   3807 us
-   3722 tr
+   4113 online
+   3838 at
+   3806 us
+   3723 tr
    3696 dk
-   3484 hu
+   3485 hu
    3474 id
-   3408 mobi
-   3223 se
+   3407 mobi
+   3221 se
    2809 ro
-   2805 live
+   2801 live
    2223 sg
    2209 porn
-   2206 site
+   2198 site
    2174 ae
