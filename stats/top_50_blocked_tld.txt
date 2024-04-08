@@ -1,29 +1,29 @@
- 469109 com
+ 469105 com
   76131 net
   55780 br
   38146 de
   37343 org
   27911 ru
-  22077 nl
+  22078 nl
   18850 info
   16106 uk
   12036 fr
-  11551 xyz
+  11550 xyz
    9181 eu
    8459 in
    8384 co
    7964 it
-   6860 top
+   6859 top
    6826 ch
    6689 dev
    6562 es
-   6414 biz
+   6413 biz
    6283 jp
    5888 me
    5771 pro
    5536 xxx
    5481 cn
-   5403 pl
+   5404 pl
    5357 cc
    5134 be
    4975 au
@@ -37,7 +37,7 @@
    3876 dk
    3860 at
    3734 tr
-   3665 us
+   3664 us
    3511 id
    3497 hu
    3490 mobi
