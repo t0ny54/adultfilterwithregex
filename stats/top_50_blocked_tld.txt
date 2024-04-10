@@ -1,49 +1,49 @@
- 469038 com
-  76156 net
+ 469016 com
+  76155 net
   55777 br
-  38140 de
-  37351 org
-  27886 ru
+  38142 de
+  37350 org
+  27890 ru
   22082 nl
-  18853 info
+  18854 info
   16110 uk
   12042 fr
-  11543 xyz
+  11545 xyz
    9177 eu
    8461 in
-   8381 co
-   7971 it
+   8380 co
+   7972 it
    6853 top
    6829 ch
-   6698 dev
+   6700 dev
    6565 es
    6416 biz
    6281 jp
    5896 me
    5769 pro
    5536 xxx
-   5479 cn
+   5480 cn
    5406 pl
-   5355 cc
+   5354 cc
    5134 be
-   4977 au
+   4978 au
    4973 sexy
-   4779 tv
+   4780 tv
    4519 cz
-   4427 ca
+   4423 ca
    4343 club
    4261 online
    4140 ninja
    3879 dk
-   3863 at
+   3862 at
    3736 tr
-   3671 us
+   3663 us
    3501 id
    3497 hu
    3490 mobi
    3244 se
    2819 ro
-   2811 live
+   2810 live
    2224 sg
    2208 porn
    2207 site
