@@ -1,50 +1,50 @@
- 469050 com
-  76152 net
-  55769 br
-  38145 de
-  37355 org
-  27931 ru
-  22083 nl
-  18863 info
+ 469213 com
+  76157 net
+  55773 br
+  38147 de
+  37362 org
+  27874 ru
+  22097 nl
+  18875 info
   16119 uk
-  12040 fr
-  11550 xyz
-   9187 eu
+  12039 fr
+  11557 xyz
+   9186 eu
    8460 in
-   8388 co
-   7974 it
-   6853 top
-   6830 ch
+   8390 co
+   7976 it
+   6880 top
+   6831 ch
    6758 dev
-   6564 es
-   6423 biz
+   6565 es
+   6425 biz
    6281 jp
-   5899 me
-   5784 pro
-   5535 xxx
-   5481 cn
-   5402 pl
-   5364 cc
-   5134 be
+   5907 me
+   5536 xxx
+   5480 cn
+   5452 pro
+   5407 pl
+   5367 cc
+   5132 be
    4978 au
-   4958 sexy
-   4779 tv
-   4520 cz
-   4426 ca
-   4340 club
-   4261 online
+   4942 sexy
+   4780 tv
+   4521 cz
+   4427 ca
+   4345 club
+   4269 online
    4140 ninja
    3879 dk
    3864 at
    3738 tr
-   3661 us
-   3500 id
+   3662 us
+   3510 mobi
    3497 hu
-   3490 mobi
-   3243 se
+   3496 id
+   3244 se
    2819 ro
-   2813 live
+   2815 live
    2224 sg
+   2208 site
    2208 porn
-   2205 site
    2175 ae
