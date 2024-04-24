@@ -1,11 +1,11 @@
- 466926 com
-  76157 net
+ 466957 com
+  76160 net
   55795 br
   37881 de
   37396 org
   27961 ru
   21979 nl
-  18854 info
+  18855 info
   16119 uk
   12094 fr
   11404 xyz
@@ -14,7 +14,7 @@
    8405 co
    7981 it
    6848 ch
-   6805 top
+   6806 top
    6776 dev
    6556 es
    6414 biz
@@ -32,7 +32,7 @@
    4531 cz
    4440 ca
    4337 club
-   4191 online
+   4192 online
    4137 ninja
    3884 dk
    3870 at
