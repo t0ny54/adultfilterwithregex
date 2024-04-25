@@ -1,14 +1,14 @@
- 466957 com
-  76160 net
+ 466980 com
+  76161 net
   55795 br
   37881 de
-  37396 org
+  37397 org
   27961 ru
   21979 nl
   18855 info
-  16119 uk
+  16118 uk
   12094 fr
-  11404 xyz
+  11406 xyz
    9199 eu
    8438 in
    8405 co
@@ -35,7 +35,7 @@
    4192 online
    4137 ninja
    3884 dk
-   3870 at
+   3871 at
    3801 tr
    3659 us
    3506 mobi
