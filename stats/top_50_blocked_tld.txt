@@ -1,50 +1,50 @@
- 466980 com
-  76161 net
-  55795 br
+ 466928 com
+  76168 net
+  55789 br
   37881 de
-  37397 org
-  27961 ru
-  21979 nl
-  18855 info
-  16118 uk
-  12094 fr
-  11406 xyz
+  37394 org
+  27920 ru
+  21977 nl
+  18851 info
+  16117 uk
+  12093 fr
+  11358 xyz
    9199 eu
-   8438 in
+   8437 in
    8405 co
    7981 it
    6848 ch
-   6806 top
+   6804 top
    6776 dev
-   6556 es
+   6552 es
    6414 biz
    6289 jp
    5889 me
-   5539 xxx
+   5538 xxx
    5484 cn
-   5443 pro
+   5442 pro
    5381 pl
-   5335 cc
+   5326 cc
    5142 be
    4961 au
-   4779 tv
-   4710 sexy
-   4531 cz
-   4440 ca
-   4337 club
-   4192 online
+   4778 tv
+   4644 sexy
+   4529 cz
+   4441 ca
+   4336 club
+   4190 online
    4137 ninja
    3884 dk
    3871 at
    3801 tr
    3659 us
    3506 mobi
-   3498 hu
-   3497 id
+   3497 hu
+   3496 id
    3254 se
-   2821 ro
-   2274 live
+   2820 ro
+   2272 live
    2225 sg
    2210 porn
-   2204 site
+   2203 site
    2177 ae
