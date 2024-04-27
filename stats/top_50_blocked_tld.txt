@@ -1,50 +1,50 @@
- 466928 com
-  76168 net
-  55789 br
-  37881 de
-  37394 org
-  27920 ru
-  21977 nl
-  18851 info
-  16117 uk
-  12093 fr
-  11358 xyz
-   9199 eu
-   8437 in
-   8405 co
-   7981 it
-   6848 ch
-   6804 top
-   6776 dev
-   6552 es
-   6414 biz
-   6289 jp
-   5889 me
-   5538 xxx
+ 467195 com
+  76176 net
+  55799 br
+  37889 de
+  37407 org
+  27907 ru
+  21982 nl
+  18866 info
+  16122 uk
+  12094 fr
+  11367 xyz
+   9201 eu
+   8443 in
+   8408 co
+   7985 it
+   6850 ch
+   6834 top
+   6785 dev
+   6560 es
+   6419 biz
+   6290 jp
+   5893 me
+   5537 xxx
    5484 cn
-   5442 pro
-   5381 pl
-   5326 cc
-   5142 be
+   5463 pro
+   5382 pl
+   5337 cc
+   5144 be
    4961 au
-   4778 tv
-   4644 sexy
-   4529 cz
+   4779 tv
+   4586 sexy
+   4530 cz
    4441 ca
    4336 club
-   4190 online
+   4198 online
    4137 ninja
    3884 dk
-   3871 at
-   3801 tr
+   3873 at
+   3802 tr
    3659 us
-   3506 mobi
-   3497 hu
+   3507 mobi
+   3501 hu
    3496 id
-   3254 se
-   2820 ro
-   2272 live
+   3255 se
+   2819 ro
+   2273 live
    2225 sg
+   2213 site
    2210 porn
-   2203 site
    2177 ae
