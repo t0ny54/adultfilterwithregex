@@ -1,50 +1,50 @@
- 470521 com
-  76413 net
-  55764 br
-  37968 de
-  37524 org
-  27599 ru
-  22081 nl
-  18914 info
+ 470314 com
+  76404 net
+  55756 br
+  37967 de
+  37522 org
+  27579 ru
+  22076 nl
+  18903 info
   16204 uk
-  12128 fr
-  11370 xyz
+  12127 fr
+  11364 xyz
    9235 eu
-   8473 in
+   8471 in
    8427 co
    7988 it
-   7895 top
+   7890 top
    6860 ch
    6798 dev
-   6580 es
-   6438 biz
+   6579 es
+   6436 biz
    6209 jp
-   5908 me
-   5559 pro
+   5902 me
+   5558 pro
    5550 xxx
    5494 cn
-   5385 pl
-   5210 cc
+   5382 pl
+   5207 cc
    5155 be
    4966 au
-   4794 tv
-   4788 sexy
+   4793 tv
+   4783 sexy
    4552 cz
    4500 ca
-   4358 club
+   4354 club
    4137 ninja
-   4134 online
+   4091 online
    3951 dk
    3889 at
    3802 tr
-   3672 us
-   3526 mobi
+   3671 us
+   3523 mobi
    3505 hu
    3498 id
    3260 se
    2831 ro
-   2320 site
-   2261 live
+   2313 site
+   2256 live
    2226 sg
-   2214 porn
+   2213 porn
    2176 ae
