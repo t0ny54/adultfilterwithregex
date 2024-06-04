@@ -1,50 +1,50 @@
- 470636 com
-  76535 net
-  55722 br
-  37988 de
-  37676 org
-  27373 ru
-  21975 nl
-  18946 info
-  16223 uk
-  12122 fr
-  11387 xyz
+ 470722 com
+  76547 net
+  55724 br
+  37990 de
+  37675 org
+  27347 ru
+  21972 nl
+  18947 info
+  16226 uk
+  12121 fr
+  11401 xyz
    9242 eu
-   8539 in
-   8426 co
+   8541 in
+   8425 co
    8003 it
    7909 top
-   6861 ch
-   6796 dev
-   6599 es
-   6449 biz
+   6859 ch
+   6794 dev
+   6598 es
+   6452 biz
    6230 jp
    5868 me
-   5581 pro
+   5580 pro
    5565 xxx
-   5475 cn
-   5372 pl
-   5244 cc
-   5136 be
+   5470 cn
+   5373 pl
+   5246 cc
+   5137 be
    4981 au
-   4799 tv
-   4770 sexy
+   4801 tv
+   4771 sexy
    4559 cz
-   4504 ca
-   4334 club
+   4505 ca
+   4331 club
    4138 ninja
-   3974 online
+   3985 online
    3963 dk
    3900 at
-   3829 tr
-   3674 us
-   3529 mobi
-   3512 hu
-   3502 id
-   3264 se
-   2843 ro
-   2398 site
+   3827 tr
+   3675 us
+   3534 mobi
+   3510 hu
+   3503 id
+   3263 se
+   2841 ro
+   2394 site
    2267 live
    2226 sg
-   2213 porn
+   2214 porn
    2176 ae
