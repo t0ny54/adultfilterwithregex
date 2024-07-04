@@ -1,50 +1,50 @@
- 471490 com
-  76993 net
-  55742 br
+ 471612 com
+  77012 net
+  55752 br
   38120 de
-  37780 org
-  27358 ru
-  22046 nl
-  18962 info
+  37779 org
+  27364 ru
+  22045 nl
+  18970 info
   16210 uk
-  12126 fr
-  11317 xyz
-   9318 eu
-   8539 in
-   8448 co
-   8001 it
-   7854 top
-   6862 ch
+  12125 fr
+  11335 xyz
+   9315 eu
+   8540 in
+   8449 co
+   7999 it
+   7860 top
+   6864 ch
    6825 dev
-   6626 es
-   6437 biz
-   6238 jp
-   5945 me
-   5743 pro
-   5613 pl
+   6625 es
+   6440 biz
+   6239 jp
+   5949 me
+   5744 pro
+   5616 pl
    5591 xxx
-   5480 cn
-   5253 cc
+   5481 cn
+   5255 cc
    5149 be
    4964 au
-   4817 tv
-   4747 sexy
+   4818 tv
+   4748 sexy
    4572 cz
    4500 ca
-   4358 club
-   4135 ninja
+   4360 club
+   4136 ninja
    3966 dk
    3915 at
-   3840 tr
+   3841 tr
    3706 online
-   3678 us
-   3544 hu
+   3679 us
+   3546 hu
    3518 id
-   3485 mobi
+   3484 mobi
    3282 se
-   2839 ro
-   2332 site
+   2842 ro
+   2334 site
    2225 sg
-   2223 live
+   2220 live
    2210 porn
    2175 ae
