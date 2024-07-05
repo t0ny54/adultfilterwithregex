@@ -1,49 +1,49 @@
- 471612 com
-  77012 net
-  55752 br
-  38120 de
-  37779 org
-  27364 ru
-  22045 nl
-  18970 info
-  16210 uk
-  12125 fr
-  11335 xyz
-   9315 eu
-   8540 in
-   8449 co
-   7999 it
-   7860 top
-   6864 ch
-   6825 dev
-   6625 es
-   6440 biz
-   6239 jp
-   5949 me
-   5744 pro
+ 471776 com
+  77020 net
+  55759 br
+  38104 de
+  37791 org
+  27370 ru
+  22046 nl
+  19001 info
+  16221 uk
+  12124 fr
+  11345 xyz
+   9314 eu
+   8535 in
+   8438 co
+   8002 it
+   7852 top
+   6868 ch
+   6828 dev
+   6629 es
+   6443 biz
+   6240 jp
+   5952 me
+   5757 pro
    5616 pl
-   5591 xxx
-   5481 cn
-   5255 cc
-   5149 be
-   4964 au
-   4818 tv
+   5593 xxx
+   5477 cn
+   5232 cc
+   5156 be
+   4967 au
+   4819 tv
    4748 sexy
-   4572 cz
-   4500 ca
-   4360 club
+   4573 cz
+   4503 ca
+   4363 club
    4136 ninja
    3966 dk
-   3915 at
-   3841 tr
-   3706 online
-   3679 us
-   3546 hu
-   3518 id
-   3484 mobi
-   3282 se
+   3917 at
+   3843 tr
+   3713 online
+   3680 us
+   3545 hu
+   3515 id
+   3485 mobi
+   3285 se
    2842 ro
-   2334 site
+   2338 site
    2225 sg
    2220 live
    2210 porn
