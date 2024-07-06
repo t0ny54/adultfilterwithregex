@@ -1,47 +1,47 @@
- 471776 com
-  77020 net
-  55759 br
-  38104 de
-  37791 org
-  27370 ru
-  22046 nl
-  19001 info
-  16221 uk
+ 471744 com
+  77014 net
+  55753 br
+  38105 de
+  37793 org
+  27367 ru
+  22045 nl
+  19000 info
+  16216 uk
   12124 fr
-  11345 xyz
-   9314 eu
+  11342 xyz
+   9312 eu
    8535 in
-   8438 co
+   8450 co
    8002 it
    7852 top
    6868 ch
    6828 dev
-   6629 es
-   6443 biz
+   6630 es
+   6441 biz
    6240 jp
-   5952 me
-   5757 pro
-   5616 pl
-   5593 xxx
+   5953 me
+   5755 pro
+   5613 pl
+   5592 xxx
    5477 cn
    5232 cc
    5156 be
    4967 au
    4819 tv
-   4748 sexy
-   4573 cz
+   4747 sexy
+   4574 cz
    4503 ca
-   4363 club
+   4361 club
    4136 ninja
-   3966 dk
+   3965 dk
    3917 at
    3843 tr
-   3713 online
+   3704 online
    3680 us
    3545 hu
    3515 id
-   3485 mobi
-   3285 se
+   3482 mobi
+   3284 se
    2842 ro
    2338 site
    2225 sg
