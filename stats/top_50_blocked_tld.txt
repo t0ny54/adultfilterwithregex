@@ -1,50 +1,50 @@
- 471545 com
-  76995 net
-  55742 br
+ 471526 com
+  76991 net
+  55739 br
   38095 de
-  37783 org
+  37782 org
   27344 ru
   22042 nl
   18991 info
   16209 uk
-  12124 fr
-  11337 xyz
+  12122 fr
+  11336 xyz
    9309 eu
    8534 in
    8435 co
    7999 it
-   7847 top
+   7846 top
    6865 ch
    6816 dev
-   6625 es
-   6441 biz
+   6624 es
+   6440 biz
    6239 jp
    5953 me
    5756 pro
-   5613 pl
+   5612 pl
    5592 xxx
    5475 cn
-   5231 cc
+   5230 cc
    5155 be
    4965 au
    4818 tv
    4746 sexy
    4573 cz
    4501 ca
-   4359 club
+   4358 club
    4136 ninja
    3964 dk
    3916 at
-   3841 tr
-   3694 online
+   3840 tr
+   3688 online
    3679 us
    3545 hu
    3514 id
-   3479 mobi
+   3478 mobi
    3280 se
-   2841 ro
-   2334 site
+   2840 ro
+   2333 site
    2225 sg
-   2217 live
+   2216 live
    2210 porn
    2175 ae
