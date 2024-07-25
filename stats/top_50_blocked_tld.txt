@@ -1,49 +1,49 @@
- 473770 com
-  77273 net
-  55772 br
-  38084 de
-  37903 org
-  27215 ru
-  22042 nl
-  19052 info
-  16232 uk
+ 473703 com
+  77268 net
+  55771 br
+  38083 de
+  37898 org
+  27212 ru
+  22040 nl
+  19051 info
+  16230 uk
   12126 fr
-  11359 xyz
-   9315 eu
-   8549 in
+  11357 xyz
+   9316 eu
+   8548 in
    8452 co
    7999 it
-   7852 top
+   7848 top
    6862 dev
    6852 ch
-   6626 es
-   6447 biz
+   6625 es
+   6446 biz
    6237 jp
    5964 me
-   5779 pro
+   5778 pro
    5614 pl
    5602 xxx
-   5474 cn
-   5258 cc
+   5473 cn
+   5256 cc
    5162 be
    4961 au
    4830 tv
    4752 sexy
-   4576 cz
-   4521 ca
+   4577 cz
+   4520 ca
    4376 club
    4134 ninja
    3969 dk
    3916 at
    3855 tr
-   3760 online
+   3758 online
    3714 us
    3542 hu
    3508 id
    3466 mobi
    3284 se
    2843 ro
-   2373 site
+   2374 site
    2225 sg
    2212 porn
    2190 live
