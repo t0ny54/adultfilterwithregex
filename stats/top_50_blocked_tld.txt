@@ -1,50 +1,50 @@
- 482277 com
-  78032 net
-  56096 br
-  38294 de
-  38269 org
-  27919 ru
-  22056 nl
-  19176 info
-  16409 uk
-  12404 fr
-  11589 xyz
-   9439 eu
-   8646 in
+ 482159 com
+  78025 net
+  56086 br
+  38292 de
+  38268 org
+  27912 ru
+  22055 nl
+  19171 info
+  16410 uk
+  12400 fr
+  11585 xyz
+   9437 eu
+   8645 in
    8541 co
-   8177 top
-   8032 it
+   8170 top
+   8028 it
    6956 dev
    6940 ch
-   6724 es
-   6492 biz
+   6723 es
+   6489 biz
    6258 jp
-   6004 me
-   5845 pro
-   5642 xxx
-   5625 cn
-   5444 pl
-   5392 cc
+   6003 me
+   5841 pro
+   5641 xxx
+   5623 cn
+   5427 pl
+   5391 cc
    5225 be
    5003 au
-   4863 tv
-   4747 sexy
+   4861 tv
+   4744 sexy
    4620 cz
    4578 ca
    4417 club
    4132 ninja
-   4109 tr
+   4108 tr
    3982 dk
    3948 at
-   3896 online
-   3748 us
+   3887 online
+   3747 us
    3580 hu
-   3557 id
+   3556 id
    3467 mobi
-   3272 se
+   3268 se
    2890 ro
-   2543 site
+   2545 site
    2228 sg
-   2228 porn
-   2187 live
+   2227 porn
+   2186 live
    2178 ae
