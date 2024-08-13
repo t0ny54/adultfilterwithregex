@@ -1,49 +1,49 @@
- 481689 com
-  78001 net
-  56051 br
-  38291 de
-  38271 org
-  27820 ru
-  22065 nl
-  19170 info
+ 481825 com
+  78016 net
+  56060 br
+  38296 de
+  38287 org
+  27814 ru
+  22074 nl
+  19175 info
   16394 uk
-  12388 fr
-  12036 xyz
-   9440 eu
-   8642 in
+  12389 fr
+  12045 xyz
+   9463 eu
+   8646 in
    8536 co
-   8197 top
+   8201 top
    8023 it
    6938 ch
    6912 dev
    6711 es
-   6487 biz
+   6493 biz
    6259 jp
-   6001 me
-   5864 pro
+   6002 me
+   5872 pro
    5640 xxx
    5625 cn
-   5416 pl
-   5395 cc
+   5415 pl
+   5396 cc
    5223 be
-   4999 au
-   4864 tv
+   5003 au
+   4868 tv
    4754 sexy
    4618 cz
    4577 ca
-   4566 tr
-   4416 club
+   4567 tr
+   4415 club
    4133 ninja
-   3979 dk
+   3980 dk
    3949 at
-   3894 online
-   3746 us
+   3900 online
+   3749 us
    3578 hu
    3550 id
-   3471 mobi
-   3270 se
+   3474 mobi
+   3295 se
    2882 ro
-   2550 site
+   2560 site
    2229 porn
    2228 sg
    2198 live
