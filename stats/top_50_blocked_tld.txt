@@ -1,50 +1,50 @@
- 464085 com
-  76845 net
-  55430 br
-  37890 de
-  37428 org
-  27273 ru
-  21729 nl
-  18962 info
-  15675 uk
-  11970 fr
-  11544 xyz
+ 464056 com
+  76836 net
+  55431 br
+  37891 de
+  37427 org
+  27260 ru
+  21727 nl
+  18965 info
+  15673 uk
+  11972 fr
+  11549 xyz
    9286 eu
-   8441 in
-   8378 co
+   8439 in
+   8377 co
    7891 top
-   7759 it
+   7760 it
    6788 ch
-   6624 dev
+   6629 dev
    6485 es
-   6446 biz
-   6206 jp
+   6449 biz
+   6205 jp
    5921 me
    5821 pro
    5595 xxx
    5592 cn
-   5314 pl
+   5312 pl
    5293 cc
    5126 be
    4849 au
-   4801 tv
-   4687 sexy
+   4800 tv
+   4676 sexy
    4501 cz
-   4493 tr
+   4492 tr
    4411 ca
    4329 club
    4132 ninja
    3911 dk
    3892 at
-   3655 us
-   3617 online
+   3654 us
+   3619 online
    3513 hu
-   3507 id
-   3455 mobi
+   3504 id
+   3456 mobi
    3213 se
    2838 ro
-   2470 site
+   2482 site
    2224 sg
-   2215 porn
+   2214 porn
    2171 ae
    2165 ng
