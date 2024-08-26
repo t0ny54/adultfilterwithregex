@@ -1,23 +1,23 @@
- 464504 com
-  76859 net
-  55373 br
+ 464435 com
+  76860 net
+  55372 br
   37899 de
-  37425 org
-  27217 ru
-  21716 nl
-  18967 info
+  37424 org
+  27214 ru
+  21714 nl
+  18966 info
   15670 uk
   11952 fr
-  11530 xyz
-   9281 eu
-   8435 in
+  11528 xyz
+   9280 eu
+   8434 in
    8368 co
-   7892 top
+   7893 top
    7748 it
    6794 ch
    6598 dev
    6480 es
-   6442 biz
+   6440 biz
    6205 jp
    5922 me
    5821 pro
@@ -28,7 +28,7 @@
    5124 be
    4828 au
    4811 tv
-   4680 sexy
+   4676 sexy
    4497 cz
    4484 tr
    4407 ca
@@ -37,13 +37,13 @@
    3907 dk
    3892 at
    3656 us
-   3613 online
+   3606 online
    3510 hu
    3499 id
    3459 mobi
-   3211 se
+   3210 se
    2837 ro
-   2464 site
+   2463 site
    2224 sg
    2215 porn
    2171 ae
