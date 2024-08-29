@@ -1,14 +1,14 @@
- 464700 com
-  76889 net
+ 464698 com
+  76890 net
   55387 br
   37913 de
-  37441 org
-  27243 ru
+  37440 org
+  27242 ru
   21710 nl
   18973 info
   15674 uk
   11959 fr
-  11547 xyz
+  11545 xyz
    9282 eu
    8440 in
    8369 co
@@ -20,7 +20,7 @@
    6442 biz
    6205 jp
    5924 me
-   5834 pro
+   5832 pro
    5597 xxx
    5591 cn
    5307 pl
@@ -40,10 +40,10 @@
    3621 online
    3509 hu
    3499 id
-   3463 mobi
+   3462 mobi
    3212 se
    2842 ro
-   2481 site
+   2480 site
    2224 sg
    2216 porn
    2171 ae
