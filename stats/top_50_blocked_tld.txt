@@ -1,50 +1,50 @@
- 465457 com
-  77009 net
-  55453 br
-  37999 de
-  37444 org
-  27269 ru
+ 464951 com
+  76992 net
+  55448 br
+  37993 de
+  37443 org
+  27253 ru
   21791 nl
-  19067 info
-  15768 uk
-  12020 fr
-  11565 xyz
-   9299 eu
-   8484 in
+  19065 info
+  15767 uk
+  12016 fr
+  11552 xyz
+   9295 eu
+   8481 in
    8375 co
-   7902 top
-   7798 it
-   6832 ch
+   7889 top
+   7795 it
+   6833 ch
    6596 dev
-   6513 es
+   6514 es
    6438 biz
-   6215 jp
-   5926 me
-   5861 pro
-   5594 xxx
-   5482 cn
-   5325 pl
-   5273 cc
+   6212 jp
+   5927 me
+   5858 pro
+   5596 xxx
+   5480 cn
+   5322 pl
+   5316 sexy
+   5271 cc
    5139 be
-   4937 sexy
-   4843 au
+   4842 au
    4829 tv
-   4514 cz
-   4501 tr
-   4425 ca
+   4513 cz
+   4502 tr
+   4423 ca
    4326 club
    4133 ninja
    3909 dk
    3907 at
-   3663 us
-   3601 online
-   3525 hu
-   3506 id
-   3388 mobi
-   3233 se
-   2855 ro
-   2486 site
+   3662 us
+   3591 online
+   3523 hu
+   3507 id
+   3390 mobi
+   3232 se
+   2856 ro
+   2484 site
    2227 sg
-   2215 porn
+   2217 porn
    2171 ae
    2164 ng
