@@ -1,49 +1,49 @@
- 455478 com
-  76494 net
-  55018 br
+ 455466 com
+  76498 net
+  55015 br
   37807 de
-  37091 org
-  27306 ru
-  21646 nl
-  18961 info
-  15471 uk
-  15387 fr
-  11547 xyz
-   9175 eu
-   8417 in
-   8307 co
-   7701 top
-   7674 it
-   6742 ch
+  37086 org
+  27312 ru
+  21644 nl
+  18964 info
+  15477 uk
+  15389 fr
+  11542 xyz
+   9174 eu
+   8414 in
+   8310 co
+   7697 top
+   7676 it
+   6743 ch
    6488 dev
-   6411 biz
-   6385 es
+   6409 biz
+   6382 es
    6195 jp
-   5853 me
-   5776 pro
+   5851 me
+   5778 pro
    5586 xxx
-   5564 sexy
-   5465 cn
-   5247 pl
-   5241 cc
+   5566 sexy
+   5464 cn
+   5244 pl
+   5239 cc
    5049 be
-   4798 tv
-   4741 au
-   4470 tr
-   4440 cz
+   4795 tv
+   4743 au
+   4467 tr
+   4441 cz
    4359 ca
    4283 club
    4131 ninja
    3891 dk
    3875 at
-   3623 us
-   3503 hu
-   3493 id
-   3375 mobi
-   3361 online
-   3188 se
-   2825 ro
-   2422 site
+   3624 us
+   3504 hu
+   3492 id
+   3374 mobi
+   3358 online
+   3187 se
+   2824 ro
+   2418 site
    2221 sg
    2212 porn
    2171 ae
