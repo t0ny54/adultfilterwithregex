@@ -1,50 +1,50 @@
- 459853 com
-  76681 net
-  55105 br
+ 459872 com
+  76688 net
+  55103 br
   37834 de
-  37197 org
-  27781 ru
+  37198 org
+  27786 ru
   21700 nl
-  18988 info
+  18989 info
   15618 fr
   15536 uk
-  11604 xyz
+  11602 xyz
    9204 eu
    8436 in
-   8318 co
-   7739 top
+   8316 co
+   7743 top
    7697 it
    6756 ch
    6511 dev
    6417 biz
    6412 es
-   6202 jp
-   5872 me
-   5809 pro
+   6203 jp
+   5874 me
+   5813 pro
    5594 xxx
-   5571 sexy
+   5561 sexy
    5466 cn
-   5261 cc
+   5263 cc
    5254 pl
    5081 be
-   4806 tv
+   4808 tv
    4767 au
-   4475 tr
+   4473 tr
    4449 cz
-   4373 ca
-   4287 club
+   4372 ca
+   4283 club
    4130 ninja
    3898 dk
    3881 at
-   3636 us
+   3635 us
    3519 hu
-   3497 id
+   3498 id
    3404 online
-   3376 mobi
+   3375 mobi
    3177 se
    2832 ro
    2435 site
    2223 sg
    2215 porn
-   2171 ae
+   2172 ae
    2164 ng
