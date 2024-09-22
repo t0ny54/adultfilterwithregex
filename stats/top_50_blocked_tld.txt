@@ -1,30 +1,30 @@
- 459872 com
-  76688 net
-  55103 br
-  37834 de
-  37198 org
-  27786 ru
-  21700 nl
+ 459822 com
+  76687 net
+  55102 br
+  37833 de
+  37196 org
+  27783 ru
+  21701 nl
   18989 info
   15618 fr
   15536 uk
-  11602 xyz
-   9204 eu
+  11601 xyz
+   9203 eu
    8436 in
-   8316 co
-   7743 top
+   8314 co
+   7742 top
    7697 it
    6756 ch
    6511 dev
    6417 biz
    6412 es
    6203 jp
-   5874 me
+   5875 me
    5813 pro
    5594 xxx
-   5561 sexy
+   5552 sexy
    5466 cn
-   5263 cc
+   5262 cc
    5254 pl
    5081 be
    4808 tv
@@ -39,11 +39,11 @@
    3635 us
    3519 hu
    3498 id
-   3404 online
+   3399 online
    3375 mobi
    3177 se
    2832 ro
-   2435 site
+   2433 site
    2223 sg
    2215 porn
    2172 ae
