@@ -1,50 +1,50 @@
- 461805 com
-  76830 net
-  55164 br
-  37887 de
-  37311 org
-  27935 ru
-  21728 nl
-  19009 info
+ 461768 com
+  76827 net
+  55162 br
+  37886 de
+  37307 org
+  27934 ru
+  21727 nl
+  19008 info
   15786 fr
   15639 uk
-  11726 xyz
+  11722 xyz
    9224 eu
-   8447 in
-   8300 co
-   7755 top
+   8446 in
+   8293 co
+   7754 top
    7717 it
    6800 ch
    6547 dev
-   6456 es
-   6415 biz
+   6454 es
+   6413 biz
    6207 jp
-   5888 me
+   5886 me
    5847 pro
-   5597 xxx
+   5596 xxx
    5465 cn
-   5302 cc
+   5301 cc
    5259 pl
    5101 be
-   4814 tv
+   4812 tv
    4794 au
-   4492 tr
+   4491 tr
    4479 cz
    4396 ca
    4296 club
    4130 ninja
    3904 dk
    3897 at
-   3640 us
+   3639 us
    3524 hu
    3504 id
-   3422 online
+   3418 online
    3376 mobi
    3183 se
    2843 ro
-   2510 sexy
-   2448 site
+   2445 site
    2224 sg
    2217 porn
    2172 ae
    2166 ng
+   2064 tk
