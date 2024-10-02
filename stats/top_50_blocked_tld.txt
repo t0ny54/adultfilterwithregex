@@ -1,50 +1,50 @@
- 462187 com
-  76843 net
-  55176 br
+ 462654 com
+  76907 net
+  55159 br
   37885 de
-  37313 org
-  27949 ru
-  21733 nl
-  19016 info
-  15788 fr
-  15641 uk
-  11719 xyz
-   9225 eu
-   8444 in
-   8292 co
-   7758 top
-   7716 it
-   6803 ch
-   6548 dev
-   6453 es
-   6416 biz
-   6207 jp
-   5891 me
-   5856 pro
-   5599 xxx
-   5466 cn
-   5305 cc
-   5265 pl
-   5101 be
-   4813 tv
-   4795 au
+  37328 org
+  27916 ru
+  21696 nl
+  19062 info
+  15790 fr
+  15655 uk
+  11727 xyz
+   9222 eu
+   8457 in
+   8293 co
+   7759 top
+   7714 it
+   6812 ch
+   6547 dev
+   6455 es
+   6427 biz
+   6206 jp
+   5924 me
+   5869 pro
+   5613 xxx
+   5441 cn
+   5320 cc
+   5293 pl
+   5098 be
+   4821 tv
+   4792 au
    4493 tr
-   4479 cz
+   4484 cz
    4396 ca
-   4300 club
+   4312 club
    4130 ninja
-   3903 dk
-   3897 at
-   3645 us
-   3524 hu
-   3505 id
-   3438 online
-   3375 mobi
-   3184 se
+   3902 dk
+   3899 at
+   3648 us
+   3522 hu
+   3503 id
+   3433 online
+   3378 mobi
+   3183 se
    2843 ro
-   2448 site
+   2429 site
+   2225 porn
    2224 sg
-   2218 porn
    2172 ae
-   2166 ng
+   2164 ng
    2064 tk
