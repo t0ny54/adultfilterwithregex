@@ -1,49 +1,49 @@
- 458980 com
-  76925 net
+ 459073 com
+  76941 net
   55153 br
   37876 de
-  37334 org
-  27966 ru
+  37340 org
+  27970 ru
   21698 nl
-  19068 info
-  15796 fr
-  15653 uk
-  11731 xyz
-   9215 eu
+  19070 info
+  15803 fr
+  15655 uk
+  11735 xyz
+   9216 eu
    8464 in
    8283 co
-   7764 top
-   7715 it
+   7772 top
+   7716 it
    6814 ch
-   6553 dev
-   6455 es
-   6431 biz
+   6558 dev
+   6458 es
+   6433 biz
    6207 jp
-   5931 me
+   5942 me
    5876 pro
-   5617 xxx
+   5618 xxx
    5442 cn
-   5325 cc
-   5289 pl
-   5095 be
+   5328 cc
+   5290 pl
+   5100 be
    4822 tv
    4790 au
-   4492 tr
+   4493 tr
    4480 cz
    4396 ca
    4313 club
    4129 ninja
    3904 dk
    3902 at
-   3653 us
+   3655 us
    3522 hu
    3503 id
-   3440 online
-   3376 mobi
+   3455 online
+   3375 mobi
    3186 se
-   2844 ro
-   2429 site
-   2226 porn
+   2846 ro
+   2434 site
+   2227 porn
    2222 sg
    2172 ae
    2165 ng
