@@ -1,32 +1,32 @@
- 459073 com
-  76941 net
+ 459088 com
+  76945 net
   55153 br
   37876 de
-  37340 org
-  27970 ru
+  37343 org
+  27973 ru
   21698 nl
   19070 info
   15803 fr
   15655 uk
   11735 xyz
-   9216 eu
+   9215 eu
    8464 in
-   8283 co
-   7772 top
+   8282 co
+   7774 top
    7716 it
    6814 ch
-   6558 dev
-   6458 es
-   6433 biz
+   6559 dev
+   6459 es
+   6431 biz
    6207 jp
    5942 me
    5876 pro
-   5618 xxx
+   5617 xxx
    5443 cn
    5328 cc
    5290 pl
    5100 be
-   4822 tv
+   4824 tv
    4790 au
    4493 tr
    4480 cz
@@ -38,11 +38,11 @@
    3655 us
    3522 hu
    3503 id
-   3455 online
-   3375 mobi
-   3186 se
+   3452 online
+   3374 mobi
+   3183 se
    2846 ro
-   2434 site
+   2435 site
    2227 porn
    2222 sg
    2172 ae
