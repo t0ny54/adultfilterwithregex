@@ -1,34 +1,34 @@
- 457557 com
-  76861 net
-  55052 br
+ 457508 com
+  76859 net
+  55049 br
   37828 de
   37288 org
-  27907 ru
+  27905 ru
   21652 nl
-  19053 info
+  19051 info
   15744 fr
   15618 uk
-  11714 xyz
+  11712 xyz
    9187 eu
-   8444 in
-   8265 co
-   7761 top
+   8443 in
+   8264 co
+   7759 top
    7685 it
-   6784 ch
+   6783 ch
    6549 dev
    6440 es
    6428 biz
    6210 jp
    5933 me
-   5876 pro
+   5873 pro
    5615 xxx
    5441 cn
-   5325 cc
+   5324 cc
    5274 pl
    5094 be
    4818 tv
    4778 au
-   4478 tr
+   4474 tr
    4456 cz
    4384 ca
    4296 club
@@ -38,11 +38,11 @@
    3654 us
    3515 hu
    3496 id
-   3382 online
-   3362 mobi
+   3369 online
+   3361 mobi
    3157 se
    2838 ro
-   2430 site
+   2425 site
    2242 shop
    2227 porn
    2222 sg
