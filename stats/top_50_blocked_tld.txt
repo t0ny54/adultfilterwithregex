@@ -1,50 +1,50 @@
- 456139 com
-  76744 net
-  54965 br
+ 456256 com
+  76758 net
+  54968 br
   37784 de
-  37220 org
-  27853 ru
-  21630 nl
-  19017 info
-  15718 fr
-  15572 uk
-  11442 xyz
+  37224 org
+  27855 ru
+  21642 nl
+  19020 info
+  15719 fr
+  15573 uk
+  11452 xyz
    9171 eu
-   8422 in
-   8256 co
-   7712 top
+   8425 in
+   8258 co
+   7718 top
    7669 it
-   6771 ch
-   6450 dev
-   6426 es
+   6772 ch
+   6459 dev
+   6427 es
    6415 biz
    6211 jp
    5922 me
-   5859 pro
+   5864 pro
    5615 xxx
    5439 cn
-   5313 cc
-   5264 pl
+   5318 cc
+   5268 pl
    5085 be
-   4810 tv
+   4811 tv
    4771 au
-   4471 tr
-   4443 cz
+   4473 tr
+   4446 cz
    4380 ca
    4285 club
    4129 ninja
    3897 dk
    3888 at
-   3645 us
+   3646 us
    3513 hu
    3496 id
    3357 mobi
-   3319 online
-   3142 se
-   2837 ro
-   2404 site
+   3330 online
+   3143 se
+   2838 ro
+   2410 site
+   2232 shop
    2226 porn
-   2224 shop
    2222 sg
    2172 ae
    2164 ng
