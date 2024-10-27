@@ -1,29 +1,29 @@
- 461920 com
-  77378 net
+ 461930 com
+  77381 net
   55322 br
   38019 de
-  37662 org
-  28627 ru
+  37663 org
+  28636 ru
   21841 nl
   19146 info
   15651 uk
   12013 fr
-  11581 xyz
+  11582 xyz
    9274 eu
    8491 in
    8309 co
    7855 it
    7790 top
    6869 ch
-   6593 dev
+   6594 dev
    6564 es
    6441 biz
    6238 jp
    5948 me
-   5916 pro
+   5913 pro
    5640 xxx
    5447 cn
-   5424 cc
+   5429 cc
    5420 pl
    5148 be
    4843 tv
@@ -38,13 +38,13 @@
    3674 us
    3603 hu
    3526 id
-   3366 online
-   3363 mobi
+   3368 online
+   3362 mobi
    3188 se
    2872 ro
    2451 site
+   2243 shop
    2243 porn
-   2241 shop
    2221 sg
    2173 ae
    2165 ng
