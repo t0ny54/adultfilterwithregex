@@ -1,50 +1,50 @@
- 463045 com
-  77318 net
-  55302 br
-  38006 de
-  37655 org
-  28613 ru
-  21837 nl
-  19135 info
-  15635 uk
-  12016 fr
-  11563 xyz
-   9274 eu
-   8485 in
-   8309 co
-   7854 it
-   7780 top
-   6867 ch
-   6604 dev
-   6562 es
-   6440 biz
+ 462697 com
+  77290 net
+  55298 br
+  38000 de
+  37645 org
+  28586 ru
+  21829 nl
+  19128 info
+  15604 uk
+  12014 fr
+  11545 xyz
+   9268 eu
+   8470 in
+   8304 co
+   7845 it
+   7724 top
+   6866 ch
+   6603 dev
+   6557 es
+   6434 biz
    6237 jp
-   5953 me
-   5918 pro
+   5936 me
+   5896 pro
    5639 xxx
-   5446 cn
-   5425 pl
-   5425 cc
-   5148 be
-   4843 tv
-   4830 au
+   5448 cn
+   5422 pl
+   5421 cc
+   5145 be
+   4841 tv
+   4829 au
    4492 cz
-   4449 ca
-   4334 tr
-   4286 club
+   4450 ca
+   4332 tr
+   4280 club
    4129 ninja
-   3932 dk
-   3930 at
-   3672 us
-   3600 hu
-   3526 id
-   3374 online
-   3361 mobi
-   3184 se
-   2873 ro
-   2453 site
+   3931 at
+   3929 dk
+   3670 us
+   3597 hu
+   3525 id
+   3367 online
+   3359 mobi
+   3183 se
+   2872 ro
+   2448 site
    2245 porn
-   2240 shop
+   2234 shop
    2222 sg
    2173 ae
    2165 ng
