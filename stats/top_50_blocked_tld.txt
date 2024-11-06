@@ -1,50 +1,50 @@
- 471134 com
-  78038 net
-  55735 br
-  38405 de
+ 471226 com
+  78039 net
+  55734 br
+  38408 de
   38064 org
-  29420 ru
+  29432 ru
   21908 nl
-  19454 info
+  19452 info
   15865 uk
   12116 fr
-  11402 xyz
-   9346 eu
+  11400 xyz
+   9347 eu
    8562 in
    8354 co
-   8030 top
+   8032 top
    7992 it
    6926 ch
-   6693 dev
-   6661 es
+   6694 dev
+   6663 es
    6509 biz
-   6256 jp
-   6190 pro
+   6257 jp
+   6193 pro
    6004 me
    5703 pl
    5659 xxx
-   5603 cc
-   5485 cn
-   5183 be
+   5604 cc
+   5486 cn
+   5184 be
    4882 tv
    4878 au
    4533 cz
-   4456 ca
-   4329 club
-   4193 tr
+   4457 ca
+   4330 club
+   4194 tr
    4129 ninja
    3961 at
-   3952 dk
+   3954 dk
    3711 us
    3648 mobi
    3632 hu
    3620 id
-   3495 online
+   3497 online
    3227 se
    2928 ro
-   2446 site
-   2259 porn
+   2445 site
+   2258 porn
    2225 sg
    2173 ae
    2164 ng
-   2094 shop
+   2091 shop
