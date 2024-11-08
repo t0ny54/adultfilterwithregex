@@ -1,50 +1,50 @@
- 471541 com
-  78091 net
-  55753 br
-  38413 de
-  38085 org
-  29440 ru
-  21910 nl
-  19462 info
-  15871 uk
-  12120 fr
-  11432 xyz
-   9355 eu
-   8563 in
-   8357 co
-   8041 top
+ 471679 com
+  78109 net
+  55763 br
+  38417 de
+  38093 org
+  29446 ru
+  21912 nl
+  19466 info
+  15876 uk
+  12121 fr
+  11742 xyz
+   9356 eu
+   8564 in
+   8359 co
+   8043 top
    7995 it
    6926 ch
    6702 dev
-   6666 es
-   6508 biz
-   6258 jp
-   6207 pro
-   6008 me
+   6668 es
+   6511 biz
+   6259 jp
+   6209 pro
+   6009 me
    5707 pl
-   5658 xxx
-   5606 cc
+   5659 xxx
+   5612 cc
    5487 cn
    5185 be
    4883 tv
-   4878 au
+   4879 au
    4538 cz
-   4458 ca
-   4331 club
-   4194 tr
+   4460 ca
+   4332 club
+   4195 tr
    4129 ninja
    3962 at
    3954 dk
    3716 us
    3648 mobi
-   3634 hu
-   3622 id
-   3516 online
-   3227 se
+   3636 hu
+   3624 id
+   3521 online
+   3229 se
    2930 ro
-   2454 site
-   2258 porn
+   2458 site
+   2259 porn
    2225 sg
    2173 ae
    2164 ng
-   2119 shop
+   2127 shop
