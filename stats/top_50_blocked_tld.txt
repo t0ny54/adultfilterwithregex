@@ -1,11 +1,11 @@
- 469503 com
-  78055 net
-  55713 br
+ 469465 com
+  78052 net
+  55712 br
   38411 de
-  38078 org
-  29492 ru
+  38076 org
+  29481 ru
   21897 nl
-  19456 info
+  19457 info
   15867 uk
   12090 fr
   11979 xyz
@@ -16,14 +16,14 @@
    7994 it
    6922 ch
    6702 dev
-   6650 es
-   6505 biz
+   6654 es
+   6504 biz
    6254 jp
    6197 pro
    6005 me
-   5697 pl
+   5696 pl
    5658 xxx
-   5614 cc
+   5612 cc
    5481 cn
    5179 be
    4880 au
@@ -35,16 +35,16 @@
    4129 ninja
    3961 at
    3956 dk
-   3710 us
-   3644 mobi
+   3709 us
+   3643 mobi
    3632 hu
-   3620 id
-   3500 online
+   3621 id
+   3499 online
    3226 se
    2927 ro
-   2433 site
+   2432 site
    2257 porn
    2224 sg
    2173 ae
    2164 ng
-   2105 shop
+   2103 shop
