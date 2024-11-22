@@ -1,50 +1,50 @@
- 469521 com
-  77933 net
-  55596 br
-  38318 de
-  38000 org
-  29263 ru
+ 469460 com
+  77914 net
+  55593 br
+  38317 de
+  37988 org
+  29255 ru
   21883 nl
-  19436 info
+  19434 info
   15840 uk
-  12088 fr
-  11903 xyz
+  12087 fr
+  11898 xyz
    9328 eu
-   8512 in
-   8350 co
-   7992 top
-   7980 it
+   8511 in
+   8349 co
+   7989 top
+   7979 it
    6916 ch
    6704 dev
    6616 es
-   6497 biz
+   6496 biz
    6260 jp
-   6213 pro
-   6001 me
-   5656 xxx
-   5627 pl
+   6191 pro
+   5993 me
+   5655 xxx
+   5626 pl
    5603 cc
    5472 cn
    5158 be
-   4873 tv
+   4872 tv
    4867 au
    4523 cz
    4450 ca
-   4316 club
+   4312 club
    4154 tr
    4128 ninja
    3957 dk
    3955 at
    3705 us
-   3640 mobi
+   3639 mobi
    3626 hu
    3614 id
-   3469 online
-   3229 se
+   3468 online
+   3228 se
    2920 ro
    2401 site
    2255 porn
    2224 sg
    2173 ae
    2164 ng
-   2091 shop
+   2087 shop
