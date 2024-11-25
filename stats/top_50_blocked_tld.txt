@@ -1,48 +1,48 @@
- 469204 com
-  77876 net
-  55592 br
-  38292 de
-  37974 org
-  29206 ru
+ 469215 com
+  77864 net
+  55595 br
+  38295 de
+  37969 org
+  29196 ru
   21881 nl
-  19430 info
-  15831 uk
-  12087 fr
-  11888 xyz
-   9322 eu
-   8504 in
+  19439 info
+  15833 uk
+  12090 fr
+  11893 xyz
+   9321 eu
+   8505 in
    8349 co
-   7981 top
    7980 it
+   7979 top
    6902 ch
-   6710 dev
-   6614 es
-   6495 biz
+   6723 dev
+   6616 es
+   6492 biz
    6259 jp
-   6153 pro
-   5981 me
+   6133 pro
+   5976 me
    5654 xxx
-   5624 pl
-   5618 cc
+   5622 pl
+   5621 cc
    5469 cn
    5158 be
    4871 tv
    4864 au
-   4522 cz
+   4521 cz
    4449 ca
-   4301 club
+   4298 club
    4156 tr
    4128 ninja
-   3958 dk
+   3959 dk
    3956 at
-   3707 us
+   3706 us
    3639 mobi
-   3626 hu
-   3611 id
-   3467 online
+   3625 hu
+   3613 id
+   3468 online
    3225 se
-   2918 ro
-   2394 site
+   2920 ro
+   2398 site
    2255 porn
    2224 sg
    2173 ae
