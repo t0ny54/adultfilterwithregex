@@ -1,37 +1,37 @@
- 469215 com
-  77864 net
-  55595 br
-  38295 de
-  37969 org
-  29196 ru
-  21881 nl
+ 469181 com
+  77846 net
+  55594 br
+  38296 de
+  37963 org
+  29195 ru
+  21882 nl
   19439 info
   15833 uk
   12090 fr
-  11893 xyz
-   9321 eu
-   8505 in
-   8349 co
+  11885 xyz
+   9320 eu
+   8503 in
+   8348 co
    7980 it
-   7979 top
+   7977 top
    6902 ch
    6723 dev
    6616 es
-   6492 biz
+   6491 biz
    6259 jp
-   6133 pro
-   5976 me
+   6119 pro
+   5970 me
    5654 xxx
-   5622 pl
-   5621 cc
+   5621 pl
+   5615 cc
    5469 cn
    5158 be
    4871 tv
    4864 au
    4521 cz
    4449 ca
-   4298 club
-   4156 tr
+   4292 club
+   4157 tr
    4128 ninja
    3959 dk
    3956 at
@@ -39,10 +39,10 @@
    3639 mobi
    3625 hu
    3613 id
-   3468 online
+   3465 online
    3225 se
    2920 ro
-   2398 site
+   2399 site
    2255 porn
    2224 sg
    2173 ae
