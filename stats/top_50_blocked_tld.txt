@@ -1,50 +1,50 @@
- 469181 com
-  77846 net
-  55594 br
-  38296 de
-  37963 org
-  29195 ru
-  21882 nl
-  19439 info
-  15833 uk
-  12090 fr
-  11885 xyz
-   9320 eu
-   8503 in
-   8348 co
+ 469419 com
+  77854 net
+  55596 br
+  38302 de
+  37966 org
+  29219 ru
+  21883 nl
+  19449 info
+  15839 uk
+  12091 fr
+  11907 xyz
+   9321 eu
+   8504 in
+   8349 co
+   7984 top
    7980 it
-   7977 top
    6902 ch
    6723 dev
-   6616 es
-   6491 biz
+   6617 es
+   6494 biz
    6259 jp
-   6119 pro
+   6111 pro
    5970 me
    5654 xxx
-   5621 pl
-   5615 cc
+   5627 pl
+   5622 cc
    5469 cn
    5158 be
-   4871 tv
+   4870 tv
    4864 au
-   4521 cz
+   4523 cz
    4449 ca
-   4292 club
-   4157 tr
+   4293 club
+   4158 tr
    4128 ninja
    3959 dk
    3956 at
-   3706 us
+   3707 us
    3639 mobi
    3625 hu
-   3613 id
-   3465 online
-   3225 se
-   2920 ro
-   2399 site
-   2255 porn
+   3614 id
+   3474 online
+   3226 se
+   2918 ro
+   2408 site
+   2257 porn
    2224 sg
    2173 ae
    2164 ng
-   2066 tk
+   2071 shop
