@@ -1,48 +1,48 @@
- 469419 com
-  77854 net
-  55596 br
-  38302 de
-  37966 org
-  29219 ru
-  21883 nl
+ 469318 com
+  77843 net
+  55603 br
+  38298 de
+  37962 org
+  29206 ru
+  21882 nl
   19449 info
-  15839 uk
-  12091 fr
-  11907 xyz
-   9321 eu
-   8504 in
+  15844 uk
+  12088 fr
+  11886 xyz
+   9319 eu
+   8502 in
    8349 co
-   7984 top
-   7980 it
-   6902 ch
-   6723 dev
-   6617 es
-   6494 biz
-   6259 jp
-   6111 pro
-   5970 me
-   5654 xxx
-   5627 pl
-   5622 cc
-   5469 cn
-   5158 be
+   7979 it
+   7972 top
+   6901 ch
+   6725 dev
+   6619 es
+   6492 biz
+   6258 jp
+   6112 pro
+   5969 me
+   5651 xxx
+   5625 pl
+   5619 cc
+   5467 cn
+   5159 be
    4870 tv
    4864 au
-   4523 cz
-   4449 ca
-   4293 club
-   4158 tr
+   4522 cz
+   4450 ca
+   4292 club
+   4156 tr
    4128 ninja
    3959 dk
-   3956 at
-   3707 us
+   3955 at
+   3706 us
    3639 mobi
-   3625 hu
-   3614 id
-   3474 online
-   3226 se
+   3624 hu
+   3611 id
+   3476 online
+   3228 se
    2918 ro
-   2408 site
+   2407 site
    2257 porn
    2224 sg
    2173 ae
