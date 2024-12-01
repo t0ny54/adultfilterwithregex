@@ -1,9 +1,9 @@
- 469120 com
-  77837 net
+ 469115 com
+  77835 net
   55582 br
-  38293 de
-  37952 org
-  29192 ru
+  38292 de
+  37951 org
+  29191 ru
   21879 nl
   19456 info
   15841 uk
@@ -19,7 +19,7 @@
    6616 es
    6490 biz
    6258 jp
-   6128 pro
+   6126 pro
    5969 me
    5651 xxx
    5632 cc
@@ -39,7 +39,7 @@
    3638 mobi
    3623 hu
    3609 id
-   3480 online
+   3478 online
    3228 se
    2916 ro
    2415 site
