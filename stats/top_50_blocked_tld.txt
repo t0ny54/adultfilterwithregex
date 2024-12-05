@@ -1,50 +1,50 @@
- 466085 com
-  77128 net
-  55561 br
-  38101 de
-  37710 org
-  29109 ru
-  21799 nl
-  19499 info
+ 466027 com
+  77117 net
+  55559 br
+  38098 de
+  37705 org
+  29107 ru
+  21807 nl
+  19485 info
   15740 uk
   12072 fr
-  11993 xyz
-   9233 eu
-   8482 in
+  11987 xyz
+   9232 eu
+   8481 in
    8335 co
-   7981 top
+   7978 top
    7962 it
    6868 ch
    6742 dev
    6582 es
-   6430 biz
+   6429 biz
    6235 jp
-   6109 pro
-   5931 me
-   5625 cc
+   6102 pro
+   5926 me
+   5620 cc
    5612 cn
    5517 xxx
-   5515 pl
+   5514 pl
    5137 be
-   4844 au
+   4845 au
    4804 tv
-   4488 cz
+   4484 cz
    4449 ca
-   4257 club
+   4256 club
    4152 tr
-   4126 ninja
+   4125 ninja
    3940 at
    3774 hu
    3771 dk
-   3754 mobi
+   3749 mobi
    3699 us
    3612 id
-   3474 online
+   3461 online
    3241 se
    2897 ro
-   2423 site
+   2422 site
    2249 porn
    2224 sg
    2173 ae
    2161 ng
-   2068 shop
+   2065 tk
