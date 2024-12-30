@@ -1,48 +1,48 @@
- 469369 com
-  77646 net
-  56008 br
-  38314 de
-  38052 org
-  30189 ru
-  22027 nl
-  19488 info
-  15842 uk
+ 468918 com
+  77598 net
+  55990 br
+  38306 de
+  38028 org
+  30148 ru
+  22022 nl
+  19482 info
+  15833 uk
   12207 fr
-  11881 xyz
-   9397 eu
-   8549 in
-   8406 co
-   8140 it
-   7952 top
-   7160 dev
-   6978 ch
-   6665 es
-   6453 biz
-   6252 jp
-   6157 pro
-   5957 me
-   5949 cc
-   5599 cn
-   5588 pl
-   5207 be
+  11856 xyz
+   9392 eu
+   8550 in
+   8407 co
+   8128 it
+   7945 top
+   7155 dev
+   6975 ch
+   6663 es
+   6449 biz
+   6250 jp
+   6148 pro
+   5955 me
+   5948 cc
+   5598 cn
+   5586 pl
+   5203 be
    5128 xxx
-   4891 au
+   4885 au
    4823 tv
-   4615 cz
-   4517 ca
+   4614 cz
+   4514 ca
    4292 club
-   4182 tr
+   4177 tr
    4124 ninja
    3991 at
    3908 hu
-   3823 mobi
-   3785 dk
-   3715 us
-   3643 id
-   3485 online
-   3300 se
-   2963 ro
-   2456 site
+   3819 mobi
+   3783 dk
+   3714 us
+   3644 id
+   3481 online
+   3294 se
+   2961 ro
+   2449 site
    2225 sg
    2175 ae
    2164 ng
