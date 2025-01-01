@@ -1,48 +1,48 @@
- 468900 com
-  77594 net
-  55990 br
-  38306 de
-  38029 org
+ 468598 com
+  77556 net
+  55942 br
+  38302 de
+  38010 org
   30147 ru
-  22022 nl
-  19482 info
-  15834 uk
-  12207 fr
-  11855 xyz
-   9392 eu
-   8550 in
-   8407 co
+  22025 nl
+  19475 info
+  15824 uk
+  12200 fr
+  11844 xyz
+   9388 eu
+   8546 in
+   8402 co
    8128 it
-   7944 top
-   7155 dev
-   6975 ch
-   6663 es
-   6449 biz
-   6250 jp
-   6147 pro
-   5956 me
-   5948 cc
+   7926 top
+   7184 dev
+   6973 ch
+   6656 es
+   6448 biz
+   6244 jp
+   6143 pro
+   5951 me
+   5947 cc
    5598 cn
-   5585 pl
-   5203 be
+   5580 pl
+   5201 be
    5128 xxx
-   4885 au
-   4823 tv
-   4614 cz
-   4514 ca
-   4292 club
-   4177 tr
+   4880 au
+   4822 tv
+   4610 cz
+   4512 ca
+   4285 club
+   4173 tr
    4124 ninja
-   3991 at
-   3908 hu
-   3817 mobi
+   3990 at
+   3906 hu
+   3815 mobi
    3783 dk
    3714 us
-   3644 id
-   3481 online
-   3293 se
-   2961 ro
-   2449 site
+   3640 id
+   3475 online
+   3291 se
+   2958 ro
+   2444 site
    2225 sg
    2175 ae
    2164 ng
